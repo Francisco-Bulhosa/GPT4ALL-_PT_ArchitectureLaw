@@ -20,3 +20,7 @@ Portuguese-specific embeddings play a crucial role in enhancing the efficacy of 
 
 
 Resources:
+
+
+Author: Francisco Bulhosa Ferreira <br />
+Base inspired by Nicholas Rennote and Venelin Valkov
