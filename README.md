@@ -12,3 +12,11 @@ Langchain <br />
 ChromaDB <br />
 GPT4All <br />
 Streamlit <br />
+
+
+Embeddings:
+
+Portuguese-specific embeddings play a crucial role in enhancing the efficacy of the language model during document interpretation at inference time. However they not widely available, which poses a challenge.  Their utilization contributes significantly to the performance and accuracy of LLMs in processing Portuguese text, ensuring more precise and contextually relevant outcomes.
+
+
+Resources:
