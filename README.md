@@ -9,6 +9,6 @@ Llama 2
 
 Libraries:
 
-Hugging Face
-Langchain
-ChromaDB
+Hugging Face<br />
+Langchain<br />
+ChromaDB<br />
