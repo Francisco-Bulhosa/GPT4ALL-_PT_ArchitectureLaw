@@ -1,14 +1,12 @@
 # GPT4ALL-_PT_ArchitectureLaw
 Using GPT4ALL LLM models to query Portuguese Architectural Laws
 
-Models Used:
+# Models Used:<br />
+Falcon 40B<br />
+GPT-J Groovy<br />
+Llama 2<br />
 
-Falcon 40B
-GPT-J Groovy
-Llama 2
-
-Libraries:
-
+# Libraries:<br />
 Hugging Face<br />
 Langchain<br />
 ChromaDB<br />
