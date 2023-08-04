@@ -14,6 +14,8 @@ from langchain.vectorstores import Chroma
 from pdf2image import convert_from_path
 import streamlit as st 
 import pandas as pd
+from transformers import AutoTokenizer
+
 
 #Path to wheights (file path to model)
 LLM_path = 'C:/Users/franc/Documents/Data_Science/LLM/LLM_Models/ggml-model-gpt4all-falcon-q4_0'
@@ -26,76 +28,55 @@ llm = GPT4All(model = LLM_path, verbose=True)
 
 
 
-
-
-
-
-
-tokenizer = Tokenizer(num_words=100000) # You can adjust the number of words based on your data
-
-# Tokenize the "text" column of your dataframe
-tokenized_df = tokenizer.batch_encode_plus(
-df["text"],
-padding="max_length",
-truncation=True,
-max_length=512,
-return_tensors="pt")
-
-# Create the tokenized dataframe
-tokenized_df = pd.DataFrame(tokenized_df.tolist())
-
-# Use the tokenized dataframe to create the embeddings
-embeddings = HuggingFaceEmbeddings.from_tensor(tokenized_df["input_ids"])
-embeddings = embeddings.to(device)
-
-
-
-
-
-
-
 # Read the CSV file
 file_path = 'C:/Users/franc/Documents/GitHub/LangchainDocuments/pdf_extractions/rgeu.csv'
 df = pd.read_csv(file_path)
+
+
+
+tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+
+
+# Tokenize the "text" column of your dataframe
+tokenized_df = tokenizer.batch_encode_plus(
+    text_list,
+    padding="max_length",
+    truncation=True,
+    max_length=4096,
+    return_tensors="pt",
+)
+
+# Initialize the HuggingFaceEmbeddings model
+model_name = "sentence-transformers/all-MiniLM-L6-v2"
+model_kwargs = {'device': 'cpu'}
+encode_kwargs = {'normalize_embeddings': False}
+hf = HuggingFaceEmbeddings(
+    model_name=model_name,
+    model_kwargs=model_kwargs,
+    encode_kwargs=encode_kwargs
+)
+
+# Extract the "Text" column of your DataFrame to a list
+text_list = df["Text"].tolist()
+
+# Compute the embeddings for the texts using the embed_documents method
+embeddings = hf.embed_documents(texts=text_list)
+
+
 
 # Extract the "Text" column (old method)
 ### texts = df['Text'].tolist()
 
 
 
-# Define a custom encoding scheme that maps the "Article" column to a number
-encoding_scheme = HfEncodingScheme(
-   input_ids=["Article"],
-   output_ids=["Text"],
-   num_output_ids=1,
-   padding="max_length",
-   truncation=True,
-   max_length=100,
-   return_tensors="pt"
-)
-
-# Encode the data using the custom encoding scheme
-encoded_data = encoding_scheme.encode_plus(df, return_tensors="pt")
-
-# Create a HuggingFaceEmbeddings model with the encoded data
-model = HfEmbeddings(encoded_data)
-
-# Get the embeddings for the "Article" column
-embeddings = model.get_embeddings("Article")
-
-
-
-
-
-
-
-
-
 # Create embeddings
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+### embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Store embeddings on chroma
-db = Chroma.from_texts(texts, embeddings, persist_directory="db2")
+db = Chroma.from_texts(
+    texts=text_list, 
+    embeddings, 
+    persist_directory="db2")
 
 
 qa = RetrievalQA.from_chain_type(
