@@ -24,7 +24,6 @@ wait.until(EC.presence_of_element_located((By.XPATH, '//div[contains(@class, "Fr
 artigos_elements = driver.find_elements_by_xpath('//div[contains(@class, "Fragmento_Titulo")]/span')
 text_elements = driver.find_elements_by_xpath('//div[contains(@class, "Fragmento_Texto")]/div/div/div')
 
-
 # Define the path where the CSV file will be saved
 path_to_save = 'scraped_law/law_document.csv'
 
