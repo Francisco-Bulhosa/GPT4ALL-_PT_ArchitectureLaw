@@ -1,0 +1,20 @@
+Artigo 1.º
+1 - É aprovada a delimitação dos perímetros de proteção das captações designadas por Herdade da Minhota 1 e Herdade da Minhota 2, localizadas na União de Freguesias de Aljustrel e Rio de Moinhos, no concelho de Aljustrel, nos termos dos artigos seguintes.
+2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.
+Artigo 2.º
+1 - A zona de proteção imediata respeitante aos perímetros de proteção das captações mencionadas no n.º 1 do artigo anterior corresponde à área delimitada através dos polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo ii à presente portaria, que dela faz parte integrante.
+2 - É interdita qualquer instalação ou atividade nas zonas de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação.
+3 - O terreno abrangido pelas zonas de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação.
+Artigo 3.º
+A planta de localização respeitante aos perímetros de proteção das captações mencionadas no n.º 1 do artigo 1.º consta do anexo iii à presente portaria, que dela faz parte integrante.
+Artigo 4.º
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Anexo I
+Coordenadas das captações(ver documento original)Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+Anexo II
+Zonas de proteção imediata
+Captação Herdade da Minhota 1(ver documento original)Captação Herdade da Minhota 2(ver documento original)
+Anexo III
+Planta de localização das zonas de proteção
+Extrato de BaseMap - World Imagery da ESRI
+Série M888 - 1:25 000 (IGeoE)(ver documento original)115038844
