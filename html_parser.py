@@ -12,12 +12,60 @@ if not os.path.exists('scraped_law'):
 # URL to scrape
 url = 'https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1951-120610500'
 
+import bs4
+import re
+from time import sleep
+from selenium import webdriver
+import lxml
+from bs4 import BeautifulSoup
+
+driver = webdriver.PhantomJS()
+
+driver.get(url)
+sleep(8)
+innerHTML = driver.execute_script("return document.body.innerHTML")
+
+root=bs4.BeautifulSoup(innerHTML,"lxml")
+
+soup = BeautifulSoup(str(root), 'html.parser')
+
+print(root)
+
+
+
+https://diariodarepublica.pt/dr/legislacao-consolidada-pesquisa/urbanism
+
+
+
+text_file = open("sample.txt", "w")
+n = text_file.write(str(soup))
+text_file.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Open the browser and navigate to the page
 driver = webdriver.Chrome()
 driver.get(url)
 
 # Wait for the first "Artigo n.º" element to be present
-wait = WebDriverWait(driver, 8) # 10 seconds timeout
+wait = WebDriverWait(driver, 8) # 8 seconds timeout
 wait.until(EC.presence_of_element_located((By.XPATH, '//div[contains(@class, "Fragmento_Titulo")]/span')))
 
 # Locate the elements containing "Artigo n.º" and law text
