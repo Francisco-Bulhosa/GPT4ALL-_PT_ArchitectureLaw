@@ -1,0 +1,1285 @@
+8440  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+ PRESIDÊNCIA DO CONSELHO DE MINISTROS
+Decreto -Lei n.º 381/2007
+14 de Novembro
+O Regulamento (CE) n.º 1893/2006, do Parlamento 
+Europeu e do Conselho, de 20 de Dezembro, aprovou a 
+Nomenclatura das Actividades Económicas da Comuni-dade Europeia, Revisão 2, abreviadamente designada por NACE — Rev. 2.
+Esta revisão pretende reflectir a evolução tecnológica, 
+as mudanças estruturais na economia e visa assegurar a comparabilidade com a Classificação Internacional Tipo de Actividades, Revisão 4 (CITA — Rev. 4) das Nações Unidas.
+A fiabilidade e comparabilidade dos dados estatís-
+ticos, nacionais e comunitários, exige a interpretação 
+uniforme das várias categorias da nomenclatura das 
+actividades na Comunidade, impondo -se, por isso, a 
+harmonização da Classificação Portuguesa das Activi-
+dades Económicas (CAE — Rev. 2.1), aprovada pelo 
+Decreto -Lei n.º 197/2003, de 27 de Agosto, com a 
+NACE — Rev. 2.
+O presente decreto -lei procede à revisão da Classifica-
+ção Portuguesa de Actividades Económicas, harmonizada 
+com as classificações de actividades da União Europeia e das Nações Unidas, a qual constitui uma estrutura indis-
+pensável ao desenvolvimento e à consolidação do sistema 
+estatístico nacional, quer pelo papel que desempenha na recolha, tratamento, publicação e análise da informação, quer pelo sentido de coerência e de unidade que confere ao sistema.
+O presente decreto -lei regula ainda a transição para a 
+nova classificação de actividades económicas, assegurando 
+à diversidade de utilizadores as condições para uma apli-
+cação mais correcta, integrada e harmonizada dos seus 
+princípios metodológicos e conceptuais.
+Foi ouvido o Conselho Superior de Estatística.Assim:
+Nos termos da alínea  a) do n.º 1 do artigo 198.º da Cons-
+tituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente decreto -lei estabelece a Classificação Por-
+tuguesa de Actividades Económicas, Revisão 3, adiante 
+designada por CAE — Rev. 3, que constitui o quadro co-
+mum de classificação de actividades económicas a adoptar 
+a nível nacional.
+Artigo 2.º
+Estrutura
+A CAE — Rev. 3, constante do anexo do presente 
+decreto -lei, que dele faz parte integrante, apresenta a se-guinte estrutura:
+a) Secções (primeiro nível), que identificam as rubricas 
+através de um código alfabético;
+b) Divisões (segundo nível), que identificam as rubricas 
+através de um código de dois dígitos;
+c) Grupos (terceiro nível), que identificam as rubricas 
+através de um código de três dígitos;
+d) Classes (quarto nível), que identificam as rubricas 
+através de um código de quatro dígitos;e) Subclasses (quinto nível), que identificam as rubricas 
+através de um código de cinco dígitos.
+Artigo 3.º
+Aplicação
+1 — A CAE — Rev. 3 é adoptada de acordo com o 
+programa geral de aplicação, aprovado pelo Conselho 
+Superior de Estatística (CSE).
+2 — O Instituto Nacional de Estatística (INE) promove, 
+imediatamente após a entrada em vigor do presente decreto-
+-lei, a divulgação do programa geral de aplicação e assegura 
+as acções necessárias à transição para a CAE — Rev. 3.
+Artigo 4.º
+Tabelas de equivalência
+1 — O CSE aprova as tabelas de equivalência entre a 
+CAE — Rev. 2.1 e a CAE — Rev. 3 e entre a CAE — Rev. 3 
+e a CAE — Rev. 2.1, elaboradas pelo INE.
+2 — O INE assegura a disponibilização de tabelas 
+de equivalência entre a CAE — Rev.3 e as classifi-
+cações de actividades económicas das organizações 
+internacionais, em especial da União Europeia e das Nações Unidas.
+3 — O INE promove a difusão e a divulgação das tabe-
+las de equivalência e assegura a sua aplicação coordenada.
+Artigo 5.º
+Gestão e coordenação
+1 — O CSE assegura, dentro do âmbito das suas com-
+petências, a gestão e a coordenação da CAE — Rev. 3.
+2 — O INE assegura a difusão e a divulgação da 
+CAE — Rev. 3 e dinamiza as orientações aprovadas pelo CSE sobre esta classificação.
+Artigo 6.º
+Norma revogatória
+É revogado o Decreto -Lei n.º 197/2003, de 27 de 
+Agosto.
+Artigo 7.º
+Entrada em vigor
+A CAE — Rev. 3 entra em vigor em 1 de Janeiro 
+de 2008.
+Visto e aprovado em Conselho de Ministros de 27 de 
+Setembro de 2007. — José Sócrates Carvalho Pinto de 
+Sousa — Fernando Teixeira dos Santos — Manuel Pedro 
+Cunha da Silva Pereira — Francisco Carlos da Graça 
+Nunes Correia — Manuel António Gomes de Almeida 
+de Pinho.
+Promulgado em 26 de Outubro de 2007.Publique -se.O Presidente da República, A
+NÍBAL  CAVA C O  SILV A.
+Referendado em 30 de Outubro de 2007.
+O Primeiro -Ministro, José Sócrates Carvalho Pinto 
+de Sousa.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8441
+Secção Divisão Grupo Classe Subclasse Designação
+A     Agricultura, produção animal, caça, floresta e pesca.
+01    Agricultura, produção animal, caça e actividades dos serviços relacionados.
+  011   Culturas temporárias.   0111  Cerealicultura (excepto arroz), leguminosas secas e sementes oleaginosas.    01111 Cerealicultura (excepto arroz).
+    01112 Cultura de leguminosas secas e sementes oleaginosas.
+   0112 01120 Cultura de arroz.
+   0113 01130 Cultura de produtos hortícolas, raízes e tubérculos.   0114 01140 Cultura de cana -de -açúcar.   0115 01150 Cultura de tabaco.   0116 01160 Cultura de plantas têxteis.   0119 Outras culturas temporárias.
+    01191 Cultura de flores e de plantas ornamentais.
+    01192 Outras culturas temporárias, n. e.
+  012   Culturas permanentes.
+   0121 01210 Viticultura.
+   0122 01220 Cultura de frutos tropicais e subtropicais.   0123 01230 Cultura de citrinos.   0124 01240 Cultura de pomóideas e prunóideas.   0125 Cultura de outros frutos (inclui casca rija), em árvores e arbustos.
+01251 Cultura de frutos de casca rija.
+    01252 Cultura de outros frutos em árvores e arbustos.
+   0126  Cultura de frutos oleaginosos.
+    01261 Olivicultura.
+    01262 Cultura de outros frutos oleaginosos.
+   0127 01270 Cultura de plantas destinadas à preparação de bebidas.
+   0128 01280 Cultura de especiarias, plantas aromáticas, medicinais e farmacêuticas.   0129 01290 Outras culturas permanentes.
+  013 0130 01300 Cultura de materiais de propagação vegetativa.
+  014   Produção animal.
+   0141 01410 Criação de bovinos para produção de leite.
+   0142 01420 Criação de outros bovinos (excepto para produção de leite) e búfalos.   0143 01430 Criação de equinos, asininos e muares.   0144 01440 Criação de camelos e camelídeos.   0145 01450 Criação de ovinos e caprinos.   0146 01460 Suinicultura.   0147 01470 Avicultura.   0149  Outra produção animal.
+    01491 Apicultura.
+    01492 Cunicultura.    01493 Criação de animais de companhia.    01494 Outra produção animal, n. e.
+  015 0150 01500 Agricultura e produção animal combinadas.
+  016   
+Actividades dos serviços relacionados com a agricultura e com a produção 
+animal.
+   0161 01610 Actividades dos serviços relacionados com a agricultura.
+   0162 01620 Actividades dos serviços relacionados com a produção animal, excepto ser-
+viços de veterinária.
+   0163 01630 Preparação de produtos agrícolas para venda.   0164 01640 Preparação e tratamento de sementes para propagação.
+  017 0170  Caça, repovoamento cinegético e actividades dos serviços relacionados.
+    01701 Caça e repovoamento cinegético.
+    01702 Actividades dos serviços relacionados com caça e repovoamento cinegético.
+ 02    Silvicultura e exploração florestal.
+  021 0210 02100 Silvicultura e outras actividades florestais.
+  022 0220 02200 Exploração florestal.  023 0230 02300
+Extracção de cortiça, resina e apanha de outros produtos florestais, excepto 
+madeira.
+  024 0240 02400 Actividades dos serviços relacionados com a silvicultura e exploração florestal.ANEXO
+(a que se refere o artigo 2.º) 8442  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+ 03    Pesca e aquicultura.
+  031   Pesca.   0311  Pesca marítima, apanha de algas e de outros produtos do mar.
+    03111 Pesca marítima.
+    03112 Apanha de algas e de outros produtos do mar.
+   0312  Pesca em águas interiores e apanha de produtos em águas interiores.
+    03121 Pesca em águas interiores.
+    03122 Apanha de produtos em águas interiores.
+  032   Aquicultura.
+   0321 03210 Aquicultura em águas salgadas e salobras.
+   0322 03220 Aquicultura em águas doces.
+B     Indústrias extractivas.
+ 05    Extracção de hulha e lenhite.  051 0510 05100 Extracção de hulha (inclui antracite).
+  052 0520 05200 Extracção de lenhite.
+ 06    Extracção de petróleo bruto e gás natural.
+  061 0610 06100 Extracção de petróleo bruto.
+  062 0620 06200 Extracção de gás natural.
+ 07    Extracção e preparação de minérios metálicos.
+  071 0710 07100 Extracção e preparação de minérios de ferro.
+  072   Extracção e preparação de minérios metálicos não ferrosos.
+   0721 07210 Extracção e preparação de minérios de urânio e de tório.
+   0729 07290 Extracção e preparação de outros minérios metálicos não ferrosos .
+ 08    Outras indústrias extractivas.
+  081   Extracção de pedra, areia e argila.   0811  
+Extracção de rochas ornamentais e de outras pedras para construção, de calcário, 
+de gesso, de cré e de ardósia.
+    08111 Extracção de mármore e outras rochas carbonatadas.
+    08112 Extracção de granito ornamental e rochas similares.    08113 Extracção de calcário e cré.    08114 Extracção de gesso.   08115 Extracção de ardósia.
+   0812  Extracção de saibro, areia e pedra britada; extracção de argilas e caulino.
+   08121 Extracção de saibro, areia e pedra britada.
+   08122 Extracção de argilas e caulino.
+  089   Indústrias extractivas, n. e.
+   0891 08910 Extracção de minerais para a indústria química e para a fabricação de adubos.
+   0892 08920 Extracção da turfa.   0893  Extracção de sal.
+    08931 Extracção de sal marinho.
+    08932 Extracção de sal gema.
+   0899  Outras indústrias extractivas, n. e.
+    08991 Extracção de feldspato.
+    08992 Extracção de outros minerais não metálicos, n. e.
+ 09    Actividades dos serviços relacionados com as indústrias extractivas.
+  091 0910 09100
+Actividades dos serviços relacionados com a extracção de petróleo e gás, excepto 
+a prospecção.
+  099 0990 09900 Outras actividades dos serviços relacionados com as indústrias extractivas.
+C     Indústrias transformadoras.
+ 10    Indústrias alimentares.  101   Abate de animais, preparação e conservação de carne e de produtos à base de 
+carne.
+   1011 10110 Abate de gado (produção de carne).
+   1012 10120 Abate de aves (produção de carne).   1013 10130 Fabricação de produtos à base de carne.
+  102 1020  Preparação e conservação de peixes, crustáceos e moluscos.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8443
+Secção Divisão Grupo Classe Subclasse Designação
+    10201 Preparação de produtos da pesca e da aquicultura.
+    10202 Congelação de produtos da pesca e da aquicultura.    10203 Conservação de produtos da pesca e da aquicultura em azeite e outros óleos 
+vegetais e outros molhos.
+    10204 Salga, secagem e outras actividades de transformação de produtos da pesca 
+e aquicultura.
+  103   Preparação e conservação de frutos e de produtos hortícolas.
+   1031 10310 Preparação e conservação de batatas.
+   1032 10320 Fabricação de sumos de frutos e de produtos hortícolas.   1039  Outra preparação e conservação de frutos e de produtos hortícolas.
+    10391 Congelação de frutos e de produtos hortícolas.
+    10392 Secagem e desidratação de frutos e de produtos hortícolas.    10393 Fabricação de doces, compotas, geleias e marmelada.    10394 Descasque e transformação de frutos de casca rija comestíveis.    10395
+Preparação e conservação de frutos e de produtos hortícolas por outros 
+processos.
+  104   Produção de óleos e gorduras animais e vegetais.
+   1041  Produção de óleos e gorduras.    10411 Produção de óleos e gorduras animais brutos.
+    10412 Produção de azeite.    10413 Produção de óleos vegetais brutos (excepto azeite).    10414 Refinação de azeite, óleos e gorduras.
+   1042 10420 Fabricação de margarinas e de gorduras alimentares similares.  105   Indústria de lacticínios.
+   1051 10510 Indústrias do leite e derivados.
+   1052 10520 Fabricação de gelados e sorvetes.
+  106   Transformação de cereais e leguminosas; fabricação de amidos, de féculas e de 
+produtos afins.
+   1061  Transformação de cereais e leguminosas.    10611 Moagem de cereais.
+    10612 Descasque, branqueamento e outros tratamentos do arroz.    10613 Transformação de cereais e leguminosas, n. e.
+   1062 10620 Fabricação de amidos, féculas e produtos afins.
+  107   Fabricação de produtos de padaria e outros produtos à base de farinha.
+   1071  Panificação e pastelaria.    10711 Panificação.
+    10712 Pastelaria.
+   1072 10720 Fabricação de bolachas, biscoitos, tostas e pastelaria de conservação.
+   1073 10730 Fabricação de massas alimentícias, cuscuz e similares.
+  108   Fabricação de outros produtos alimentares.
+   1081 10810 Indústria do açúcar.
+   1082  Indústria do cacau, do chocolate e dos produtos de confeitaria.
+    10821 Fabricação de cacau e de chocolate.
+    10822 Fabricação de produtos de confeitaria.
+   1083 10830 Indústria do café e do chá.
+   1084 10840 Fabricação de condimentos e temperos.   1085 10850 Fabricação de refeições e pratos pré -cozinhados.
+   1086 10860 Fabricação de alimentos homogeneizados e dietéticos.   1089  Fabricação de outros produtos alimentares, n. e.
+    10891
+Fabricação de fermentos, leveduras e adjuvantes para panificação e pas-
+telaria.
+    10892 Fabricação de caldos, sopas e sobremesas.    10893 Fabricação de outros produtos alimentares diversos, n. e.
+  109   Fabricação de alimentos para animais.
+   1091  Fabricação de alimentos para animais de criação.    10911 Fabricação de pré -misturas.
+    10912
+Fabricação de alimentos para animais de criação (excepto para aquicul-
+tura).
+    10913 Fabricação de alimentos para aquicultura.8444  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+   1092 10920 Fabricação de alimentos para animais de companhia.
+ 11 110   Indústria das bebidas.
+   1101  Fabricação de bebidas alcoólicas destiladas.    11011 Fabricação de aguardentes preparadas.
+    11012 Fabricação de aguardentes não preparadas.    11013 Produção de licores e de outras bebidas destiladas.
+   1102  Indústria do vinho.
+    11021 Produção de vinhos comuns e licorosos.
+    11022 Produção de vinhos espumantes e espumosos.
+   1103 11030 Fabricação de cidra e outras bebidas fermentadas de frutos.
+   1104 11040 Fabricação de vermutes e de outras bebidas fermentadas não destiladas.   1105 11050 Fabricação de cerveja.   1106 11060 Fabricação de malte.   1107  Fabricação de refrigerantes; produção de águas minerais naturais e de outras 
+águas engarrafadas.
+    11071 Engarrafamento de águas minerais naturais e de nascente.
+    11072 Fabricação de refrigerantes e de outras bebidas não alcoólicas, n. e.
+ 12 120 1200 12000 Indústria do tabaco.
+ 13    Fabricação de têxteis.
+  131 1310  Preparação e fiação de fibras têxteis.    13101 Preparação e fiação de fibras do tipo algodão.
+    13102 Preparação e fiação de fibras do tipo lã.    13103
+Preparação e fiação da seda e preparação e texturização de filamentos 
+sintéticos e artificiais.
+    13104 Fabricação de linhas de costura.    13105 Preparação e fiação de linho e outras fibras têxteis.
+  132 1320  Tecelagem de têxteis.
+    13201 Tecelagem de fio do tipo algodão.
+    13202 Tecelagem de fio do tipo lã.    13203 Tecelagem de fio do tipo seda e de outros têxteis.
+  133 1330  Acabamento de têxteis.
+    13301 Branqueamento e tingimento.
+    13302 Estampagem.    13303 Acabamento de fios, tecidos e artigos têxteis, n. e.
+  139   Fabricação de outros têxteis.
+   1391 13910 Fabricação de tecidos de malha.
+   1392 13920 Fabricação de artigos têxteis confeccionados, excepto vestuário.   1393 13930 Fabricação de tapetes e carpetes.   1394  Fabricação de cordoaria e redes.
+    13941 Fabricação de cordoaria.
+    13942 Fabricação de redes.
+   1395 13950 Fabricação de não tecidos e respectivos artigos, excepto vestuário.
+   1396  Fabricação de têxteis para uso técnico e industrial.
+    13961 Fabricação de passamanarias e sirgarias.
+    13962 Fabricação de têxteis para uso técnico e industrial, n. e.
+   1399  Fabricação de outros têxteis, n. e.
+    13991 Fabricação de bordados.
+    13992 Fabricação de rendas.    13993 Fabricação de outros têxteis diversos, n. e.
+ 14    Indústria do vestuário.
+  141   Confecção de artigos de vestuário, excepto artigos de peles com pêlo.   1411 14110 Confecção de vestuário em couro.
+   1412 14120 Confecção de vestuário de trabalho.   1413  Confecção de outro vestuário exterior.
+    14131 Confecção de outro vestuário exterior em série.
+    14132 Confecção de outro vestuário exterior por medida.    14133 Actividades de acabamento de artigos de vestuário.
+   1414 14140 Confecção de vestuário interior.
+   1419 14190 Confecção de outros artigos e acessórios de vestuário.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8445
+Secção Divisão Grupo Classe Subclasse Designação
+  142 1420 14200 Fabricação de artigos de peles com pêlo.
+  143   Fabricação de artigos de malha.
+   1431 14310 Fabricação de meias e similares de malha.
+   1439 14390 Fabricação de outro vestuário de malha.
+ 15    Indústria do couro e dos produtos do couro.
+  151   Curtimenta e acabamento de peles sem pêlo e com pêlo; fabricação de artigos de 
+viagem e de uso pessoal, de marroquinaria, de correeiro e de seleiro.
+   1511  Curtimenta e acabamento de peles sem pêlo e com pêlo.    15111 Curtimenta e acabamento de peles sem pêlo.
+    15112 Fabricação de couro reconstituído.    15113 Curtimenta e acabamento de peles com pêlo.
+   1512 15120 Fabricação de artigos de viagem e de uso pessoal, de marroquinaria, de cor-
+reeiro e de seleiro.
+  152 1520  Indústria do calçado.
+    15201 Fabricação de calçado.
+    15202 Fabricação de componentes para calçado.
+ 16    Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; fabricação de 
+obras de cestaria e de espartaria.
+  161 1610  Serração, aplainamento e impregnação da madeira.    16101 Serração de madeira.
+    16102 Impregnação de madeira.
+  162   Fabricação de artigos de madeira, de cortiça, de espartaria e de cestaria, excepto 
+mobiliário.
+   1621  Fabricação de folheados e painéis à base de madeira.    16211 Fabricação de painéis de partículas de madeira.
+    16212 Fabricação de painéis de fibras de madeira.    16213 Fabricação de folheados, contraplacados, lamelados e de outros painéis.
+   1622 16220 Parqueteria.
+   1623 16230 Fabricação de outras obras de carpintaria para a construção.   1624 16240 Fabricação de embalagens de madeira.   1629  Fabricação de outras obras de madeira, de cestaria e espartaria; indústria da 
+cortiça.
+    16291 Fabricação de outras obras de madeira.
+    16292 Fabricação de obras de cestaria e de espartaria.    16293 Indústria de preparação da cortiça.    16294 Fabricação de rolhas de cortiça.    16295 Fabricação de outros produtos de cortiça.
+ 17    Fabricação de pasta, de papel, cartão e seus artigos.
+  171   Fabricação de pasta, de papel e cartão (excepto canelado).   1711 17110 Fabricação de pasta.
+   1712 17120 Fabricação de papel e de cartão (excepto canelado).
+  172   Fabricação de papel e de cartão canelados e de artigos de papel e de cartão.
+   1721  Fabricação de papel e de cartão canelados e de embalagens de papel e car-
+tão.
+    17211 Fabricação de papel e de cartão canelados (inclui embalagens).
+    17212 Fabricação de outras embalagens de papel e de cartão.
+   1722 17220 Fabricação de artigos de papel para uso doméstico e sanitário.
+   1723 17230 Fabricação de artigos de papel para papelaria.   1724 17240 Fabricação de papel de parede.   1729 17290 Fabricação de outros  artigos de pasta de papel, de papel e de cartão.
+ 18    Impressão e reprodução de suportes gravados.
+  181   Impressão e actividades dos serviços relacionados com a impressão.   1811 18110 Impressão de jornais.
+   1812 18120 Outra impressão.   1813 18130 Actividades de preparação da impressão e de produtos media.
+   1814 18140 Encadernação e actividades relacionadas.
+  182 1820 18200  Reprodução de suportes gravados.
+ 19    Fabricação de coque, de produtos petrolíferos refinados e de aglomerados de com-
+bustíveis.8446  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+  191 1910 19100 Fabricação de produtos de coqueria.
+  192 1920  Fabricação de produtos petrolíferos refinados e de aglomerados de combustíveis.
+    19201 Fabricação de produtos petrolíferos refinados.
+    19202 Fabricação de produtos petrolíferos a partir de resíduos.    19203 Fabricação de briquetes e aglomerados de hulha e lenhite.
+ 20    Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto pro-
+dutos farmacêuticos.
+  201   
+Fabricação de produtos químicos de base, adubos e compostos azotados, matérias 
+plásticas e borracha sintética, sob formas primárias.
+   2011 20110 Fabricação de gases industriais.
+   2012 20120 Fabricação de corantes e pigmentos.   2013 20130 Fabricação de outros produtos químicos inorgânicos de base.   2014  Fabricação de outros produtos químicos orgânicos de base.
+    20141 Fabricação de resinosos e seus derivados.
+    20142 Fabricação de carvão (vegetal e animal) e produtos associados.    20143 Fabricação de álcool etílico de fermentação.    20144 Fabricação de outros produtos químicos orgânicos de base, n. e.
+   2015  Fabricação de adubos e de compostos azotados.
+    20151 Fabricação de adubos químicos ou minerais e de compostos azotados.
+    20152 Fabricação de adubos orgânicos e organo -minerais.
+   2016 20160 Fabricação de matérias plásticas sob formas primárias.
+   2017 20170 Fabricação de borracha sintética sob formas primárias.
+  202 2020 20200 Fabricação de pesticidas e de outros produtos agroquímicos.
+  203 2030  
+Fabricação de tintas, vernizes e produtos similares; mastiques; tintas de im-
+pressão.
+    20301 Fabricação de tintas (excepto impressão), vernizes, mastiques e produtos 
+similares.
+    20302 Fabricação de tintas de impressão.    20303 Fabricação de pigmentos preparados, composições vitrificáveis e afins.
+  204   
+Fabricação de sabões e detergentes, produtos de limpeza e de polimento, perfumes 
+e produtos de higiene.
+   2041  Fabricação de sabões e detergentes, produtos de limpeza e de polimento.    20411 Fabricação de sabões, detergentes e glicerina.
+    20412 Fabricação de produtos de limpeza, polimento e protecção.
+   2042 20420 Fabricação de perfumes, de cosméticos e de produtos de higiene.  205   Fabricação de outros produtos químicos.
+   2051 20510 Fabricação de explosivos e artigos de pirotecnia.
+   2052 20520 Fabricação de colas.   2053 20530 Fabricação de óleos essenciais.   2059  Fabricação de outros produtos químicos, n. e.
+    20591 Fabricação de biodiesel.
+    20592 Fabricação de produtos químicos auxiliares para uso industrial.    20593 Fabricação de óleos e massas lubrificantes, com exclusão da efectuada nas 
+refinarias.
+    20594 Fabricação de outros produtos químicos diversos, n. e.
+  206 2060 20600 Fabricação de fibras sintéticas ou artificiais. 21   Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas.
+  211 2110 21100 Fabricação de produtos farmacêuticos de base.
+  212 2120  Fabricação de preparações farmacêuticas.
+    21201 Fabricação de medicamentos.
+    21202 Fabricação de outras preparações e de artigos farmacêuticos.
+ 22    Fabricação de artigos de borracha e de matérias plásticas.
+  221   Fabricação de artigos de borracha.   2211  Fabricação de pneus e câmaras -de -ar; reconstrução de pneus.
+   22111 Fabricação de pneus e câmaras -de -ar.
+   22112 Reconstrução de pneus.
+   2219  Fabricação de outros produtos de borracha.
+    22191 Fabricação de componentes de borracha para calçado.
+    22192 Fabricação de outros produtos de borracha, n. e.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8447
+Secção Divisão Grupo Classe Subclasse Designação
+  222   Fabricação de artigos de matérias plásticas.
+   2221 22210 Fabricação de chapas, folhas, tubos e perfis de plástico.
+   2222 22220 Fabricação de embalagens de plástico.   2223 22230 Fabricação de artigos de plástico para a construção.   2229  Fabricação de outros artigos de plástico.
+    22291 Fabricação de componentes de plástico para calçado.
+    22292 Fabricação de outros artigos de plástico, n. e.
+ 23    Fabricação de outros produtos minerais não metálicos.
+  231   Fabricação de vidro e artigos de vidro.   2311 23110 Fabricação de vidro plano.
+   2312 23120 Moldagem e transformação de vidro plano.   2313  Fabricação de vidro de embalagem e cristalaria (vidro oco).
+    23131 Fabricação de vidro de embalagem.
+    23132 Cristalaria.
+   2314 23140 Fabricação de fibras de vidro.
+   2319 23190 Fabricação e transformação de outro vidro (inclui vidro técnico).
+  232 2320 23200 Fabricação de produtos cerâmicos refractários.
+  233   Fabricação de produtos cerâmicos para a construção.
+   2331  Fabricação de azulejos, ladrilhos, mosaicos e placas de cerâmica.    23311 Fabricação de azulejos.
+    23312 Fabricação de ladrilhos, mosaicos e placas de cerâmica.
+   2332  Fabricação de tijolos, telhas e de outros produtos cerâmicos para a constru-
+ção.
+    23321 Fabricação de tijolos.
+    23322 Fabricação de telhas.    23323 Fabricação de abobadilhas.    23324 Fabricação de outros produtos cerâmicos para a construção.
+  234   Fabricação de outros produtos de porcelana e cerâmicos não refractários.
+   2341  Fabricação de artigos cerâmicos de uso doméstico e ornamental.    23411 Olaria de barro.
+    23412 Fabricação de artigos de uso doméstico de faiança, porcelana e grés fino.    23413 Fabricação de artigos de ornamentação de faiança, porcelana e grés fino.    23414 Actividades de decoração de artigos cerâmicos de uso doméstico e orna-
+mental.
+   2342 23420 Fabricação de artigos cerâmicos para usos sanitários.
+   2343 23430 Fabricação de isoladores e peças isolantes em cerâmica.   2344 23440 Fabricação de outros produtos em cerâmica para usos técnicos.   2349 23490 Fabricação de outros produtos cerâmicos não refractários.
+  235   Fabricação de cimento, cal e gesso.
+   2351 23510 Fabricação de cimento.
+   2352  Fabricação de cal e gesso.
+   23521 Fabricação de cal.
+   23522 Fabricação de gesso.
+  236   Fabricação de produtos de betão, gesso e cimento.
+   2361 23610 Fabricação de produtos de betão para a construção.
+   2362 23620 Fabricação de produtos de gesso para a construção.   2363 23630 Fabricação de betão pronto.   2364 23640 Fabricação de argamassas.   2365 23650 Fabricação de produtos de fibrocimento.   2369 23690 Fabricação de outros produtos de betão, gesso e cimento.
+  237 2370  
+Serragem, corte e acabamento de rochas ornamentais e de outras pedras de 
+construção.
+    23701 Fabricação de artigos de mármore e de rochas similares.
+    23702 Fabricação de artigos em ardósia (lousa).    23703 Fabricação de artigos de granito e de rochas, n. e.
+  239   Fabricação de produtos abrasivos e de outros produtos minerais não metálicos.
+   2391 23910 Fabricação de produtos abrasivos.
+   2399  Fabricação de outros produtos minerais não metálicos, n. e.
+    23991 Fabricação de misturas betuminosas.
+    23992 Fabricação de outros produtos minerais não metálicos diversos, n. e.8448  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+ 24    Indústrias metalúrgicas de base.
+  241 2410 24100 Siderurgia e fabricação de ferro -ligas.
+  242 2420 24200 Fabricação de tubos, condutas, perfis ocos e respectivos acessórios, de aço.
+  243   Outras actividades da primeira transformação do aço.
+   2431 24310 Estiragem a frio.
+   2432 24320 Laminagem a frio de arco ou banda.   2433 24330 Perfilagem a frio.   2434 24340 Trefilagem a frio.
+  244   Obtenção e primeira transformação de metais preciosos e de outros metais não 
+ferrosos.
+   2441 24410 Obtenção e primeira transformação de metais preciosos.
+   2442 24420 Obtenção e primeira transformação de alumínio.   2443 24430 Obtenção e primeira transformação de chumbo, zinco e estanho.   2444 24440 Obtenção e primeira transformação de cobre.   2445 24450 Obtenção e primeira transformação de outros metais não ferrosos.   2446 24460 Tratamento de combustível nuclear.
+  245   Fundição de metais ferrosos e não ferrosos.
+   2451 24510 Fundição de ferro fundido.
+   2452 24520 Fundição de aço.   2453 24530 Fundição de metais leves.   2454 24540 Fundição de outros metais não ferrosos.
+ 25    Fabricação de produtos metálicos, excepto máquinas e equipamentos.
+  251   Fabricação de elementos de construção em metal.   2511 25110 Fabricação de estruturas de construções metálicas.
+   2512 25120 Fabricação de portas, janelas e elementos similares em metal.
+  252   Fabricação de reservatórios, recipientes, caldeiras e radiadores metálicos para 
+aquecimento central.
+   2521 25210 Fabricação de caldeiras e radiadores para aquecimento central.
+   2529 25290 Fabricação de outros reservatórios e recipientes metálicos.
+  253 2530 25300
+Fabricação de geradores de vapor (excepto caldeiras para aquecimento cen-
+tral).
+  254 2540  Fabricação de armas e munições.
+    25401 Fabricação de armas de caça, de desporto e defesa.
+    25402 Fabricação de armamento.
+  255 2550  Fabricação de produtos forjados, estampados e laminados; metalurgia dos pós.
+    25501 Fabricação de produtos forjados, estampados e laminados.
+    25502 Fabricação de produtos por pulverometalurgia.
+  256   Tratamento e revestimento de metais; actividades de mecânica geral.
+   2561 25610 Tratamento e revestimento de metais.
+   2562 25620 Actividades de mecânica geral.
+  257   Fabricação de cutelaria, ferramentas e ferragens.
+   2571 25710 Fabricação de cutelaria.
+   2572 25720 Fabricação de fechaduras, dobradiças e de outras ferragens.   2573  Fabricação de ferramentas.
+    25731 Fabricação de ferramentas manuais.
+    25732 Fabricação de ferramentas mecânicas.    25733 Fabricação de peças sinterizadas.    25734 Fabricação de moldes metálicos.
+  259   Fabricação de outros produtos metálicos.
+   2591 25910 Fabricação de embalagens metálicas pesadas.
+   2592 25920 Fabricação de embalagens metálicas ligeiras.   2593 Fabricação de produtos de arame, correntes e molas metálicas.
+    25931 Fabricação de produtos de arame.
+    25932 Fabricação de molas.
+    25933 Fabricação de correntes metálicas.
+   2594 25940 Fabricação de rebites, parafusos e porcas.
+   2599  Fabricação de outros produtos metálicos, n. e.
+    25991 Fabricação de louça metálica e artigos de uso doméstico.
+    25992 Fabricação de outros produtos metálicos diversos, n. e.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8449
+Secção Divisão Grupo Classe Subclasse Designação
+ 26    Fabricação de equipamentos informáticos, equipamento para comunicações e pro-
+dutos  electrónicos e ópticos.
+  261 Fabricação de componentes e de placas, electrónicos.
+   2611 26110 Fabricação de componentes electrónicos.
+   2612 26120 Fabricação de placas de circuitos electrónicos.
+  262 2620 26200 Fabricação de computadores e de equipamento periférico.
+  263 2630 26300 Fabricação de aparelhos e de equipamentos para comunicações.  264 2640 26400 Fabricação de receptores de rádio e de televisão e bens de consumo similares.  265   
+Fabricação de instrumentos e aparelhos de medida, verificação e navegação; 
+relógios e material de relojoaria.
+   2651  Fabricação de instrumentos e aparelhos de medida, verificação e navegação.
+    26511 Fabricação de contadores de electricidade, gás, água e de outros líquidos.
+    26512 Fabricação de instrumentos e aparelhos de medida, verificação, navegação 
+e outros fins, n. e.
+   2652 26520 Fabricação de relógios e material de relojoaria.  266 2660 26600 Fabricação de equipamentos de  radiação, electromedicina e electroterapêutico.
+  267 2670  Fabricação de instrumentos e de equipamentos , ópticos e fotográficos.
+    26701 Fabricação de instrumentos e equipamentos ópticos não oftálmicos.
+    26702 Fabricação de material fotográfico e cinematográfico.
+  268 2680 26800 Fabricação de suportes de informação magnéticos e ópticos. 27    Fabricação de equipamento eléctrico.
+  271   Fabricação de motores, geradores e transformadores eléctricos e fabricação de 
+material de distribuição e de controlo para instalações eléctricas.
+   2711 27110 Fabricação de motores, geradores e transformadores eléctricos.
+   2712  
+Fabricação de material de distribuição e de controlo para instalações eléc-
+tricas.
+    27121 Fabricação de material de distribuição e de controlo para instalações eléc-
+tricas de alta tensão.
+    27122 Fabricação de material de distribuição e de controlo para instalações eléc-
+tricas de baixa tensão.
+  272 2720 27200 Fabricação de acumuladores e pilhas.
+  273   Fabricação de fios e cabos isolados e seus acessórios.
+   2731 27310 Fabricação de cabos de fibra óptica.
+   2732 27320 Fabricação de outros fios e cabos eléctricos e electrónicos.   2733 27330 Fabricação de dispositivos e acessórios para instalações eléctricas, de baixa 
+tensão.
+  274 2740 27400 Fabricação de lâmpadas eléctricas e de outro equipamento de iluminação.
+  275   Fabricação de aparelhos para uso doméstico.
+   2751 27510 Fabricação de electrodomésticos.
+   2752 27520 Fabricação de aparelhos não eléctricos para uso doméstico.
+  279 2790 27900 Fabricação de outro equipamento eléctrico.
+ 28    Fabricação de máquinas e de equipamentos, n. e.
+  281   Fabricação de máquinas e de equipamentos para uso geral.   2811 28110
+Fabricação de motores e turbinas, excepto motores para aeronaves, automóveis 
+e motociclos.
+   2812 28120 Fabricação de equipamento hidráulico e pneumático.   2813 28130 Fabricação de outras bombas e compressores.   2814 28140 Fabricação de outras torneiras e válvulas.   2815 28150
+Fabricação de rolamentos, de engrenagens e de outros órgãos de transmis-
+são.
+  282   Fabricação de outras máquinas para uso geral.   2821 28210 Fabricação de fornos e queimadores.
+   2822  Fabricação de equipamento de elevação e de movimentação.
+    28221 Fabricação de ascensores e monta cargas, escadas e passadeiras rolantes.
+    28222 Fabricação de equipamentos de elevação e de movimentação, n. e.
+   2823 28230 Fabricação de máquinas e equipamento de escritório, excepto computadores 
+e equipamento periférico.
+   2824 28240 Fabricação de máquinas -ferramentas portáteis com motor.   2825 28250 Fabricação de equipamento não doméstico para refrigeração e ventilação.   2829  Fabricação de outras máquinas para uso geral n. e.8450  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+    28291 Fabricação de máquinas de acondicionamento e de embalagem.
+    28292 Fabricação de balanças e de outro equipamento para pesagem.    28293 Fabricação de outras máquinas diversas de uso geral, n. e.
+  283 2830 28300
+Fabricação de máquinas e de tractores para a agricultura, pecuária e silvicul-
+tura.
+  284   Fabricação de máquinas -ferramentas, excepto portáteis.
+   2841 28410 Fabricação de máquinas -ferramentas para metais.
+   2849 28490 Fabricação de outras máquinas -ferramentas.
+  289   Fabricação de outras máquinas e equipamento para uso específico.
+   2891 28910 Fabricação de máquinas para a metalurgia.
+   2892 28920 Fabricação de máquinas para as indústrias extractivas e para a construção.   2893 28930 Fabricação de máquinas para as indústrias alimentares, das bebidas e do ta-
+baco.
+   2894 28940 Fabricação de máquinas para as indústrias têxtil, do vestuário e do couro.   2895 28950 Fabricação de máquinas para as indústrias do papel e do cartão.   2896 28960 Fabricação de máquinas para as indústrias do plástico e da borracha.   2899  Fabricação de outras máquinas e equipamento para uso específico, n. e.
+    28991
+Fabricação de máquinas para as indústrias de materiais de construção, 
+cerâmica e vidro.
+    28992 Fabricação de outras máquinas diversas para uso específico, n. e.
+ 29    Fabricação de veículos automóveis, reboques, semi -reboques e componentes para 
+veículos automóveis.
+  291 2910 29100 Fabricação de veículos automóveis.
+  292 2920 29200 Fabricação de carroçarias, reboques e semi -reboques.  293 Fabricação de componentes e acessórios para veículos automóveis.
+   2931 29310 Fabricação de equipamento eléctrico e electrónico para veículos automóveis.
+   2932 29320 Fabricação de outros componentes e acessórios para veículos automóveis.
+ 30    Fabricação de outro equipamento de transporte.
+  301   Construção naval.   3011  Construção de embarcações e estruturas flutuantes, excepto de recreio e des-
+porto.
+    30111 Construção de embarcações metálicas e estruturas flutuantes, excepto de 
+recreio e desporto.
+    30112 Construção de embarcações não metálicas, excepto de recreio e desporto.
+   3012 30120 Construção de embarcações de recreio e desporto.
+  302 3020 30200 Fabricação de material circulante para caminhos -de -ferro.
+  303 3030 30300 Fabricação de aeronaves, de veículos espaciais e equipamento relacionado.  304 3040 30400 Fabricação de veículos militares de combate.  309   Fabricação de equipamento de transporte, n. e.
+   3091 30910 Fabricação de motociclos.
+   3092 30920 Fabricação de bicicletas e veículos para inválidos.   3099 30990 Fabricação de outro equipamento de transporte, n. e.
+ 31 310  Fabricação de mobiliário e de colchões.
+   3101 31010 Fabricação de mobiliário para escritório e comércio.
+   3102 31020 Fabricação de mobiliário de cozinha.   3103 31030 Fabricação de colchoaria.   3109  Fabricação de mobiliário para outros fins.
+    31091 Fabricação de mobiliário de madeira para outros fins.
+    31092 Fabricação de mobiliário metálico para outros fins.    31093 Fabricação de mobiliário de outros materiais para outros fins.    31094 Actividades de acabamento de mobiliário.
+ 32    Outras indústrias transformadoras.
+  321   Fabricação de joalharia, ourivesaria, bijutaria e artigos similares; cunhagem de 
+moedas.
+   3211 32110 Cunhagem de moedas.
+   3212  Fabricação de joalharia, ourivesaria e artigos similares.
+    32121 Fabricação de filigranas.
+    32122 Fabricação de artigos de joalharia e de outros artigos de ourivesaria.    32123 Trabalho de diamantes e de outras pedras preciosas ou semipreciosas para 
+joalharia e uso industrial.
+   3213 32130 Fabricação de bijutarias.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8451
+Secção Divisão Grupo Classe Subclasse Designação
+  322 3220 32200 Fabricação de instrumentos musicais.
+  323 3230 32300 Fabricação de artigos de desporto.  324 3240 32400 Fabricação de jogos e de brinquedos.  325 3250  Fabricação de instrumentos e material médico -cirúrgico.
+    32501 Fabricação de material óptico oftálmico.
+    32502
+Fabricação de material ortopédico e próteses e de instrumentos médico-
+-cirúrgicos.
+  329   Indústrias transformadoras, n. e.
+   3291 32910 Fabricação de vassouras, escovas e pincéis.
+   3299  Outras indústrias transformadoras, n. e.
+    32991 Fabricação de canetas, lápis e similares.
+    32992 Fabricação de fechos de correr, botões e similares.    32993 Fabricação de guarda -sóis e chapéus de chuva.    32994 Fabricação de equipamento de protecção e segurança.    32995 Fabricação de caixões mortuários em madeira.    32996 Outras indústrias transformadoras diversas, n. e.
+ 33    Reparação, manutenção e instalação de máquinas e equipamentos.
+  331   Reparação e manutenção de produtos metálicos, máquinas e equipamentos.   3311 33110
+Reparação e manutenção de produtos metálicos (excepto máquinas e equi-
+pamentos).
+   3312 33120 Reparação e manutenção de máquinas e equipamentos.   3313 33130 Reparação e manutenção de equipamento electrónico e óptico.   3314 33140 Reparação e manutenção de equipamento eléctrico.   3315 33150 Reparação e manutenção de embarcações.   3316 33160 Reparação e manutenção de aeronaves e de veículos espaciais.   3317 33170 Reparação e manutenção de outro equipamento de transporte.   3319 33190 Reparação e manutenção de outro equipamento.
+  332 3320 33200 Instalação de máquinas e de equipamentos industriais.
+D     Electricidade, gás, vapor, água quente e fria e ar frio.
+ 35    Electricidade, gás, vapor, água quente e fria e ar frio.  351   Produção, transporte, distribuição e comércio de electricidade.   3511 Produção de electricidade.    35111 Produção de electricidade de origem hídrica.
+    35112 Produção de electricidade de origem térmica.    35113 Produção de electricidade de origem eólica, geotérmica, solar e de origem, 
+n. e. 
+   3512 35120 Transporte de electricidade.
+   3513 35130 Distribuição de electricidade.   3514 35140 Comércio de electricidade.
+  352   Produção de gás; distribuição de combustíveis gasosos por condutas; comércio 
+de gás por condutas.
+   3521 35210 Produção de gás.
+   3522 35220 Distribuição de combustíveis gasosos por condutas.   3523 35230 Comércio de gás por condutas.
+  353 3530 Produção e distribuição de vapor, água quente e fria e ar frio por conduta; pro-
+dução de gelo.
+    35301 Produção e distribuição de vapor, água quente e fria e ar frio por conduta.
+    35302 Produção de gelo.
+E     Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e des-
+poluição.
+ 36 360 3600 Captação, tratamento e distribuição de água.    36001 Captação e tratamento de água.
+    36002 Distribuição de água.
+ 37 370 3700 Recolha, drenagem e tratamento de águas residuais.
+    37001 Recolha e drenagem de águas residuais.
+    37002 Tratamento de águas residuais.
+ 38    Recolha, tratamento e eliminação de resíduos; valorização de materiais.
+  381   Recolha de resíduos.   3811 Recolha de resíduos não perigosos.8452  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+    38111 Recolha de resíduos inertes.
+    38112 Recolha de outros resíduos não perigosos.
+   3812 38120 Recolha de resíduos perigosos.  382   Tratamento e eliminação de resíduos.
+   3821 Tratamento e eliminação de resíduos não perigosos.    38211 Tratamento e eliminação de resíduos inertes.
+    38212 Tratamento e eliminação de outros resíduos não perigosos.
+   3822 38220 Tratamento e eliminação de resíduos perigosos.  383   Valorização de materiais.
+   3831 Desmantelamento de equipamentos e bens, em fim de vida.    38311 Desmantelamento de veículos automóveis, em fim de vida.
+    38312
+Desmantelamento de equipamentos eléctricos e electrónicos, em fim de 
+vida.
+    38313 Desmantelamento de outros equipamentos e bens, em fim de vida.
+   3832 Valorização de resíduos seleccionados.
+    38321 Valorização de resíduos metálicos.
+    38322 Valorização de resíduos não metálicos.
+ 39 390 3900 39000 Descontaminação e actividades similares.
+F     Construção.
+ 41    Promoção imobiliária (desenvolvimento de projectos de edifícios); construção de 
+edifícios.
+  411 4110 41100 Promoção imobiliária (desenvolvimento de projectos de edifícios).
+  412 4120 41200 Construção de edifícios (residenciais e não residenciais).
+ 42    Engenharia civil.
+  421 Construção de estradas, pontes, túneis, pistas de aeroportos e vias férreas.   4211 42110 Construção de estradas e pistas de aeroportos.
+   4212 42120 Construção de vias férreas.   4213 42130 Construção de pontes e túneis.
+  422
+Construção de redes de transporte de águas, de esgotos, de distribuição de energia, 
+de telecomunicações e de outras redes.
+   4221 42210 Construção de redes de transporte de águas, de esgotos e de outros fluidos.
+   4222 42220 Construção de redes de transporte e distribuição de electricidade e redes de 
+telecomunicações.
+  429 Construção de outras obras de engenharia civil.
+   4291 42910 Engenharia hidráulica.
+   4299 42990 Construção de outras obras de engenharia civil, n. e.
+ 43    Actividades especializadas de construção.
+  431   Demolição e preparação dos locais de construção.   4311 43110 Demolição.
+   4312 43120 Preparação dos locais de construção.   4313 43130 Perfurações e sondagens.
+  432   Instalação eléctrica, de canalizações, de climatização e outras instalações.
+   4321 43210 Instalação eléctrica.
+   4322 Instalação de canalizações e de climatização.
+    43221 Instalação de canalizações.
+    43222 Instalação de climatização.
+   4329 43290 Outras instalações em construções.
+  433   Actividades de acabamento em edifícios.
+   4331 43310 Estucagem.
+   4332 43320 Montagem de trabalhos de carpintaria e de caixilharia.   4333 43330 Revestimento de pavimentos e de paredes.   4334 43340 Pintura e colocação de vidros.   4339 43390 Outras actividades de acabamento em edifícios.
+  439 Outras actividades especializadas de construção.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8453
+Secção Divisão Grupo Classe Subclasse Designação
+   4391 43910 Actividades de colocação de coberturas.
+   4399  Outras actividades especializadas de construção, n. e.
+    43991 Aluguer de equipamento de construção e de demolição, com operador.
+    43992 Outras actividades especializadas de construção diversas, n. e.
+G     Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos.
+ 45    Comércio, manutenção e reparação, de veículos automóveis e motociclos.
+  451Comércio de veículos automóveis.
+   4511 45110Comércio de veículos automóveis ligeiros.
+   4519 45190 Comércio de outros veículos automóveis.
+  452 4520 45200 Manutenção e reparação de veículos automóveis.
+  453 Comércio de peças e acessórios para veículos automóveis.
+   4531 45310 Comércio por grosso de peças e acessórios para veículos automóveis.
+   4532 45320 Comércio a retalho de peças e acessórios para veículos automóveis.
+  454 4540  Comércio, manutenção e reparação de motociclos, de suas peças e acessórios.
+    45401 Comércio por grosso e a retalho de motociclos, de suas peças e acessó-
+rios.
+    45402 Manutenção e reparação de motociclos, de suas peças e acessórios.
+ 46    Comércio por grosso (inclui agentes), excepto de veículos automóveis e motoci-
+clos.
+  461   Agentes do comércio por grosso.   4611 46110
+Agentes do comércio por grosso de matérias -primas agrícolas e têxteis, animais 
+vivos e produtos semi -acabados.
+   4612 46120 Agentes do comércio por grosso de combustíveis, minérios, metais e de pro-
+dutos químicos para a indústria.
+   4613 46130 Agentes do comércio por grosso de madeira e materiais de construção.   4614 46140 Agentes do comércio por grosso de máquinas, equipamento industrial, em-
+barcações e aeronaves.
+   4615 46150
+Agentes do comércio por grosso de mobiliário, artigos para uso doméstico 
+e ferragens.
+   4616 46160 Agentes do comércio por grosso de têxteis, vestuário, calçado e artigos de 
+couro.
+   4617 46170 Agentes do comércio por grosso de produtos alimentares, bebidas e tabaco.   4618 46180 Agentes especializados do comércio por grosso de outros produtos.   4619 46190 Agentes do comércio por grosso misto sem predominância.
+  462   Comércio por grosso de produtos agrícolas brutos e animais vivos.
+   4621  Comércio por grosso de cereais, tabaco e cortiça em bruto, sementes, outras 
+matérias -primas agrícolas e alimentos para animais.
+    46211 Comércio por grosso de alimentos para animais.
+    46212 Comércio por grosso de tabaco em bruto.    46213 Comércio por grosso de cortiça em bruto.    46214
+Comércio por grosso de cereais, sementes, leguminosas, oleaginosas e outras 
+matérias -primas agrícolas.
+   4622 46220 Comércio por grosso de flores e plantas.
+   4623 46230 Comércio por grosso de animais vivos.   4624 46240 Comércio por grosso de peles e couro.
+  463   Comércio por grosso de produtos alimentares, bebidas e tabaco.
+   4631  Comércio por grosso de fruta e de produtos hortícolas.    46311 Comércio por grosso de fruta e de produtos hortícolas, excepto batata.
+    46312 Comércio por grosso de batata.
+   4632 46320 Comércio por grosso de carne e produtos à base de carne.
+   4633  Comércio por grosso de leite e derivados, ovos, azeite, óleos e gorduras ali-
+mentares.
+    46331 Comércio por grosso de leite, seus derivados e ovos.
+    46332 Comércio por grosso de azeite, óleos e gorduras alimentares.
+   4634  Comércio por grosso de bebidas.
+    46341 Comércio por grosso de bebidas alcoólicas.
+    46342 Comércio por grosso de bebidas não alcoólicas.
+   4635 46350 Comércio por grosso de tabaco.
+   4636  Comércio por grosso de açúcar, chocolate e produtos de confeitaria.
+    46361 Comércio por grosso de açúcar.
+    46362 Comércio por grosso de chocolate e de produtos de confeitaria.8454  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+   4637 46370 Comércio por grosso de café, chá, cacau e especiarias.
+   4638  Comércio por grosso de outros produtos alimentares.
+    46381 Comércio por grosso de peixe, crustáceos e moluscos.
+    46382 Comércio por grosso de outros produtos alimentares, n. e.
+   4639 46390 Comércio por grosso não especializado de produtos alimentares, bebidas e 
+tabaco.
+  464   Comércio por grosso de bens de consumo, excepto alimentares, bebidas e ta-
+baco.
+   4641 46410 Comércio por grosso de têxteis.
+   4642  Comércio por grosso de vestuário e calçado.
+    46421 Comércio por grosso de vestuário e de acessórios.
+    46422 Comércio por grosso de calçado.
+   4643 46430 Comércio por grosso de electrodomésticos, aparelhos de rádio e de televi-
+são.
+   4644  Comércio por grosso de louças em cerâmica e em vidro e produtos de lim-
+peza.
+    46441 Comércio por grosso de louças em cerâmica e em vidro.
+    46442 Comércio por grosso de produtos de limpeza.
+   4645 46450 Comércio por grosso de perfumes e de produtos de higiene.
+   4646 46460 Comércio por grosso de produtos farmacêuticos.   4647 46470 Comércio por grosso de móveis para uso doméstico, carpetes, tapetes e arti-
+gos de iluminação.
+   4648 46480 Comércio por grosso de relógios e de artigos de ourivesaria e joalharia.   4649  Outro comércio por grosso de bens de consumo.
+    46491 Comércio por grosso de artigos de papelaria.
+    46492 Comércio por grosso de livros, revistas e jornais.    46493 Comércio por grosso de brinquedos, jogos e artigos de desporto.    46494 Outro comércio por grosso de bens de consumo, n. e.
+  465   Comércio por grosso de equipamento das tecnologias de informação e comu-
+nicação (TIC).
+   4651 46510
+Comércio por grosso de computadores, equipamentos periféricos e programas 
+informáticos.
+   4652 46520 Comércio por grosso de equipamentos electrónicos, de telecomunicações e 
+suas partes.
+  466   Comércio por grosso de outras máquinas, equipamentos e suas partes.
+   4661 46610 Comércio por grosso de máquinas e equipamentos, agrícolas.
+   4662 46620 Comércio por grosso de máquinas -ferramentas.   4663 46630
+Comércio por grosso de máquinas para a indústria extractiva, construção e 
+engenharia civil.
+   4664 46640 Comércio por grosso de máquinas para a indústria têxtil, máquinas de costura 
+e de tricotar.
+   4665 46650 Comércio por grosso de mobiliário de escritório.   4666 46660 Comércio por grosso de outras máquinas e material de escritório.   4669 46690 Comércio por grosso de outras máquinas e equipamentos.
+  467   
+Comércio por grosso de combustíveis, metais, materiais de construção, ferragens 
+e outros produtos n. e.
+   4671 Comércio por grosso de combustíveis sólidos, líquidos, gasosos e produtos 
+derivados.
+    46711 Comércio por grosso de produtos petrolíferos.
+    46712 Comércio por grosso de combustíveis sólidos, líquidos e gasosos, não de-
+rivados do petróleo.
+   4672 46720 Comércio por grosso de minérios e de metais.
+   4673  Comércio por grosso de madeira, de materiais de construção e equipamento 
+sanitário.
+    46731 Comércio por grosso de madeira em bruto e de produtos derivados.
+    46732 Comércio por grosso de materiais de construção (excepto madeira) e equi-
+pamento sanitário.
+   4674 46740 Comércio por grosso de ferragens, ferramentas manuais e artigos para cana-
+lizações e aquecimento.
+   4675 46750 Comércio por grosso de produtos químicos.   4676  Comércio por grosso de outros bens intermédios.
+    46761 Comércio por grosso de fibras têxteis naturais, artificiais e sintéticas.
+    46762 Comércio por grosso de outros bens intermédios, n. e.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8455
+Secção Divisão Grupo Classe Subclasse Designação
+   4677  Comércio por grosso de desperdícios e sucata.
+    46771 Comércio por grosso de sucatas e de desperdícios metálicos.
+    46772 Comércio por grosso de desperdícios têxteis, de cartão e papéis velhos.    46773 Comércio por grosso de desperdícios de materiais, n. e.
+  469 4690 46900 Comércio por grosso não especializado. 47    Comércio a retalho, excepto de veículos automóveis e motociclos.
+  471   Comércio a retalho em estabelecimentos não especializados.   4711  Comércio a retalho em estabelecimentos não especializados, com predomi-
+nância de produtos alimentares, bebidas ou tabaco.
+    47111 Comércio a retalho em supermercados e hipermercados.
+    47112
+Comércio a retalho em outros estabelecimentos não especializados, com 
+predominância de produtos alimentares, bebidas ou tabaco.
+   4719 Comércio a retalho em estabelecimentos não especializados, sem predomi-
+nância de produtos alimentares, bebidas ou tabaco.
+    47191 Comércio a retalho não especializado, sem predominância de produtos 
+alimentares, bebidas ou tabaco, em grandes armazéns e similares.
+    47192 Comércio a retalho em outros estabelecimentos não especializados, sem 
+predominância de produtos alimentares, bebidas ou tabaco.
+  472   Comércio a retalho de produtos alimentares, bebidas e tabaco, em estabeleci-
+mentos especializados.
+   4721 47210 Comércio a retalho de frutas e produtos hortícolas, em estabelecimentos es-
+pecializados.
+   4722 47220 Comércio a retalho de carne e produtos à base de carne, em estabelecimentos 
+especializados.
+   4723 47230 Comércio a retalho de peixe, crustáceos e moluscos, em estabelecimentos 
+especializados.
+   4724 47240 Comércio a retalho de pão, de produtos de pastelaria e de confeitaria, em 
+estabelecimentos especializados.
+   4725 47250 Comércio a retalho de bebidas, em estabelecimentos especializados.   4726 47260 Comércio a retalho de tabaco, em estabelecimentos especializados.   4729  
+Comércio a retalho de outros produtos alimentares, em estabelecimentos 
+especializados.
+    47291 Comércio a retalho de leite e de derivados, em estabelecimentos especia-
+lizados.
+    47292 Comércio a retalho de produtos alimentares, naturais e dietéticos, em esta-
+belecimentos especializados.
+    47293 Outro comércio a retalho de produtos alimentares, em estabelecimentos 
+especializados, n. e.
+  473 4730 47300 Comércio a retalho de combustível para veículos a motor, em estabelecimentos 
+especializados.
+  474   Comércio a retalho de equipamento das tecnologias de informação e comunicação 
+(TIC), em estabelecimentos especializados.
+   4741 47410 Comércio a retalho de computadores, unidades periféricas e programas infor-
+máticos, em estabelecimentos especializados.
+   4742 47420 Comércio a retalho de equipamento de telecomunicações, em estabelecimentos 
+especializados.
+   4743 47430 Comércio a retalho de equipamento áudio -visual, em estabelecimentos es-
+pecializados.
+  475   Comércio a retalho de outro equipamento para uso doméstico, em estabeleci-
+mentos especializados.
+   4751 47510 Comércio a retalho de têxteis, em estabelecimentos especializados.
+   4752  Comércio a retalho de ferragens, tintas, vidros, equipamento sanitário, ladrilhos 
+e similares, em estabelecimentos especializados.
+    47521 Comércio a retalho de ferragens e de vidro plano, em estabelecimentos 
+especializados.
+    47522 Comércio a retalho de tintas, vernizes e produtos similares, em estabeleci-
+mentos especializados.
+    47523 Comércio a retalho de material de bricolage, equipamento sanitário, ladrilhos 
+e materiais similares, em estabelecimentos especializados.
+   4753 47530 Comércio a retalho de carpetes, tapetes, cortinados e revestimentos para paredes 
+e pavimentos, em estabelecimentos especializados
+   4754 47540 Comércio a retalho de electrodomésticos, em estabelecimentos especializa-
+dos.
+   4759  Comércio a retalho de móveis, de artigos de iluminação e de outros artigos para 
+o lar, em estabelecimentos especializados.8456  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+    47591 Comércio a retalho de mobiliário e artigos de iluminação, em estabeleci-
+mentos especializados.
+    47592 Comércio a retalho de louças, cutelaria e de outros artigos similares para 
+uso doméstico, em estabelecimentos especializados.
+    47593 Comércio a retalho de outros artigos para o lar, n. e., em estabelecimentos 
+especializados.
+  476   Comércio a retalho de bens culturais e recreativos, em estabelecimentos espe-
+cializados.
+   4761 47610 Comércio a retalho de livros, em estabelecimentos especializados.
+   4762 47620 Comércio a retalho de jornais, revistas e artigos de papelaria, em estabeleci-
+mentos especializados.
+   4763 47630 Comércio a retalho de discos, CD, DVD, cassetes e similares, em estabeleci-
+mentos especializados.
+   4764 47640 Comércio a retalho de artigos de desporto, de campismo e lazer, em estabele-
+cimentos especializados.
+   4765 47650 Comércio a retalho de jogos e brinquedos, em estabelecimentos especiali-
+zados.
+  477   Comércio a retalho de outros produtos, em estabelecimentos especializados.
+   4771  Comércio a retalho de vestuário, em estabelecimentos especializados.    47711 Comércio a retalho de vestuário para adultos, em estabelecimentos espe-
+cializados.
+    47712
+Comércio a retalho de vestuário para bebés e crianças, em estabelecimentos 
+especializados.
+   4772  Comércio a retalho de calçado e artigos de couro, em estabelecimentos es-
+pecializados.
+    47721 Comércio a retalho de calçado, em estabelecimentos especializados.
+    47722 Comércio a retalho de marroquinaria e artigos de viagem, em estabelecimentos 
+especializados.
+   4773 47730 Comércio a retalho de produtos farmacêuticos, em estabelecimentos espe-
+cializados.
+   4774 47740 Comércio a retalho de produtos médicos e ortopédicos, em estabelecimentos 
+especializados.
+   4775 47750 Comércio a retalho de produtos cosméticos e de higiene, em estabelecimentos 
+especializados.
+   4776 Comércio a retalho de flores, plantas, sementes, fertilizantes, animais de com-
+panhia e respectivos alimentos, em estabelecimentos especializados.
+    47761 Comércio a retalho de flores, plantas, sementes e fertilizantes, em estabe-
+lecimentos especializados.
+    47762 Comércio a retalho de animais de companhia e respectivos alimentos, em 
+estabelecimentos especializados.
+   4777 47770 Comércio a retalho de relógios e de artigos de ourivesaria e joalharia, em 
+estabelecimentos especializados.
+   4778  Comércio a retalho de outros produtos novos, em estabelecimentos especia-
+lizados.
+    47781 Comércio a retalho de máquinas e de outro material de escritório, em esta-
+belecimentos especializados.
+    47782 Comércio a retalho de material óptico, fotográfico, cinematográfico e de 
+instrumentos de precisão, em estabelecimentos especializados.
+    47783 Comércio a retalho de combustíveis para uso doméstico, em estabelecimentos 
+especializados.
+    47784 Comércio a retalho de outros produtos novos, em estabelecimentos espe-
+cializados, n. e.
+   4779 47790 Comércio a retalho de artigos em segunda mão, em estabelecimentos espe-
+cializados.
+  478   Comércio a retalho em bancas, feiras e unidades móveis de venda.
+   4781 47810 Comércio a retalho em bancas, feiras e unidades móveis de venda, de produtos 
+alimentares, bebidas e tabaco.
+   4782 47820 Comércio a retalho em bancas, feiras e unidades móveis de venda, de têxteis, 
+vestuário, calçado, malas e similares.
+   4789 47890 Comércio a retalho em bancas, feiras e unidades móveis de venda , de outros 
+produtos.
+  479   Comércio a retalho não efectuado em estabelecimentos, bancas, feiras ou unidades 
+móveis de venda.
+   4791 47910 Comércio a retalho por correspondência ou via Internet.
+   4799 47990 Comércio a retalho por outros métodos, não efectuado em estabelecimentos, 
+bancas, feiras ou unidades móveis de venda.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8457
+Secção Divisão Grupo Classe Subclasse Designação
+H     Transportes e armazenagem.
+ 49    Transportes terrestres e transportes por oleodutos ou gasodutos.
+  491 4910 49100 Transporte interurbano de passageiros por caminho de ferro.
+  492 4920 49200 Transporte de mercadorias por caminho de ferro.  493   Outros transportes terrestres de passageiros.
+   4931 49310 Transportes terrestres, urbanos e suburbanos, de passageiros.
+   4932 49320 Transporte ocasional de passageiros em veículos ligeiros.   4939 Outros transportes terrestres de passageiros, n. e.
+    49391 Transporte interurbano em autocarros.
+    49392 Outros transportes terrestres de passageiros diversos n. e.
+  494   Transportes rodoviários de mercadorias e actividades de mudanças.
+   4941 49410 Transportes rodoviários de mercadorias.
+   4942 49420 Actividades de mudanças, por via rodoviária.
+  495 4950 49500 Transportes por oleodutos ou gasodutos. 50    Transportes por água.
+  501 5010  Transportes marítimos de passageiros.    50101 Transportes marítimos não costeiros de passageiros.
+    50102 Transportes costeiros e locais de passageiros.
+  502 5020 50200 Transportes marítimos de mercadorias.
+  503 5030 50300 Transportes de passageiros por vias navegáveis interiores.  504 5040 50400 Transportes de mercadorias por vias navegáveis interiores.
+ 51    Transportes aéreos.
+  511 5110 51100 Transportes aéreos de passageiros.
+  512 Transportes aéreos de mercadorias e transportes espaciais.
+   5121 51210 Transportes aéreos de mercadorias.
+   5122 51220 Transportes espaciais.
+ 52    Armazenagem e actividades auxiliares dos transportes (inclui manuseamento).
+  521 5210  Armazenagem.    52101 Armazenagem frigorífica.
+    52102 Armazenagem não frigorífica.
+  522   Actividades auxiliares dos transportes.
+   5221 Actividades auxiliares e de gestão de infra -estruturas dos transportes terres-
+tres.
+    52211 Gestão de infra -estruturas dos transportes terrestres.
+    52212 Assistência a veículos na estrada.    52213 Outras actividades auxiliares dos transportes terrestres.
+   5222 52220 Actividades auxiliares dos transportes por água.
+   5223 52230 Actividades auxiliares dos transportes aéreos.   5224 52240 Manuseamento de carga.   5229  
+Actividades dos agentes transitários, aduaneiros e de outras actividades de 
+apoio ao transporte.
+    52291 Organização do transporte.
+    52292 Agentes aduaneiros e similares de apoio ao transporte.
+ 53    Actividades postais e de courier .
+  531 5310 53100 Actividades postais sujeitas a obrigações do serviço universal.
+  532 5320 53200 Outras actividades postais e de courier .
+I     Alojamento, restauração e similares.
+ 55    Alojamento.
+  551   Estabelecimentos hoteleiros.
+   5511  Estabelecimentos hoteleiros com restaurante.
+    55111 Hotéis com restaurante.
+    55112 Pensões com restaurante.    55113 Estalagens com restaurante.    55114 Pousadas com restaurante.    55115 Motéis com restaurante.    55116 Hotéis -apartamentos com restaurante.    55117 Aldeamentos turísticos com restaurante.    55118 Apartamentos turísticos com restaurante.    55119 Outros estabelecimentos hoteleiros com restaurante.8458  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+   5512  Estabelecimentos hoteleiros sem restaurante.
+    55121 Hotéis sem restaurante.
+    55122 Pensões sem restaurante.    55123 Apartamentos turísticos sem restaurante.    55124 Outros estabelecimentos hoteleiros sem restaurante.
+  552 5520  Residências para férias e outros alojamentos de curta duração.
+    55201 Alojamento mobilado para turistas.
+    55202 Turismo no espaço rural.    55203 Colónias e campos de férias.    55204 Outros locais de alojamento de curta duração.
+  553 5530 55300 Parques de campismo e de caravanismo.
+  559 5590 55900 Outros locais de alojamento.
+ 56    Restauração e similares.
+  561 5610  Restaurantes (inclui actividades de restauração em meios móveis).    56101 Restaurantes tipo tradicional.
+    56102 Restaurantes com lugares ao balcão.    56103 Restaurantes sem serviço de mesa.    56104 Restaurantes típicos.    56105 Restaurantes com espaço de dança.    56106 Confecção de refeições prontas a levar para casa.    56107 Restaurantes, n. e. (inclui actividades de restauração em meios móveis).
+  562   Fornecimento de refeições para eventos e outras actividades de serviço de re-
+feições.
+  5621 56210 Fornecimento de refeições para eventos.
+  5629 56290 Outras actividades de serviço de refeições.
+  563 5630  Estabelecimentos de bebidas.
+    56301 Cafés.
+    56302 Bares.    56303  Pastelarias e casas de chá.    56304 Outros estabelecimentos de bebidas sem espectáculo.    56305 Estabelecimentos de bebidas com espaço de dança.
+J     Actividades de informação e de comunicação.
+ 58    Actividades de edição.
+  581   Edição de livros, de jornais e de outras publicações.   5811 58110 Edição de livros.
+   5812 58120 Edição de listas destinadas a consulta.   5813 58130 Edição de jornais.   5814 58140 Edição de revistas e de outras publicações periódicas.   5819 58190 Outras actividades de edição.
+  582 Edição de programas informáticos.
+   5821 58210 Edição de jogos de computador.
+   5829 58290 Edição de outros programas informáticos.
+ 59    
+Actividades cinematográ ﬁ cas, de vídeo , de produção de programas de televisão, de 
+gravação de som e de edição de música.
+  591   Actividades cinematográficas, de vídeo e de produção de programas de televi-
+são.
+   5911 59110 Produção de filmes, de vídeos e de programas de televisão.
+   5912 59120 Actividades técnicas de pós -produção para filmes, vídeos e programas de 
+televisão.
+   5913 59130 Distribuição de filmes, de vídeos e de programas de televisão.   5914 59140 Projecção de filmes e de vídeos.
+  592 5920 59200 Actividades de gravação de som e edição de música. 60    Actividades de rádio e de televisão.
+  601 6010 60100 Actividades de rádio.
+  602 6020 60200 Actividades de televisão.
+ 61    Telecomunicações.
+  611 6110 61100 Actividades de telecomunicações por fio.
+  612 6120 61200 Actividades de telecomunicações sem fio.  613 6130 61300 Actividades de telecomunicações por satélite.  619 6190 61900 Outras actividades de telecomunicações.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8459
+Secção Divisão Grupo Classe Subclasse Designação
+ 62 620   Consultoria e programação informática e actividades relacionadas.
+   6201 62010 Actividades de programação informática.
+   6202 62020 Actividades de consultoria em informática.   6203 62030 Gestão e exploração de equipamento informático.   6209 62090
+Outras actividades relacionadas com as tecnologias da informação e infor-
+mática.
+ 63    Actividades dos serviços de informação.
+  631   Actividades de processamento de dados, domiciliação de informação e actividades 
+relacionadas; portais web.
+   6311 63110 Actividades de processamento de dados, domiciliação de informação e acti-
+vidades relacionadas.
+   6312 63120 Portais web.
+  639   Outras actividades dos serviços de informação.
+   6391 63910 Actividades de agências de notícias.
+   6399 63990 Outras actividades dos serviços de informação, n. e.
+K     Actividades financeiras e de seguros.
+ 64    Actividades de serviços financeiros, excepto seguros e fundos de pensões.  641   Intermediação monetária.   6411 64110 Banco central.
+   6419 64190 Outra intermediação monetária.
+  642 6420 Actividades das sociedades gestoras de participações sociais.
+    64201 Actividades das sociedades gestoras de participações sociais financeiras.
+    64202
+Actividades das sociedades gestoras de participações sociais não finan-
+ceiras.
+  643 6430  64300 Trusts,  fundos e entidades financeiras similares.
+  649   Outras actividades de serviços financeiros, excepto seguros e fundos de pen-
+sões.
+   6491 64910 Actividades de locação financeira.
+   6492  Outras actividades de crédito.
+    64921 Actividades das instituições financeiras de crédito.
+    64922 Actividades das sociedades financeiras para aquisições a crédito.    64923 Outras actividades de crédito, n. e.
+   6499 Outras actividades de serviços financeiros n. e., excepto seguros e fundos de 
+pensões.
+    64991 Actividades de factoring.
+    64992 Outras actividades de serviços financeiros diversos, n. e., excepto seguros 
+e fundos de pensões.
+ 65    Seguros, resseguros e fundos de pensões, excepto segurança social obrigatória.
+  651   Seguros.   6511  Seguros de vida e outras actividades complementares de segurança social.    65111 Seguros de vida.
+    65112 Outras actividades complementares de segurança social.
+   6512 65120 Seguros não vida.
+  652 6520 65200 Resseguros.
+  653 6530 65300 Fundos de pensões e regimes profissionais complementares.
+ 66    Actividades auxiliares de serviços financeiros e dos seguros.
+  661   
+Actividades auxiliares de serviços financeiros, excepto seguros e fundos de 
+pensões.
+   6611 66110 Administração de mercados financeiros.
+   6612 66120 Actividades de negociação por conta de terceiros em valores mobiliários e 
+outros instrumentos financeiros.
+   6619 66190 Outras actividades auxiliares de serviços financeiros, excepto seguros e fundos 
+de pensões.
+  662   Actividades auxiliares de seguros e de fundos de pensões.
+   6621 66210 Actividades de avaliação de riscos e danos.   6622 66220 Actividades de mediadores de seguros.   6629 66290 Outras actividades auxiliares de seguros e fundos de pensões.  663 6630 66300 Actividades de gestão de fundos.8460  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+L     Actividades imobiliárias.
+ 68    Actividades imobiliárias.  681 6810 68100 Compra e venda de bens imobiliários.
+  682 6820 68200 Arrendamento de bens imobiliários.  683   Actividades imobiliárias por conta de outrem.
+   6831 Mediação e avaliação imobiliária.    68311 Actividades de mediação imobiliária.
+    68312 Actividades de angariação imobiliária.    68313 Actividades de avaliação imobiliária.
+   6832 Administração de imóveis por conta de outrem; administração de condomí-
+nios.
+    68321 Administração de imóveis por conta de outrem.
+    68322 Administração de condomínios.
+M     Actividades de consultoria, científicas, técnicas e similares.
+ 69    
+Actividades jurídicas e de contabilidade.
+  691 6910 Actividades jurídicas e dos cartórios notariais.
+    69101 Actividades jurídicas.
+    69102 Actividades dos cartórios notariais.
+  692 6920 69200 Actividades de contabilidade e auditoria; consultoria fiscal. 70    Actividades das sedes sociais e de consultoria para a gestão.
+  701 7010 70100 Actividades das sedes sociais.
+  702   Actividades de consultoria para os negócios e a gestão.
+   7021 70210 Actividades de relações públicas e comunicação.
+   7022 70220 Outras actividades de consultoria para os negócios e a gestão.
+ 71    Actividades de arquitectura, de engenharia e técnicas afins; actividades de ensaios 
+e de análises técnicas.
+  711   Actividades de arquitectura, de engenharia e técnicas afins.   7111 71110 Actividades de arquitectura.
+   7112 71120 Actividades de engenharia e técnicas afins.
+  712 7120 71200 Actividades de ensaios e análises técnicas. 72    Actividades de investigação científica e de desenvolvimento.
+  721 Investigação e desenvolvimento das ciências físicas e naturais.   7211 72110 Investigação e desenvolvimento em biotecnologia.
+   7219 72190 Outra investigação e desenvolvimento das ciências físicas e naturais.
+  722 7220 72200 Investigação e desenvolvimento das ciências sociais e humanas.
+ 73    Publicidade, estudos de mercado e sondagens de opinião.
+  731   Publicidade.   7311 73110 Agências de publicidade.
+   7312 73120 Actividades de representação nos meios de comunicação.
+  732 7320 73200 Estudos de mercado e sondagens de opinião. 74    Outras actividades de consultoria, científicas, técnicas e similares.
+  741 7410 74100 Actividades de design.
+  742 7420 74200 Actividades fotográficas.  743 7430 74300 Actividades de tradução e interpretação.  749 7490 74900 Outras actividades de consultoria, científicas, técnicas e similares, n. e.
+ 75 750 7500 75000 Actividades veterinárias.
+N     Actividades administrativas e dos serviços de apoio.
+ 77    Actividades de aluguer.  771 Aluguer de veículos automóveis.   7711 77110 Aluguer de veículos automóveis ligeiros.
+   7712 77120 Aluguer de veículos automóveis pesados.
+  772   Aluguer de bens de uso pessoal e doméstico.
+   7721 77210 Aluguer de bens recreativos e desportivos.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8461
+Secção Divisão Grupo Classe Subclasse Designação
+   7722 77220 Aluguer de videocassetes e discos.
+   7729 77290 Aluguer de outros bens de uso pessoal e doméstico.
+  773   Aluguer de outras máquinas e equipamentos.
+   7731 77310 Aluguer de máquinas e equipamentos agrícolas.
+   7732 77320 Aluguer de máquinas e equipamentos para a construção e engenharia civil.   7733 77330 Aluguer de máquinas e equipamentos de escritório (inclui computadores).   7734 77340 Aluguer de meios de transporte marítimo e fluvial.   7735 77350 Aluguer de meios de transporte aéreo.   7739 77390 Aluguer de outras máquinas e equipamentos, n. e.
+  774 7740 77400 Locação de propriedade intelectual e produtos similares, excepto direitos de autor. 78    Actividades de emprego.
+  781 7810 78100 Actividades das empresas de selecção e colocação de pessoal.
+  782 7820 78200 Actividades das empresas de trabalho temporário.  783 7830 78300 Outro fornecimento de recursos humanos.
+ 79    
+Agências de viagem, operadores turísticos, outros serviços de reservas e actividades 
+relacionadas.
+  791   Agências de viagem e operadores turísticos.   7911 79110 Actividades das agências de viagem.
+   7912 79120 Actividades dos operadores turísticos.
+  799 7990 79900 Outros serviços de reservas e actividades relacionadas.
+ 80    Actividades de investigação e segurança.
+  801 8010 80100 Actividades de segurança privada.
+  802 8020 80200 Actividades relacionadas com sistemas de segurança.  803 8030 80300 Actividades de investigação.
+ 81    Actividades relacionadas com edifícios, plantação e manutenção de jardins.
+  811 8110 81100 Actividades combinadas de apoio aos edifícios.
+  812   Actividades de limpeza.
+   8121 81210 Actividades de limpeza geral em edifícios.
+   8122 81220 Outras actividades de limpeza em edifícios e em equipamentos industriais.   8129 Outras actividades de limpeza.
+    81291 Actividades de desinfecção, desratização e similares.
+    81292 Outras actividades de limpeza, n. e.
+  813 8130 81300 Actividades de plantação e manutenção de jardins. 82    Actividades de serviços administrativos e de apoio prestados às empresas.
+  821   Actividades de serviços administrativos e de apoio.   8211 82110 Actividades combinadas de serviços administrativos.
+   8219 82190 Execução de fotocópias, preparação de documentos e outras actividades es-
+pecializadas de apoio administrativo.
+  822 8220 82200 Actividades dos centros de chamadas.
+  823 8230 82300 Organização de feiras, congressos e outros eventos similares.  829   Actividades de serviços de apoio prestados às empresas, n. e.
+   8291 82910 Actividades de cobranças e avaliação de crédito.
+   8292  Actividades de embalagem.
+    82921 Engarrafamento de gases.
+    82922 Outras actividades de embalagem.
+   8299 82990 Outras actividades de serviços de apoio prestados às empresas, n. e.
+O     Administração Pública e defesa; segurança social obrigatória.
+ 84    Administração Pública e defesa; segurança social obrigatória.  841   Administração Pública em geral, económica e social.   8411  Administração Pública em geral.    84111 Administração central.
+    84112 Administração regional autónoma.    84113 Administração local.    84114 Actividades de apoio à Administração Pública.
+   8412  Administração Pública — actividades de saúde, educação, culturais e sociais, 
+excepto segurança social obrigatória.8462  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+    84121 Administração Pública — actividades de saúde.
+    84122 Administração Pública — actividades de educação.    84123
+Administração Pública — actividades da cultura, desporto, recreativas, 
+ambiente, habitação e de outras actividades sociais, excepto segurança social obrigatória.
+   8413 84130 Administração Pública — actividades económicas.  842   
+Negócios estrangeiros, defesa, justiça, segurança, ordem pública e protecção 
+civil.
+   8421 84210 Negócios estrangeiros.
+   8422 84220 Actividades de defesa.   8423 84230 Actividades de justiça.   8424 84240 Actividades de segurança e ordem pública.   8425 84250 Actividades de protecção civil.   8430 84300 Actividades de segurança social obrigatória.
+P     Educação.
+ 85    Educação.  851 8510 85100 Educação pré -escolar.
+  852 8520 Ensino básico (1.º e 2.º ciclos).
+    85201 Ensino básico (1.º ciclo).
+    85202 Ensino básico (2.º ciclo).
+  853   Ensinos básico (3.º ciclo) e secundário.
+   8531 85310 Ensinos básico (3.º ciclo) e secundário geral.
+   8532 85320 Ensinos secundário tecnológico, artístico e profissional.
+  854   Ensinos pós -secundário não superior e superior.
+   8541 85410 Ensino pós -secundário não superior.
+   8542 85420 Ensino superior.
+  855   Outras actividades educativas.
+   8551 85510 Ensinos desportivo e recreativo.
+   8552 85520 Ensino de actividades culturais.   8553 85530 Escolas de condução e pilotagem.   8559  Formação profissional, escolas de línguas e outras actividades educativas.
+    85591 Formação profissional.
+    85592 Escolas de línguas.    85593 Outras actividades educativas, n. e.
+  856 8560 85600 Actividades de serviços de apoio à educação.
+Q     Actividades de saúde humana e apoio social.
+ 86    Actividades de saúde humana.  861 8610 86100 Actividades dos estabelecimentos de saúde com internamento.
+  862   Actividades de prática clínica em ambulatório, de medicina dentária e de odon-
+tologia.
+   8621 86210 Actividades de prática medica de clínica geral, em ambulatório.
+   8622 86220 Actividades de prática medica de clínica especializada, em ambulatório.   8623 86230 Actividades de medicina dentária e odontologia.
+  869 8690  Outras actividades de saúde humana.
+    86901 Laboratórios de análises clínicas.
+    86902 Actividades de ambulâncias.    86903 Actividades de enfermagem.    86904 Centros de recolha e bancos de órgãos.    86905 Actividades termais.    86906 Outras actividades de saúde humana, n. e.
+ 87    Actividades de apoio social com alojamento.
+  871 8710 87100
+Actividades dos estabelecimentos de cuidados continuados integrados, com 
+alojamento.
+  872 8720 87200 Actividades dos estabelecimentos para pessoas com doença do foro mental e do 
+abuso de drogas, com alojamento.
+  873 8730 Actividades de apoio social para pessoas idosas e com deficiência, com aloja-
+mento.
+    87301 Actividades de apoio social para pessoas idosas, com alojamento.
+    87302 Actividades de apoio social para pessoas com deficiência, com aloja-
+mento.Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007  8463
+Secção Divisão Grupo Classe Subclasse Designação
+  879 8790  Outras actividades de apoio social com alojamento.
+    87901 Actividades de apoio social para crianças e jovens, com alojamento.
+    87902 Actividades de apoio social com alojamento, n. e.
+ 88    Actividades de apoio social sem alojamento.
+  881 8810 Actividades de apoio social para pessoas idosas e com deficiência, sem aloja-
+mento.
+    88101 Actividades de apoio social para pessoas idosas, sem alojamento.
+    88102 Actividades de apoio social para pessoas com deficiência, sem aloja-
+mento.
+  889   Outras actividades de apoio social sem alojamento.
+   8891 88910 Actividades de cuidados para crianças, sem alojamento.
+   8899 88990 Outras actividades de apoio social sem alojamento, n. e.
+R     Actividades artísticas, de espectáculos, desportivas e recreativas.
+ 90 900   Actividades de teatro, de música, de dança e outras actividades artísticas e literá-
+rias.
+   9001 90010 Actividades das artes do espectáculo.
+   9002 90020 Actividades de apoio às artes do espectáculo.   9003 90030 Criação artística e literária.   9004 90040 Exploração de salas de espectáculos e actividades conexas.
+ 91 910   Actividades das bibliotecas, arquivos, museus  e outras actividades culturais.
+   9101  Actividades das bibliotecas e arquivos.    91011 Actividades das bibliotecas.
+    91012 Actividades dos arquivos.
+   9102 91020 Actividades dos museus.
+   9103 91030 Actividades dos sítios e monumentos históricos.   9104  
+Actividades dos jardins zoológicos, botânicos e aquários e dos parques e 
+reservas naturais.
+    91041 Actividades dos jardins zoológicos, botânicos e aquários.
+    91042 Actividade dos parques e reservas naturais.
+ 92 920 9200 92000 Lotarias e outros jogos de aposta.
+ 93    Actividades desportivas, de diversão e recreativas.
+  931   Actividades desportivas.   9311 93110 Gestão de instalações desportivas.
+   9312 93120 Actividades dos clubes desportivos.   9313 93130 Actividades de ginásio (fitness) .
+   9319 Outras actividades desportivas.
+    93191 Organismos reguladores das actividades desportivas.
+    93192 Outras actividades desportivas, n. e.
+  932   Actividades de diversão e recreativas.
+   9321 93210 Actividades dos parques de diversão e temáticos.
+   9329  Outras actividades de diversão e recreativas.
+    93291 Actividades tauromáquicas.
+    93292 Actividades dos portos de recreio (marinas).    93293 Organização de actividades de animação turística.    93294 Outras actividades de diversão e recreativas, n. e.
+S     Outras actividades de serviços.
+ 94    Actividades das organizações associativas.  941   Actividades de organizações económicas, patronais e profissionais.   9411 94110 Actividades de organizações económicas e patronais.
+   9412 94120 Actividades de organizações profissionais.
+  942 9420 94200 Actividades de organizações sindicais.
+  949   Outras actividades de organizações associativas.
+   9491 94910 Actividades de organizações religiosas.
+   9492 94920 Actividades de organizações políticas.
+   9499  Outras actividades de organizações associativas, n. e.
+    94991 Associações culturais e recreativas.
+    94992 Associações de defesa do ambiente.    94993 Associações de juventude e de estudantes.    94994 Associações de pais e encarregados de educação.
+    94995 Outras actividades associativas, n. e.8464  Diário da República, 1.ª série — N.º 219 — 14 de Novembro de 2007 
+Secção Divisão Grupo Classe Subclasse Designação
+ 95    Reparação de computadores e de bens de uso pessoal e doméstico.
+  951   Reparação de computadores e de equipamento de comunicação.   9511 95110 Reparação de computadores e de equipamento periférico.
+   9512 95120 Reparação de equipamento de comunicação.
+  952   Reparação de bens de uso pessoal e doméstico.
+   9521 95210 Reparação de televisores e de outros bens de consumo similares.
+   9522 95220 Reparação de electrodomésticos e de outros equipamentos de uso doméstico 
+e para jardim.
+   9523 95230 Reparação de calçado e de artigos de couro.   9524 95240 Reparação de mobiliário e similares , de uso doméstico.
+   9525 95250 Reparação de relógios e de artigos de joalharia.   9529 95290 Reparação de outros bens de uso pessoal e doméstico.
+ 96 960   Outras actividades de serviços pessoais.
+   9601 96010 Lavagem e limpeza a seco de têxteis e peles.
+   9602  Actividades de salões de cabeleireiro e institutos de beleza.
+    96021 Salões de cabeleireiro.
+    96022 Institutos de beleza.
+   9603 96030 Actividades funerárias e conexas.
+   9604 96040 Actividades de bem -estar físico.   9609 Outras actividades de serviços pessoais, n. e.
+    96091 Actividades de tatuagem e similares.
+    96092 Actividades dos serviços para animais de companhia.    96093 Outras actividades de serviços pessoais diversas, n. e.
+T    
+Actividades das famílias empregadoras de pessoal doméstico e actividades de produção 
+das famílias para uso próprio.
+ 97 970 9700 97000 Actividades das famílias empregadoras de pessoal doméstico.
+ 98    Actividades de produção de bens e serviços pelas famílias para uso próprio.
+  981 9810 98100 Actividades de produção de bens pelas famílias para uso próprio.
+  982 9820 98200 Actividades de produção de serviços pelas famílias para uso próprio.
+U     Actividades dos organismos internacionais e outras instituições extraterritoriais.
+ 99 990 9900 99000 Actividades dos organismos internacionais e outras instituições extraterritoriais.
+ MINISTÉRIO DA ADMINISTRAÇÃO INTERNA
+Portaria n.º 1456/2007
+de 14 de Novembro
+A Autoridade Nacional de Segurança Rodoviária 
+(ANSR) veio suceder à Direcção -Geral de Viação (DGV) 
+em matérias referentes às políticas de prevenção e segu-
+rança rodoviárias e de processamento de contra -ordenações, 
+conforme estabelecido no Decreto -Lei n.º 77/2007, de 29 de Março.
+Entre as atribuições que a ANSR prossegue no domínio 
+da prevenção rodoviária, destacam -se a definição das 
+políticas no domínio do trânsito e da segurança rodo-
+viária, a elaboração das estratégias e planos de âmbito 
+nacional, a promoção e o apoio a iniciativas cívicas e 
+a concretização de parcerias com entidades públicas e 
+privadas, designadamente da rede escolar, que fomentem 
+uma cultura de segurança rodoviária e de boas práticas de condução.
+Nos termos do n.º 3 do artigo 2.º do Decreto -Lei 
+n.º 77/2007, de 29 de Março, o regulamento aí referido é 
+aprovado por portaria do membro do Governo responsável 
+pela área da administração interna.Assim:
+Nos termos do n.º 3 do artigo 2.º do Decreto -Lei 
+n.º 77/2007, de 29 de Março, manda o Governo, pelo Mi-
+nistro da Administração Interna, o seguinte:
+Artigo 1.º
+Objecto
+A presente portaria regulamenta a forma como são atri-
+buídas as contribuições financeiras a entidades públicas e 
+privadas sem fins lucrativos pela Autoridade Nacional de Segurança Rodoviária (ANSR), destinadas à promoção e apoio de iniciativas que fomentem uma cultura de segu-rança rodoviária e as boas práticas de condução.
+Artigo 2.º
+Formas de atribuição
+1 — As acções a desenvolver pela ANSR, para a pros-
+secução das políticas públicas na área da prevenção e 
+segurança rodoviária, em parceria com outras entidades pú-
+blicas, obrigam à realização de protocolo entre as partes.
+2 — As acções a desenvolver por entidades privadas 
+que tenham como objectivo o cumprimento de planos ou 
+programas de actividades e outros instrumentos de política 

@@ -1,0 +1,214 @@
+Diário da República, 1.ª série — N.º 66 — 4 de Abril de 2011  1981
+ PRESIDÊNCIA DO CONSELHO DE MINISTROS
+E MINISTÉRIO DA ECONOMIA, DA INOVAÇÃO
+E DESENVOLVIMENTO
+Portaria n.º 131/2011
+de 4 de Abril
+O programa do XVIII Governo Constitucional esta-
+belece como prioridade a continuação das reformas de 
+modernização do Estado, com o objectivo de simplificar 
+a vida dos cidadãos e das empresas. A iniciativa «Licen-
+ciamento zero» visa dar cumprimento a esta prioridade e é 
+um compromisso do Programa SIMPLEX de 2010 e uma das medidas emblemáticas da Agenda Digital 2015.
+Ao longo de cinco anos, o Programa SIMPLEX de-
+monstrou que é possível melhorar a capacidade de resposta 
+da Administração pública, satisfazendo as necessidades 
+dos cidadãos e das empresas de forma mais célere, eficaz 
+e com menos custos, sem com isso desproteger outros 
+valores, como a segurança dos negócios ou a protecção 
+dos consumidores.
+Entre muitas medidas que reduziram custos de contexto 
+para as empresas, destaca -se a iniciativa «Licenciamento 
+zero», destinada a reduzir encargos administrativos supor-
+tados pelos cidadãos e pelas empresas, por via da elimina-
+ção de licenças, autorizações, vistorias e condicionamentos 
+prévios para actividades específicas, substituindo -os por 
+acções sistemáticas de fiscalização a posteriori  e mecanis-
+mos de responsabilização efectiva dos promotores.
+A iniciativa «Licenciamento zero» teve como primei-
+ros passos a aprovação do Decreto -Lei n.º 48/2011, de 1 
+de Abril, ao abrigo das autorizações legislativas conce-
+didas pela Lei n.º 49/2010, de 12 de Novembro, e pelo 
+artigo 147.º da Lei n.º 55 -A/2010, de 31 de Dezembro.
+O referido decreto -lei remetia para portaria dos mem-
+bros do Governo responsáveis pelas áreas da modernização 
+administrativa, das autarquias locais e da economia a re-gulamentação da criação de um balcão único electrónico, 
+designado «Balcão do empreendedor», e os termos da 
+produção faseada de efeitos das disposições legais que 
+pressuponham a existência desse balcão. É essa regula-
+mentação que agora se aprova pela presente portaria.
+Assim, por um lado, estabelece -se a criação do «Balcão 
+do empreendedor» e determinam -se as suas funcionalida-
+des mínimas, o modo de autenticação no balcão e as formas 
+de acesso, prevendo -se um acesso directo, via Internet, e igualmente um acesso presencial, mediado por um inter-mediário, que poderá estar disponível nos municípios ou em outros balcões públicos ou privados.
+Por outro lado, estabelece -se que a produção faseada de 
+efeitos do Decreto -Lei n.º 48/2011, de 1 de Abril, começará 
+por uma fase experimental, limitada a alguns municípios 
+e aos estabelecimentos e actividades de restauração ou 
+de bebidas. Esta fase experimental durará até ao final de 
+2011. Após o termo da fase experimental, os municípios 
+podem aderir livremente a esta iniciativa, devendo essa 
+adesão estar concluída até ao dia 2 de Maio de 2012, data 
+em que o regime do «Licenciamento zero» se aplicará 
+integralmente em todo o território do continente.
+Assim:
+Ao abrigo do disposto no artigo 3.º e no n.º 1 do ar-
+tigo 42.º do Decreto -Lei n.º 48/2011, de 1 de Abril:Manda o Governo, pelos Ministros da Presidência e 
+da Economia, da Inovação e do Desenvolvimento, o se-
+guinte:
+Artigo 1.º
+Objecto
+A presente portaria cria  um balcão único electrónico, 
+designado «Balcão do empreendedor».
+Artigo 2.º
+Âmbito
+O «Balcão do empreendedor» é desenvolvido e gerido pela 
+Agência para a Modernização Administrativa, I. P. (AMA, I. P.), 
+e deve permitir, designadamente, as seguintes funções:
+a) A autenticação dos utilizadores através de certificados 
+digitais, designadamente através do cartão de cidadão;
+b) A consulta dos requisitos aplicáveis às instalações 
+e aos equipamentos dos estabelecimentos comerciais, de 
+prestação de serviços e armazéns para o seu funciona-
+mento, resultantes da legislação e dos actos regulamentares 
+elencados no anexo III do Decreto -Lei n.º 48/2011, os quais 
+devem ser redigidos em linguagem simples e clara;
+c) A consulta dos critérios de ocupação do espaço pú-
+blico e de afixação e inscrição de mensagens publicitárias de natureza comercial;
+d) A consulta do montante das taxas devidas, ou a res-
+pectiva fórmula de cálculo;
+e) O preenchimento electrónico da informação necessá-
+ria à realização das comunicações previstas no Decreto -Lei 
+n.º 48/2011;
+f) Assegurar a ligação às bases de dados referidas no 
+artigo 20.º do Decreto -Lei n.º 48/2011  para a verificação 
+automática da informação referida na alínea anterior, de-
+signadamente a relativa à classificação das actividades 
+económicas (CAE) e dados das pessoas colectivas e sin-gulares;
+g) A actualização da informação relativa à actividade 
+económica quando se verifique desconformidade entre o 
+declarado nas comunicações e os dados constantes da base 
+de dados referida na alínea anterior;
+h) A recolha de informação que permita o contacto entre 
+os serviços competentes, designadamente os municípios e 
+os interessados ou os seus representantes;
+i) A entrega dos documentos necessários à apreciação 
+das comunicações prévias com prazo previstas no Decreto-
+-Lei n.º 48/2011;
+j) A submissão electrónica das comunicações previstas 
+no Decreto -Lei n.º 48/2011;
+l) O pagamento das taxas por via electrónica;
+m) A disponibilização do comprovativo electrónico das 
+comunicações previstas no Decreto -Lei n.º 48/2011;
+n) O acompanhamento do estado dos processos, de-
+signadamente, no caso das comunicações prévias com 
+prazo submetidas ao abrigo do disposto no Decreto -Lei 
+n.º 48/2011 , e a recepção de notificações electrónicas, em 
+área reservada do interessado.
+Artigo 3.º
+Acesso ao «Balcão do empreendedor»
+1 — É possível aceder ao «Balcão do empreendedor» 
+directamente ou de forma mediada.
+2 — O acesso directo é efectuado através do Portal da 
+Empres a, em www.portaldaempresa.pt.1982  Diário da República, 1.ª série — N.º 66 — 4 de Abril de 2011 
+3 — O acesso mediado é efectuado por pessoa acredi-
+tada no sistema informático, que procede à identificação dos interessados e à submissão no «Balcão do empreen-dedor» da informação solicitada.
+4 — O acesso mediado é disponibilizado nas Lojas da 
+Empresa e em outros locais públicos, designadamente nos 
+municípios que o pretendam, ou privados, nos termos a definir por protocolo com a AMA, I. P.
+Artigo 4.º
+Autenticação no acesso directo
+1 — A autenticação electrónica das pessoas singu-
+lares no «Balcão do empreendedor» faz -se mediante a 
+utilização do certificado digital associado ao cartão de cidadão.
+2 — A autenticação electrónica dos membros dos 
+órgãos sociais de uma sociedade no «Balcão do em-
+preendedor» faz -se mediante a utilização do certificado 
+digital associado ao cartão de cidadão e a indicação 
+do código de acesso à certidão permanente do registo comercial.
+3 — A autenticação electrónica de advogados, solici-
+tadores e notários faz -se, nomeadamente, mediante certi-ficado digital que comprove a qualidade profissional do utilizador.
+4 — Para efeitos do disposto no número anterior, apenas 
+são admitidos os certificados digitais de advogados, soli-
+citadores e notários cuja utilização para fins profissionais 
+seja confirmada através de listas electrónicas de certifica-
+dos, disponibilizadas, respectivamente, pela Ordem dos 
+Advogados, pela Câmara dos Solicitadores e pela Ordem dos Notários.
+5 — A prova da qualidade de representante voluntário 
+faz -se mediante a indicação do código de acesso à procu-ração online .
+Artigo 5.º
+Fase experimental
+1 — A produção de efeitos de forma faseada do Decreto-
+-Lei n.º 48/2011, nos termos do n.º 1 do artigo 42.º, inicia-
+-se por uma experiência limitada aos estabelecimentos e 
+actividades de restauração ou de bebidas.
+2 — A adesão de municípios na fase experimental é for-
+malizada através de protocolo a celebrar com a AMA, I. P., 
+ouvida a Direcção -Geral das Actividades Económicas 
+(DGAE).
+3 — A fase experimental termina em 31 de Dezembro 
+de 2011.
+Artigo 6.º
+Adesão dos municípios ao «Balcão do empreendedor»
+1 — Os municípios podem aderir ao «Balcão do empre-
+endedor» após o termo da fase experimental.
+2 — A adesão deve ser comunicada à AMA, I. P., 
+para que sejam criadas as condições necessárias à sua 
+efectivação, designadamente a criação de utilizado-
+res para acederem ao «Balcão do empreendedor» e 
+procederem à inserção da informação específica do 
+município.
+3 — A efectivação da adesão deve ocorrer no prazo 
+máximo de 30 dias após a referida comunicação.
+4 — A adesão dos restantes municípios deve realizar -se 
+até ao dia 2 de Maio de 2012.Artigo 7.º
+Produção de efeitos do Decreto -Lei n.º 48/2011
+1 — Sem prejuízo do disposto nos artigos 5.º e 6.º da 
+presente portaria, o Decreto -Lei n.º 48/2011 aplica -se aos estabelecimentos e às actividades referidas nos n.
+os 1 a 3 
+e 5 do artigo 2.º e no artigo 6.º do referido decreto -lei a partir do dia 2 de Maio de 2012.
+2 — O disposto no número anterior não prejudica a ime-
+diata aplicação das disposições do Decreto -Lei n.º 48/2011  
+que pressuponham a existência do «Balcão do empreen-
+dedor» aos estabelecimentos e às actividades localizadas 
+nos municípios que participem na fase experimental ou 
+que adiram ao «Balcão do empreendedor» nos termos dos 
+artigos 5.º e 6.º da presente portaria.
+3 — As disposições do Decreto -Lei n.º 48/2011, que 
+não pressuponham a existência do «Balcão do empreende-
+dor», designadamente aquelas que prevêem a eliminação do licenciamento da actividade das agências de venda de bilhetes para espectáculos públicos e do licenciamento do 
+exercício da actividade de realização de leilões, produzem 
+efeitos a partir de 2 de Maio de 2011.
+4 — A utilização de um edifício ou de suas fracções para 
+efeitos de instalação de um estabelecimento e as respectivas 
+alterações de uso podem ser solicitadas ao município no 
+«Balcão do empreendedor» a partir de 2 de Maio de 2012.
+5 — A verificação da informação referida no artigo 20.º 
+do Decreto -Lei n.º 48/2011  está disponível no «Balcão do 
+empreendedor» a partir de 9 de Janeiro de 2012.
+Artigo 8.º
+Entrada em vigor
+A presente portaria entra em vigor no dia 2 de Maio 
+de 2011.
+Em 31 de Março de 2011.
+O Ministro da Presidência, Manuel Pedro Cunha da 
+Silva Pereira.  — O Ministro da Economia, da Inovação 
+e do Desenvolvimento, José António Fonseca Vieira da 
+Silva. 
+ MINISTÉRIO DA AGRICULTURA,
+DO DESENVOLVIMENTO RURAL E DAS PESCAS
+Portaria n.º 132/2011
+de 4 de Abril
+O Regulamento da Pesca por Arte de Armadilha, apro-
+vado pela Portaria n.º 1102 -D/2000, de 22 de Novembro, e alterado pelas Portarias n.
+os 419-A/2001, de 18 de Abril, 
+280/2002, de 15 de Março, 389/2002, de 11 de Abril, 
+407/2004, de 22 de Abril, 447/2009, de 28 de Abril, que 
+a republica, 774/2009, de 21 de Julho, 193/2010, de 8 de Abril, e 1054/2010, de 14 de Outubro, estabelece medidas relacionadas com a gestão da pescaria do polvo, a principal 
+espécie capturada pelas armadilhas de gaiola 30 mm -50 mm.
+Este Regulamento estipula, na alínea  b) do seu artigo 8.º, 
+que as embarcações com mais de 9 m de comprimento de 
+fora a fora só podem calar armadilhas para além de 1 milha 
+de distância à linha de costa.
+Esta norma sofreu uma derrogação para os anos de 
+2008, 2009 e 2010, nos termos, respectivamente, da Por-

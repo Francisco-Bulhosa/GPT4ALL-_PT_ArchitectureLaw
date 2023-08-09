@@ -113,7 +113,7 @@ class PDFScraper:
 
     def scrape(self):
         pdf_links = self.get_pdf_links()
-        indexed_links = [(index, link) for index, link in enumerate(pdf_links, 1)]s
+        indexed_links = [(index, link) for index, link in enumerate(pdf_links, 1)]
         return indexed_links
 
     def close(self):

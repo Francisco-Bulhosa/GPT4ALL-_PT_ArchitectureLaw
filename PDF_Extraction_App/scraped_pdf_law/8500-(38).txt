@@ -1,0 +1,393 @@
+8500-(38) Diário da República, 1.asérie — N.o242 — 19 de Dezembro de 2006
+MINISTÉRIO DA JUSTIÇA
+Portaria n.o1416-A/2006
+de 19 de Dezembro
+O Decreto-Lei n.o76-A/2006, de 29 de Março, apro-
+vou um vasto conjunto de medidas de simplificação davida dos cidadãos e das empresas. Destas, destacam-sea eliminação da obrigatoriedade de celebração de escri-turas públicas, a eliminação da obrigatoriedade de exis-tência de livros de escrituração mercanti l e a simpli-
+ficação dos regimes da fusão, da cisão, da transformação,da dissolução e da liquidação de sociedades e do registocomercial.
+A presente portaria vem agora regular a promoção
+de actos de registo comercial online e a criação da cer-
+tidão permanente.
+Visa-se, tal como com a criação da empresa online ,
+continuar a simplificar procedimentos de acordo como Programa SIMPLEX, contribuir para o desenvolvi-mento do plano tecnológico e promover a redução doscustos de contexto, melhorando as condições para inves-tir e criar riqueza e emprego em Portugal.
+Os actos de registo comercial online podem ser pro-
+movidos por qualquer pessoa que tenha um meio decertificação electrónica adequado. Trata-se, pois, demais um projecto em que o cartão de cidadão tem umpotencial de utilização muito significativo. Com a emis-são de um cartão de identificação para o cidadão quecontenha um meio de certificação electrónico da iden-
+tidade, a utilização de assinaturas electrónicas pelas pes-
+soas singulares é seguramente democratizada e, con-sequentemente, também promovida a utilização das fun-cionalidades e meios — como a promoção de actos deregisto comercial pela Internet — que dependam de umreconhecimento electrónico da identificação. Além daspessoas directamente interessadas na promoção dosactos de registo, também os advogados, os solicitadorese os notários podem fazê-lo, sempre com utilização deum meio de validação electrónico da sua identidade.
+Acresce que a promoção de actos de registo comercial
+online é mais rápida e barata do que o recurso aos meios
+tradicionais. Prevê-se, por isso, que os registos sejamrealizados imediatamente, ou no prazo máximo de doisdias úteis. O custo da promoção de actos de registo
+por via electrónica é, igualmente, mais baixo que o emo-
+lumento cobrado pela utilização da via tradicional.
+Por outro lado, cria-se a certidão permanente. Este
+serviço de valor acrescentado compreende a disponi-bilização, em suporte electrónico e permanentementeactualizado, da reprodução dos registos em vigor res-peitantes a uma sociedade ou outra entidade sujeitaa registo. A subscrição da certidão permanente é maissimples e segura e confere maior transparência aoregisto comercial que a certidão em papel. Por um lado,porque pode ser solicitada pela Internet ou, verbal-mente, ao balcão de uma conservatória. Por outro lado,porque o facto de estar permanentemente actualizada
+confere maior certeza à informação constante do registo
+comercial.
+Após a solicitação do serviço certidão permanente,
+o requerente recebe um código que permite a sua visua-lização, sendo a entrega desse código a qualquer enti-dade pública ou privada equivalente, para todos os efei-tos, à entrega de uma certidão do registo comercial em
+papel.
+Assim:Manda o Governo, pelo Ministro da Justiça, ao abrigo
+dos n.
+os1e5d o artigo 45.oed on .o5 do artigo 75.o
+do Código do Registo Comercial, o seguinte:
+CAPÍTULO I
+Registos online e certidão permanente
+SECÇÃO I
+Disposições gerais
+Artigo 1.o
+Objecto
+A presente portaria regula:
+a) A promoção online de actos de registo comercial;
+b) A certidão permanente.
+Artigo 2.o
+Designação do sítio
+A promoção online de actos de registo comercial e
+a solicitação da certidão permanente fazem-se atravésdo sítio na Internet com o endereço www.empresaon-line.pt, mantido pela Direcção-Geral dos Registos e doNotariado.
+Artigo 3.
+o
+Funções do sítio
+O sítio deve permitir, entre outras que se mostrem
+necessárias, as seguintes funções:
+a) A autenticação dos utilizadores através de certi-
+ficados digitais;
+b) A indicação dos dados de identificação dos
+interessados;
+c) O preenchimento electrónico dos elementos neces-
+sários ao requerimento do registo e ao pedido da cer-tidão permanente;
+d) A entrega dos documentos necessários à apreciação
+do pedido de registo e ao suprimento de suas eventuaisdeficiências;
+e) A assinatura electrónica dos documentos entregues;
+f) O pagamento dos serviços por via electrónica;
+g) A recolha de informação que permita o contacto
+entre os serviços competentes e os interessados e seus
+representantes;
+h) A certificação da data e da hora em que o pedido
+de registo foi concluído;
+i) O acesso ao sítio na Internet onde se encontrem
+disponibilizadas as publicações legais.
+SECÇÃO II
+Promoção de actos de registo comercial online
+Artigo 4.o
+Pedido de actos de registo comercial online
+1 — Os interessados na promoção de actos de registo
+comercial online formulam o seu pedido e enviam, atra-Diário da República, 1.asérie — N.o242 — 19 de Dezembro de 2006 8500-(39)
+vés do sítio na Internet a que se refere o artigo 2.o,
+os documentos necessários ao registo, designadamente:
+a) Os documentos que legalmente comprovem os fac-
+tos constantes do pedido de registo;
+b) Os documentos comprovativos da sua capacidade
+e dos seus poderes de representação para o acto.
+2 — Todos os documentos entregues através de sítio
+na Internet, desde que tenham sido correctamente digi-talizados, sejam integralmente apreensíveis e tenhamsido enviados por quem tenha competência para a con-ferência de documentos electrónicos com os respectivosoriginais em formato de papel, têm o mesmo valor pro-batório dos originais.
+3 — Os documentos que não tenham sido enviados
+pelas entidades referidas no número anterior têm deser certificados nos termos da lei.
+Artigo 5.
+o
+Ordem de anotação dos pedidos
+1 — Os pedidos de actos de registo comercial efec-
+tuados através do sítio referido no artigo 2.osão ano-
+tados pela ordem da respectiva recepção.
+2 — Os pedidos de registo recebidos após o horário
+de atendimento ao público do serviço são anotados,automaticamente, no dia seguinte, imediatamente antesda primeira apresentação pessoal ou por telecópia.
+Artigo 6.
+o
+Autenticação electrónica
+1 — Para efeitos da promoção de actos de registo
+comercial online, a autenticação electrónica de advo-
+gados, solicitadores e notários deve fazer-se mediantecertificado digital que comprove a qualidade profissionaldo utilizador.
+2 — Para os restantes utilizadores, a autenticação
+electrónica faz-se mediante a utilização de certificado
+digital qualificado, nos termos previstos no regime jurí-dico dos documentos electrónicos e da assinatura elec-trónica, aprovado pelo Decreto-Lei n.
+o290-D/99, de 2 de
+Agosto, na redacção introduzida pelos Decretos-Leisn.
+os62/2003, de 3 de Abril, 165/2004, de 6 de Julho,
+e 116-A/2006, de 16 de Junho.
+Artigo 7.o
+Certificados digitais de advogados, solicitadores e notários
+Na promoção de actos de registo comercial online,
+apenas são admitidos os certificados digitais de advo-gados, solicitadores e notários cuja utilização para finsprofissionais seja confirmada através de listas electró-nicas de certificados, disponibilizadas, respectivamente,pela Ordem dos Advogados, pela Câmara dos Solici-tadores e pela Ordem dos Notários.
+Artigo 8.
+o
+Assinatura electrónica de documentos
+1 — Aos documentos entregues no processo de pro-
+moção de actos de registo comercial online deve ser
+aposta a assinatura electrónica qualificada do interes-
+sado que efectuar o envio, salvo quando este for rea-
+lizado por advogado, solicitador ou notário.2 — Os documentos entregues no processo de pro-
+moção de actos de registo comercial online são assinados
+digitalmente pelo sistema informático que os recepciona.
+Artigo 9.o
+Validação do pedido
+O pedido de actos de registo comercial online só é
+considerado validamente submetido após a emissão deum comprovativo electrónico, através do sítio referido noartigo 2.
+o, que indique a dat a e a hora em que o pedido
+foi concluído.
+Artigo 10.o
+Comprovativo e comunicação electrónicos
+1 — O comprovativo electrónico do pedido de registo
+deve ser enviado aos interessados através de mensagemde correio electrónico.
+2 — A realização do registo deve ser comunicada aos
+interessados por mensagem de correio electrónico e,
+sempre que possível, por short message service (sms).
+Artigo 11.
+o
+Prazo de apreciação do pedido
+Emitido o comprovativo electrónico referido no n.o1
+do artigo anterior, o serviço competente aprecia opedido de registo e procede a todas as diligências sub-sequentes previstas no artigo seguinte no prazo de doisdias úteis a contar da confirmação do pagamento efec-tuado pelos interessados.
+Artigo 12.
+o
+Diligências subsequentes
+1 — Após o tratamento dos dados indicados e dos
+documentos entregues pelos interessado s e a apreciação
+do pedido de registo, o serviço competente deve aindaproceder aos seguintes actos:
+a) Registo dos factos, que deve ser imediatamente
+comunicado aos interessados por via electrónica;
+b) Disponibilização aos interessados do recibo com-
+provativo do pagamento dos encargos devidos;
+c) Inscrição do facto no ficheiro central de pessoas
+colectivas e codificação da actividade económica (CAE)
+ou, se for esse o caso, comunicação do registo para
+aqueles efeitos, quando estes actos sejam necessários;
+d) Disponibilização de prova gratuita do registo da
+sociedade, nos termos e pelos meios previstos noartigo 75.
+odo Código do Registo Comercial;
+e) Promoção das publicações legais que sejam devidas,
+as quais se devem efectuar automaticamente e por viaelectrónica;
+f) Promoção das restantes diligências que venham a
+ser fixadas por via regulamentar ou protocolar;
+g) Envio de cópia do pedido e dos documentos à
+conservatória do registo comercial detentora da pastada sociedade, para efeitos do disposto no n.
+o1d o
+artigo 59.odo Código do Registo Comercial.
+2 — O envio dos documentos previsto na alínea g)
+do número anterior só ocorre quando não existam con-
+dições que garantam o acesso à informação sobre a
+sociedade por via electrónica.8500-(40) Diário da República, 1.asérie — N.o242 — 19 de Dezembro de 2006
+3 — No caso de se tratar de um registo a efectuar
+por depósito, a respectiva menção pode ser efectuadapelo requerente.
+Artigo 13.
+o
+Encargos
+1 — Pelo procedimento de promoção de actos de
+registo comercial online regulado na presente portaria
+é devido o pagamento de emolumentos previstos noRegulamento Emolumentar dos Registos e do Nota-riado.
+2 — Não são devidos emolumentos pessoais no
+âmbito do regime especial de promoção de actos deregisto comercial online .
+SECÇÃO III
+Certidão permanente
+Artigo 14.o
+Definição
+Designa-se por «certidão permanente» a disponibi-
+lização, em suporte electrónico e permanentemente
+actualizada, da reprodução dos registos em vigor res-
+peitantes a entidade sediada em conservatória informa-tizada, bem como da menção das apresentações e dospedidos de registo pendentes, nos termos do n.
+o5d o
+artigo 75.odo Código do Registo Comercial.
+Artigo 15.o
+Pedido de certidão permanente
+O pedido de certidão permanente pode ser efectuado
+através do sítio referido no artigo 2.oou, verbalmente,
+em qualquer serviço com competência para a práticade actos de registo comercial.
+Artigo 16.
+o
+Identificação do requerente da certidão permanente
+A identificação do requerente da certidão permanente
+faz-se pela indicação do nome ou firma e do endereçode correio electrónico, sem necessidade de utilização dosmeios de autenticação referidos nos artigos 6.
+oe7 .o
+Artigo 17.o
+Código de acesso
+1 — Após a solicitação do serviço, é disponibilizado
+ao requerente um código que permite a visualizaçãoda certidão permanente a partir do momento em queseja confirmado o pagamento da taxa devida.
+2 — A entrega, a qualquer entidade pública ou pri-
+vada, do código de acesso à certidão permanente equi-vale, para todos os efeitos, à entrega de uma certidãodo registo comercial.
+Artigo 18.
+o
+Assinatura da certidão permanente
+O serviço certidão permanente é prestado mediante
+a subscrição de uma assinatura que pode ter a duraçãode um, dois, três ou quatro anos.Artigo 19.
+o
+Taxa da certidão permanente
+Pela assinatura do serviço certidão permanente é
+devido o pagamento das seguintes taxas únicas, queconstituem receita da Direcção-Geral dos Registos edo Notariado:
+a)E19,50 pela assinatura por um ano;
+b)E35 pela assinatura por dois anos;
+c)E49 pela assinatura por três anos;
+d)E59 pela assinatura por quatro anos.
+CAPÍTULO II
+Alteração à tabela de honorários e encargos notariais
+e ao Regulamento do Registo Comercial
+Artigo 20.
+o
+Alteração à Portaria n.o385/2004, de 16 de Abril
+O artigo 10.oda Portaria n.o385/2004, de 16 de Abril,
+que aprova a tabela de honorários e encargos aplicáveisà actividade notarial exercida ao abrigo do Estatuto doNotariado, aprovado pelo Decreto-Lei n.
+o26/2006, de
+4 de Fevereiro, passa a ter a seguinte redacção:
+«Artigo 10.o
+[ ... ]
+1—........................................
+2—........................................3—........................................4—........................................5—........................................6—........................................7—........................................8 — Notificações — por cada notificação de titular
+inscrito — E37,82.»
+Artigo 21.
+o
+Alteração ao Regulamento do Registo Comercial, aprovado
+pela Portaria n.o657-A/2006, de 29 de Junho
+Os artigos 3.o,8 .o,9 .o, 10.o, 14.oe 15.odo Regulamento
+do Registo Comercial, aprovado pela Portarian.o657-A/2006, de 29 de Junho, passam a ter a seguinte
+redacção:
+«Artigo 3.o
+[ ... ]
+1—........................................
+2—........................................3—........................................4—........................................5—........................................6—(Revogado.)
+7—........................................
+8—........................................9—........................................
+Artigo 8.
+o
+[ ... ]
+1—........................................
+2 — A matrícula das representações permanentes
+das sociedades com sede principal e efectiva noDiário da República, 1.asérie — N.o242 — 19 de Dezembro de 2006 8500-(41)
+estrangeiro deve incluir a referência a ‘representação
+permanente’, ‘sucursal’ ou outra equivalente, à esco-lha do interessado.
+3— (Anterior n.
+o2.)
+Artigo 9.o
+[ ... ]
+1— (Anterior corpo do artigo.)
+2 — Sem prejuízo do disposto no número anterior,
+deve constar, igualmente, do extracto da inscrição oestado civil dos sócios e, sendo casados, o nome docônjug e e o respectivo regime de bens.
+Artigo 10.
+o
+[ ... ]
+O extracto da inscrição deve ainda conter as seguin-
+tes menções especiais:
+a) Na de início de actividade do comerciante indi-
+vidual, o nome complet o e a firma, se diferente
+daquele, a data do início de actividade, a naciona-
+lidade, o estado civil e, sendo casado, o nome do
+cônjug e e o regime de bens, o ramo de actividade
+e a localização do estabelecimento principal;
+b) Na de constituição de sociedade, a firma, a sede,
+o prazo de duração, quando determinado, o objecto,o capital e, não estando realizado, o montante emque ficou, as quotas ou partes sociais, ou o valor nomi-nal e a natureza das acções, a data do encerramentodo exercício social, a administração, a fiscalização ea forma de obrigar a sociedade e, tratando-se de cons-tituição de sociedade anónima europeia, para alémdas menções anteriores, a modalidade de constituição;
+c) Na de constituição de cooperativa, a firma, a
+sede, o prazo de duração, quando determinado, o
+objecto, o capital mínimo, a direcção, a fiscalização
+e a forma de obrigar a cooperativa;
+d) Na de constituição de empresa pública, a firma,
+a sede, o prazo de duração, quando determinado,o objecto, o capital, a administração, a fiscalizaçãoe a forma de obrigar a empresa;
+e) Na de contrato de agrupamento complementar
+de empresas e na de agrupamento europeu de inte-resse económico, a firma, a sede, o prazo de duração,quando determinado, o objecto, o nome ou a firmados membros, as contribuições genéricas dos agru-pados para os encargo s e a constituição do capital,
+havendo-o, a administração e a forma de obrigar oagrupamento;
+f) .........................................
+g) Na de criação de representação permanente, a
+identificação da pessoa colectiva representada, porreferência à firma, nacionalidade, sede, objecto e capi-tal, e ainda a firm a e o local da representação e o
+capital afecto, quando exigível;
+h) .........................................
+i) .........................................
+j) .........................................
+l) .........................................
+m) ........................................
+n) .........................................
+o) .........................................
+p) .........................................
+q) .........................................r) .........................................
+s) .........................................
+t) .........................................
+u) .........................................
+v) .........................................
+x) .........................................
+z) .........................................
+aa) ........................................
+ab) ........................................
+ac) ........................................
+ad) ........................................
+ae) ........................................
+af) ........................................
+ag) ........................................
+Artigo 14.
+o
+[ ... ]
+1 — O depósito dos documentos que titulem factos
+sujeitos a registo é mencionado na ficha de registo,com indicação:
+a) .........................................
+b) .........................................
+c) .........................................
+d) Do nome de quem requereu o depósito.
+2—........................................
+Artigo 15.
+o
+[ ... ]
+1 — O registo por depósito de documentos deve
+ainda conter as seguintes menções especiais:
+a) .........................................
+b) .........................................
+c) .........................................
+d) .........................................
+f) .........................................
+g) .........................................
+h) .........................................
+i) .........................................
+j) .........................................
+l) No de cancelamento, o facto a que respeita o
+registo cancelado e o respectivo número de ordem;
+m) No de modificação ou rectificação, o facto a
+que respeita o registo modificado ou rectificado, orespectivo número de ordem e, sendo modificado ourectificado algum dos elementos constantes da men-ção, a sua indicação.
+2 — O registo de facto respeitante a participação
+social ou respectivo titular deve ainda mencionar:
+a) .........................................
+b) .........................................
+c) A identificação do sujeito passivo do facto, nos
+termos previstos para o sujeito activo;
+d) .........................................
+e) Tratando-se de registo de penhora ou arresto,
+para além das menções previstas nas alíneas a)ad),
+o tribunal onde a providência foi decretad a e o res-
+pectivo número de processo;
+f) .........................................
+3— ...................................... »8500-(42) Diário da República, 1.asérie — N.o242 — 19 de Dezembro de 2006
+Artigo 22.o
+Aditamento ao Regulamento do Registo Comercial, aprovado
+pela Portaria n.o657-A/2006, de 29 de Junho
+São aditados ao Regulamento do Registo Comercial,
+aprovado pela Portaria n.o657-A/2006, de 29 de Junho,
+os artigos 4.o-A e 17.o, com a seguinte redacção:
+«Artigo 4.o-A
+Número de identificação da segurança social
+1 — No pedido de registo de facto que importe
+a extinção da entidade sujeita a registo deve ser indi-cado o seu número de identificação da segurançasocial ou declarada a sua inexistência.
+2 — No caso de o registo dos factos referidos no
+número anterior ser realizado oficiosamente, a con-servatória deve realizar as diligências necessárias àobtenção do número da segurança social.
+Artigo 17.
+o
+Emolumentos
+Para efeitos de tributação emolumentar, o secretário
+da sociedade é equiparado a órgão social.»
+Artigo 23.o
+Aplicação subsidiária
+Aplicam-se ao regime especial de promoção de actos
+de registo comercial online e ao regime da certidão per-manente as disposições do Código do Registo Comercial
+e do Regulamento do Registo Comercial que não con-trariem o disposto na presente portaria.
+Artigo 24.
+o
+Norma transitória
+1 — Podem, desde o momento da entrada em vigor
+da presente portaria, ser promovidos por via electrónicaos actos de registo de transmissão e unificação de quotase de designação e cessação de funções dos membrosdos órgãos de administração e fiscalização das socie-dades por quotas e anónimas, bem como do secretárioda sociedade, sem prejuízo da possibilidade de promo-ção electrónica de outros actos de registo comercial,nos termos de despacho do director-geral dos Registos
+e do Notariado.
+2 — Por despacho do director-geral dos Registos e
+do Notariado são definidos os procedimentos a adoptarno caso de o pedido de registo ou de certidão permanenterespeitar a entidade cujos registos não se encontremextractados para o Sistema Integrado do Registo Comer-cial (SIRCom).
+Artigo 25.
+o
+Entrada em vigor
+A presente portaria entra em vigor no dia 20 de
+Dezembro de 2006.
+Pelo Ministro da Justiça, João Tiago Valente Almeida
+da Silveira, Secretário de Estado da Justiça, em 18 de
+Dezembro de 2006.
+Diário da República Electrónico: Endereço Internet: http://dre.pt
+Correio electrónico: dre@incm.pt  • Linha azul: 808 200 110 • Fax: 21 394 5750
+Toda a correspondência sobre assinaturas deverá ser dirigida para a Imprensa Nacional-Casa da Moeda, S. A.,
+Departamento Comercial, Sector de Publicações Oficiais, Rua de D. Francisco Manuel de Melo, 5, 1099-002 LisboaPreço deste número  (IV A incluído 5%)
+/G32/G32/G68/G73/G193/G82/G73/G79
+/G32/G32/G68/G65/G32/G82/G69/G80/G218/G66/G76/G73/G67/G65
+Depósito legal n.º 8814/85             ISSN 0870-9963I SÉRIE
+G0,36

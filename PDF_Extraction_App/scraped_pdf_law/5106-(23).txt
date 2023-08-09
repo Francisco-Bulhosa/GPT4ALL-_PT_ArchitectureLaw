@@ -1,0 +1,223 @@
+Diário da República, 1.ª série — N.º 145 — 29 de Julho de 2008  5106-(23) 
+  
+ ANEXO III
+Relatório sumário anual — Modelo de introdução
+interactiva de dados
+[a que se refere a alínea j) do n.º 1 do artigo 2.º]   
+ ANEXO IV
+Relatório de execução do contrato — Modelo
+de introdução interactiva de dados
+[a que se refere a alínea l) do n.º 1 do artigo 2.º]   
+ ANEXO V
+Relatório final de obra — Modelo de introdução
+interactiva de dados
+[a que se refere a alínea m) do n.º 1 do artigo 2.º]   
+  
+ MINISTÉRIOS DAS FINANÇAS E DA ADMINISTRAÇÃO 
+PÚBLICA, DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES E DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR.
+Portaria n.º 701-F/2008
+de 29 de Julho
+O Decreto -Lei n.º 18/2008, de 29 de Janeiro, prevê no 
+n.º 1 do seu artigo 4.º a constituição de um portal único de-
+dicado aos contratos públicos, denominado, para os efeitos 
+da presente portaria como Portal dos Contratos Públicos.
+O Portal dos Contratos Públicos constitui uma peça 
+essencial na estratégia delineada no Código dos Contratos 
+Públicos (CCP), aprovado pelo Decreto -Lei n.º 18/2008, 
+no sentido da transparência num sector onde a mesma 
+constitui um valor da maior importância. A iniciativa de 
+criação do portal assenta na ideia de divulgação de infor-mação alargada relativa à contratação pública.5106-(24)  Diário da República, 1.ª série — N.º 145 — 29 de Julho de 2008 
+Ao Portal dos Contratos Públicos cabe igualmente um 
+papel de autenticação, conferindo eficácia a contratos reali-
+zados na sequência de ajuste directo, por via da respectiva 
+divulgação no seu seio.
+O papel de divulgação atribuído ao Portal dos Contratos 
+Públicos abarca informação relativa a todos os contratos 
+públicos sujeitos ao CCP, seja qual for a sua natureza, em 
+área própria. Mas o mesmo contém igualmente duas áreas 
+específicas e independentes, uma referente aos contratos relacionados com obras públicas e a outra referente aos 
+contratos de locação ou aquisição de bens móveis e de 
+aquisição de serviços.
+São estas duas últimas áreas que constituem a sede 
+para a recolha e para o tratamento da informação relativa aos relatórios e genericamente à obrigação de informar, previstos no CCP.
+As duas áreas atrás referidas, acedidas através do Portal, 
+constituem sistemas de informação autónomos ou interli-gados, mas sempre devidamente articulados. Aquele que respeita às obras públicas é criado pelo próprio CCP, que o baptiza como Observatório das Obras Públicas.
+A presente portaria define as responsabilidades no que 
+se refere à gestão do portal e dos sistemas de informação que são acedidos através do mesmo.
+São igualmente referidas as condições para a articulação 
+com as plataformas electrónicas utilizadas pelas entidades 
+adjudicantes e definidas especificações gerais quanto ao acesso à informação.
+Assim:
+Manda o Governo, pelos Ministros de Estado e das 
+Finanças, das Obras Públicas, dos Transportes e das Co-municações e da Ciência, Tecnologia e Ensino Superior e 
+ao abrigo do disposto no n.º 1 do artigo 4.º do Decreto -Lei 
+n.º 18/2008, de 29 de Janeiro, o seguinte:
+Artigo 1.º
+Objecto
+A presente portaria regula a constituição, funciona-
+mento e gestão do portal único da Internet dedicado aos 
+contratos públicos (Portal dos Contratos Públicos), a que se refere o n.º 1 do artigo 4.º do Decreto -Lei n.º 18/2008, 
+de 29 de Janeiro.
+Artigo 2.º
+Portal dos Contratos Públicos
+1 — O Portal dos Contratos Públicos constitui um es-
+paço multifuncional destinado a disponibilizar a informa-ção sobre a formação e a execução dos contratos públicos sujeitos às regras de formação ou execução previstas no 
+Código dos Contratos Públicos (CCP), aprovado pelo 
+Decreto -Lei n.º 18/2008, de 29 de Janeiro, sendo composto 
+pelas seguintes componentes:
+a) Um sistema de informação, designado por Observa-
+tório das Obras Públicas, previsto no n.º 1 do artigo 466.º 
+do Código dos Contratos Públicos, dedicado aos contratos 
+de empreitada de obras públicas, de concessão de obras públicas, de empreitadas de obras públicas integradas em 
+concessões, e que incluirá, ainda, informação relativa à 
+aquisição de serviços relacionados com obras públicas;
+b) Um sistema de informação dedicado aos contratos 
+de locação e aquisição de bens móveis e de aquisição de serviços, não enquadráveis na alínea anterior;c) Uma área comum dedicada a todos os contratos pú-
+blicos cuja formação ou execução se encontre sujeita ao CCP, incluindo os referidos nas alíneas anteriores.
+2 — Para efeitos da presente portaria, consideram -se 
+serviços relacionados com obras públicas todos aqueles 
+que digam directa e principalmente respeito à preparação 
+e execução de obras públicas, designadamente, elaboração 
+de estudos e projectos de engenharia e arquitectura, fisca-
+lização de obras, assessorias especializadas e coordenação 
+de segurança em projecto e em obra.
+Artigo 3.º
+Gestão do Portal dos Contratos Públicos
+1 — A gestão específica do sistema de informação re-
+ferido na alínea  a) do artigo anterior é da responsabilidade 
+do Instituto da Construção e do Imobiliário, I. P. (InCI).
+2 — A gestão específica do sistema de informação re-
+ferido na alínea  b) do artigo anterior é da responsabili-
+dade da Agência Nacional de Compras Públicas, E. P. E. 
+(ANCP).
+3 — A gestão da área comum do Portal dos Contratos 
+Públicos, referida na alínea  c) do artigo anterior, bem como 
+a articulação dos sistemas de informação referidos nos nú-
+meros anteriores, cabe, conjuntamente, ao InCI e à ANCP, 
+nos termos das regras a definir por protocolo celebrado 
+entre as duas entidades.
+Artigo 4.º
+Conteúdo obrigatório
+1 — O Portal dos Contratos Públicos disponibiliza, obri-
+gatoriamente, na sua área comum, informação sobre:
+a) A celebração de quaisquer contratos na sequência de 
+ajuste directo, a qual deve ser publicitada pela entidade 
+adjudicante, nos termos do n.º 1 do artigo 127.º do Código 
+dos Contratos Públicos, através de uma ficha conforme 
+modelo constante do anexo III do mesmo código;
+b) Os anúncios publicados no  Diário da República re-
+lativos a procedimentos de formação de contratos;
+c) As decisões definitivas de aplicação da sanção aces-
+sória prevista no artigo 460.º do Código dos Contratos 
+Públicos, as quais são publicitadas durante todo o período 
+da respectiva inabilidade, de acordo com o artigo 463.º do 
+mesmo Código;
+d) As modificações objectivas de contratos que repre-
+sentem um valor acumulado superior a 15 % do preço 
+contratual, as quais são publicitadas até seis meses após a 
+extinção do contrato, nos termos do n.º 1 do artigo 315.º do Código dos Contratos Públicos.
+2 — O Portal dos Contratos Públicos deve disponibilizar 
+aos utilizadores uma lista de opções de pesquisa temática, bem como o correspondente tratamento de informação e 
+apresentação dos resultados.
+3 — O Portal dos Contratos Públicos deve também con-
+ter um espaço disponível para o fornecimento de informa-
+ções, estatísticas e recomendações consideradas relevan-tes, bem como disponibilizar de forma permanentemente 
+actualizada informação sobre legislação e regulamentos 
+nacionais e comunitários aplicáveis aos contratos públicos.Diário da República, 1.ª série — N.º 145 — 29 de Julho de 2008  5106-(25) 
+Artigo 5.º
+Funcionalidades obrigatórias
+O Portal dos Contratos Públicos deverá disponibilizar, 
+obrigatoriamente, as seguintes funcionalidades:
+a) Pesquisa de anúncios, decisões de adjudicação e 
+legislação relevante por texto livre ou campos específicos, 
+nomeadamente categoria de aquisição, valor ou entidade;
+b) Subscrição de alertas por correio electrónico, sms, 
+ou outros, de anúncios por categoria, por entidade, ou 
+segundo outros critérios.
+Artigo 6.º
+Articulação com as plataformas electrónicas
+ utilizadas pelas entidades adjudicantes
+1 — As condições e os requisitos para a interligação das 
+plataformas electrónicas utilizadas pelas entidades adjudi-
+cantes, previstas nos n.os 2 e 3 do artigo 4.º do Decreto -Lei 
+n.º 18/2008, de 29 de Janeiro, com o Portal dos Contratos Públicos, são objecto de publicitação nesse portal.
+2 — Os anúncios dos procedimentos de formação de 
+contratos publicados no  Diário da República devem ser 
+enviados de forma automática do sistema da INCM — Im-
+prensa Nacional -Casa da Moeda, S. A. (INCM), para o 
+Portal dos Contratos Públicos.
+Artigo 7.º
+Acesso à informação
+O acesso a determinadas componentes da informação 
+sediada no Portal dos Contratos Públicos pode ser condi-cionado a um pagamento prévio, de acordo com regras a publicitar no mesmo portal e definidas pelo InCI ou pela ANCP, consoante o caso.
+Artigo 8.º
+Entrada em vigor
+A presente portaria entra em vigor na data de entrada 
+em vigor do Código dos Contratos Públicos.
+Em 25 de Julho de 2008.
+O Ministro de Estado e das Finanças, Fernando Teixeira 
+dos Santos.  — O Ministro das Obras Públicas, Transpor-
+tes e Comunicações, Mário Lino Soares Correia.  — O 
+Ministro da Ciência, Tecnologia e Ensino Superior, José 
+Mariano Rebelo Pires Gago. 
+ Portaria n.º 701-G/2008
+de 29 de Julho
+A aposta do Código dos Contratos Públicos (CCP) na 
+desmaterialização dos procedimentos de contratação pú-
+blica e consequente utilização de meios electrónicos na 
+formação dos contratos assenta, em grande parte, no papel 
+a desempenhar por actores que a legislação anterior, sem surpresa face à época em que foi gizada, em absoluto não previa. Trata -se das plataformas electrónicas, peça essen-cial à arquitectura global do processo agora previsto.
+A sua utilização por parte das entidades adjudicantes 
+deve ser conformada por uma série de regras e obedecer a 
+requisitos e condições que são objecto da presente portaria 
+e que complementam o conteúdo do CCP no que às mesmas diz respeito. Outro tanto é aplicável às respectivas condi-
+ções de interligação ao Portal dos Contratos Públicos.
+A presente portaria não pretende esgotar todo o espectro 
+dos serviços a prestar pelas plataformas electrónicas, a 
+qual deve estar associada a um manual e não ao presente 
+documento. Pretende -se, através desta portaria, estabelecer 
+as normas aplicáveis aos procedimentos a implementar nas 
+plataformas cuja uniformização é desejável.
+Não obstante, para além dos referidos serviços de base 
+exigíveis às plataformas electrónicas, que correspondem 
+às funcionalidades essenciais que permitam o desenvolvi-
+mento total e completo dos procedimentos pré -contratuais 
+públicos, podem as mesmas oferecer toda uma gama de serviços complementares, no âmbito do normal funciona-mento do mercado e da concorrência.
+As plataformas electrónicas constituem uma infra-
+-estrutura informática que serve de suporte aos procedi-mentos de contratação pública, desenrolando -se os vários 
+passos sob o comando directo da entidade adjudicante e dos 
+interessados ou concorrentes, nos termos e dentro dos limi-
+tes previamente estabelecidos. Não cabe, por isso, às pla-
+taformas electrónicas uma intervenção própria e autónoma 
+em cada procedimento específico, mas exclusivamente um 
+papel de base automática disponibilizada aos utilizadores e detentora de uma série de aplicações informáticas que consubstanciam os serviços que prestam.
+Divide -se a presente portaria em três capítulos, o pri-
+meiro, dedicado às disposições de carácter geral, o se-
+gundo, focado nos aspectos procedimentais, e o terceiro, 
+com incidência nos requisitos tecnológicos. Ainda que 
+não seja, por natureza, possível estabelecer uma divisão estanque entre estes dois últimos capítulos, procurou -se, 
+por motivos de clareza na leitura, respeitar, na medida 
+do possível, a referida estrutura bipartida no que toca à 
+delimitação do respectivo conteúdo.
+Assim:
+Ao abrigo do disposto nos n.os 2 e 3 do artigo 4.º do 
+Decreto -Lei n.º 18/2008, de 29 de Janeiro, manda o Go-
+verno, pelos Ministros de Estado e das Finanças, das Obras 
+Públicas, Transportes e Comunicações e da Ciência, Tec-nologia e Ensino Superior, o seguinte:
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objecto
+1 — A presente portaria define os requisitos e condições 
+a que deve obedecer a utilização de plataformas electróni-
+cas pelas entidades adjudicantes, na fase de formação dos 
+contratos públicos.
+2 — São também definidas as regras de funcionamento 
+das plataformas electrónicas utilizadas pelas entidades 
+adjudicantes, as obrigações a que aquelas se encontram su-
+jeitas, bem como as condições de interligação com o Portal 
+dos Contratos Públicos, previsto no n.º 1 do artigo 4.º do Decreto -Lei n.º 18/2008, de 29 de Janeiro.
+Artigo 2.º
+Âmbito de aplicação
+1 — A regulamentação dos requisitos e condições com-
+plementares ao estabelecido no Código dos Contratos Pú-

@@ -1,0 +1,634 @@
+4990-(2) DIÁRIO DA REPÚBLICA — I SÉRIE-A N.o178 — 2-8-1999
+MINISTÉRIO DA CIÊNCIA E DA TECNOLOGIA
+Decreto-Lei n.o290-D/99
+de 2 de Agosto
+A Resolução do Conselho de Ministros n.o115/98,
+de 1 de Setembro, determinou a definição do regimejurídico aplicável aos documentos electrónicos e assi-natura digital, como um dos objectivos a alcançar noâmbito da Iniciativa Nacional para o Comércio Elec-
+trónico, necessário à plena afirmação do comércioelectrónico.
+As redes electrónicas abertas, como a Internet, têm
+assumido uma importância crescente na vida quotidianados cidadãos e dos agentes económicos, proporcionandouma teia de relações comerciais globais. Para aproveitar
+da melhor forma estas oportunidades, urge criar um
+ambiente seguro para a autenticação electrónica. Narealidade, as comunicaçõe s e o comércio electrónicos
+exigem assinaturas electrónicas e serviços a elas asso-ciados que permitam a autenticação electrónica dosdados.
+As assinaturas electrónicas possibilitam ao utente de
+dados enviados electronicamente que verifique a suaorigem (autenticação), bem como se os dados foramentretanto alterados (integridade). Em matéria de assi-natura electrónica, o presente diploma assenta nomodelo tecnológico ora prevalecente: a assinatura digitalproduzida através de técnicas criptográficas. Como sedepreende dos estudos disponíveis sobre tecnologias de
+assinaturas digitais baseadas na criptografia de chaves
+públicas, a assinatura digital constitui, neste momento,a técnica mais reconhecida de assinatura electrónica,apresentando o mais elevado grau de segurança paraas trocas de dados em redes abertas. E é esta constataçãodo estado da tecnologia que tem levado as experiênciaslegislativas estrangeiras a privilegiar esta forma de assi-natura electrónica.
+Contudo, e considerando que em face do constante
+desenvolvimento tecnológico esta solução de autenti-cação de dados pode ser, em pouco tempo, tecnicamenteultrapassada pela afirmação de outras formas de assi-natura electrónica, o regime previsto no presentediploma poderá vir a ser aplicado a outras modalidadesde assinatura electrónica que satisfaçam os requisitos
+de segurança da assinatura digital.
+A verificação da autenticidade e da integridade dos
+dados, facultada pelas assinaturas electrónicas, emgeral, e pela assinatura digital, em particular, não provanecessariamente a identidade do signatário que criaas assinaturas electrónicas. Assim, considera-se neces-sário, de acordo com a prática tecnicamente recomen-dada e internacionalmente consagrada, instituir umsistema de confirmação por entidades certificadoras,às quais incumbe assegurar os elevados níveis de segu-rança do sistema indispensáveis para a criação da dese-jada confiança no tocante às assinaturas de documen-tos electrónicos.
+Neste contexto, o presente diploma, por um lado,
+regula o reconhecimento e o valor jurídico dos docu-
+mentos electrónicos e das assinaturas digitais e, poroutro, confia o controlo da actividade de certificaçãode assinaturas a uma entidade a designar e define ospoderes e procedimentos desta, bem como as condiçõesde credenciação da actividade e os direitos e os deveres
+das entidades certificadoras.
+Esta actividade de certificação de assinaturas digitais,
+de harmonia com a orientação consagrada já noutrospaíses da União Europeia, não está sujeita a autorizaçãoadministrativa prévia. Importa, porém, que o Estadoprovidencie um controlo das condições de idoneidadee segurança asseguradas pelas entidades certificadoras,e desse modo ofereça ao público e ao mercado a orien-tação e a garantia de qualidade que são indispensáveis
+para a confiança nos novos meios de documentação e
+assinatura. De harmonia com este desiderato, prevê-se
+um sistema voluntário de credenciação e fiscalizaçãodas entidades certificadoras pela autoridade compe-tente.
+Com este diploma dá-se, em Portugal, o primeiro
+passo no sentido da consagração legal das assinaturaselectrónicas,, acolhendo-se, designadamente, as solu-ções avançadas no quadro da União Europeia, na pro-posta de directiva do Parlamento Europeu e do Con-selho, relativa a um quadro legal comunitário para asassinaturas electrónicas. A evolução tecnológica, quenesta matéria é constante, determinará a médio prazoa revisão, adaptação e aprofundamento do regime esta-belecido no presente diploma.
+Assim:
+Nos termos da alínea a)d on .
+o1 do artigo 198.oda
+Constituição, o Governo decreta, para valer como leigeral da República, o seguinte:
+CAPÍTULO I
+Documentos e actos jurídicos electrónicos
+Artigo 1.
+o
+Objecto
+1 — O presente diploma regula a validade, eficácia
+e valor probatório dos documentos electrónico s e a assi-
+natura digital.
+2 — O regime previsto no presente diploma pode ser
+tornado aplicável a outras modalidades de assinaturaelectrónica que satisfaçam exigências de segurança idên-ticas às da assinatura digital.
+Artigo 2.
+o
+Definições
+Para os fins do presente diploma, entende-se por:
+a) Documento electrónico: documento elaborado
+mediante processamento electrónico de dados;
+b) Assinatura electrónica: resultado de um proces-
+samento electrónico de dados susceptível deconstituir objecto de direito individual e exclu-sivo e de ser utilizado para dar a conhecer a
+autoria de um documento electrónico ao qual
+seja aposta, de modo que:
+i) Identifique de forma unívoca o titular
+como autor do documento;
+ii) A sua aposição ao documento dependa
+apenas da vontade do titular;4990-(3) N.o178 — 2-8-1999 DIÁRIO DA REPÚBLICA — I SÉRIE-A
+iii) A sua conexão com o documento permita
+detectar toda e qualquer alteração super-veniente do conteúdo deste;
+c) Assinatura digital: processo de assinatura elec-
+trónica baseado em sistema criptográfico assi-
+métrico composto de um algoritmo ou série dealgoritmos, mediante o qual é gerado um parde chaves assimétricas exclusivas e interdepen-dentes, uma das quais privada e outra pública,e que permite ao titular usar a chave privadapara declarar a autoria do documento electró-nico ao qual a assinatura é aposta e concor-
+dância com o seu conteúdo, e ao declaratário
+usar a chave pública para verificar se a assi-natura foi criada mediante o uso da correspon-dente chave privada e se o documento electró-nico foi alterado depois de aposta a assinatura;
+d) Chave privada: elemento do par de chaves assi-
+métricas destinado a ser conhecido apenas peloseu titular, mediante o qual se apõe a assinaturadigital no documento electrónico, ou se decifraum documento electrónico previamente cifradocom a correspondente chave pública;
+e) Chave pública: elemento do par de chaves assi-
+métricas destinado a ser divulgado, com o qualse verifica a assinatura digital aposta no docu-
+mento electrónico pelo titular do par de chaves
+assimétricas, ou se cifra um documento elec-trónico a transmitir ao titular do mesmo parde chaves;
+f) Credenciação: acto pelo qual é reconhecido a
+uma entidade que o solicite e que exerça acti-vidade de entidade certificadora referida na alí-neah) deste artigo o preenchimento dos requi-
+sitos definidos no presente diploma para os efei-tos nele previstos;
+g) Autoridade credenciadora: entidade competente
+para a credenciação e fiscalização das entidadescertificadoras;
+h) Entidade certificadora: entidade ou pessoa sin-
+gular ou colectiva credenciada que cria ou for-
+nece meios para a criação das chaves, emite
+os certificados de assinatura, assegura a respec-tiva publicidade e presta outros serviços rela-tivos a assinaturas digitais;
+i) Certificado de assinatura: documento electró-
+nico autenticado com assinatura digital e quecertifique a titularidade de uma chave públicae o prazo de validade da mesma chave;
+j) Validação cronológica: declaração de entidade
+certificadora que atesta a data e hora da criação,expedição ou recepção de um documento elec-trónico;
+l) Endereço electrónico: identificação de um equi-
+pamento informático adequado para receber e
+arquivar documentos electrónicos.
+Artigo 3.
+o
+Forma e força probatória
+1 — O documento electrónico satisfaz o requisito
+legal de forma escrita quando o seu conteúdo seja sus-ceptível de representação como declaração escrita.2 — Quando lhe seja aposta uma assinatura digital
+certificada por uma entidade credenciada e com osrequisitos previstos neste diploma, o documento elec-trónico com o conteúdo referido no número anteriortem a força probatória de documento particular assi-nado, nos termos do artigo 376.
+odo Código Civil.
+3 — Quando lhe seja aposta uma assinatura digital
+certificada por uma entidade credenciada e com osrequisitos previstos neste diploma, o documento elec-trónico cujo conteúdo não seja susceptível de repre-sentação como declaração escrita tem a força probatóriaprevista no artigo 368.
+odo Código Civil e no artigo 167.o
+do Código de Processo Penal.
+4 — O disposto nos números anteriores não obsta à
+utilização de outro meio de comprovação da autoriae integridade de documentos electrónicos, incluindo aassinatura electrónica não conforme com os requisitosdo presente diploma, desde que tal meio seja adoptadopelas partes ao abrigo de válida convenção sobre provaou seja aceite pela pessoa a quem for oposto odocumento.
+5 — O valor probatório dos documentos electrónicos
+aos quais não seja aposta uma assinatura digital cer-tificada por uma entidade credenciada e com os requi-sitos previstos neste diploma é apreciado nos termos
+gerais de direito.
+Artigo 4.
+o
+Cópias de documentos
+As cópias de documentos electrónicos, sobre idêntico
+ou diferente tipo de suporte, são válidas e eficazes nostermos gerais de direito e têm a força probatória atri-buída às cópias fotográficas pelo n.
+o2 do artigo 387.o
+do Código Civil e pelo artigo 168.odo Código de Pro-
+cesso Penal, se forem observados os requisitos aíprevistos.
+Artigo 5.
+o
+Documentos electrónicos dos organismos públicos
+1 — Os organismos públicos podem emitir documen-
+tos electrónicos com assinatura digital aposta em con-formidade com as normas do presente diploma.
+2 — Nas operações relativas à criação, emissão,
+arquivo, reprodução, cópia e transmissão de documentoselectrónicos que formalizem actos administrativos atra-vés de sistemas informáticos, incluindo a sua transmissãopor meios de telecomunicações, os dados relativos aoorganismo interessad o e à pessoa que tenha praticado
+cada acto administrativo devem ser indicados de forma
+a torná-los facilmente identificáveis e a comprovar afunção ou cargo desempenhado pela pessoa signatáriade cada documento.
+Artigo 6.
+o
+Comunicação de documentos electrónicos
+1 — O documento electrónico comunicado por um
+meio de telecomunicações considera-se enviado e rece-bido pelo destinatário se for transmitido para o endereçoelectrónico definido por acordo das partes e neste forrecebido.4990-(4) DIÁRIO DA REPÚBLICA — I SÉRIE-A N.o178 — 2-8-1999
+2 — São oponíveis entre as partes e a terceiros a data
+e a hora da criação, da expedição ou da recepção deum documento electrónico que contenha uma validaçãocronológica emitida por uma entidade certificadora.
+3 — A comunicação do documento electrónico, assi-
+nado de acordo com os requisitos do presente diploma,por meio de telecomunicações que assegure a efectiva
+recepção equivale à remessa por via postal registadae, se a recepção for comprovada por mensagem de con-firmação dirigida ao remetente pelo destinatário comassinatura digital e recebida pelo remetente, equivale
+à remessa por via postal registada com aviso de recepção.
+4 — Os dados e documentos comunicados por meio
+de telecomunicações consideram-se em poder do reme-tente até à recepção pelo destinatário.
+5 — Os operadores que assegurem a comunicação de
+documentos electrónicos por meio de telecomunicaçõesnão podem tomar conhecimento do seu conteúdo, nemduplicá-los por qualquer meio ou ceder a terceiros qual-quer informação, ainda que resumida ou por extracto,sobre a existência ou sobre o conteúdo desses docu-mentos, salvo quando se trate de informação que, pelasua natureza ou por indicação expressa do seu reme-tente, se destine a ser tornada pública.
+CAPÍTULO II
+Assinaturas digitais
+Artigo 7.
+o
+Assinatura digital
+1 — A aposição de uma assinatura digital a um docu-
+mento electrónico ou a uma cópia deste equivale à assi-
+natura autógrafa dos documentos com forma escrita
+sobre suporte de papel e cria a presunção de que:
+a) A pessoa que apôs a assinatura digita l é o titular
+desta ou é representante, com poderes bastan-tes, da pessoa colectiva titular da assinaturadigital;
+b) A assinatura digital foi aposta com a intenção
+de assinar o documento electrónico;
+c) O documento electrónico não sofreu alteração
+desde que lhe foi aposta a assinatura digital,sempre que seja utilizada para verificação umachave pública contida em certificado válido emi-tido por entidade certificadora credenciada nostermos deste diploma.
+2 — A assinatura digital deve referir-se inequivoca-
+mente a uma só pessoa singular ou colectiva e ao docu-mento ao qual é aposta.
+3 — A aposição de assinatura digital substitui, para
+todos os efeitos legais, a aposição de selos, carimbos,marcas ou outros sinais identificadores do seu titular.
+4 — Para a aposição de assinatura digital deve uti-
+lizar-se uma chave privada cuja correspondente chavepública conste de certificado válido, emitido por enti-dade certificadora, credenciada nos termos destediploma, e que, na data da aposição da assinatura digital,não se encontre suspenso ou revogado por decisão da
+entidade certificadora, e cujo prazo de validade nãotenha terminado.
+5 — A aposição de assinatura digital cuja chave
+pública conste de certificado que esteja revogado,caduco ou suspenso, na data da aposição, ou não respeiteas condições dele constantes equivale à falta de assi-natura.
+Artigo 8.
+o
+Obtenção das chaves e certificado
+Quem pretenda utilizar uma assinatura digital para
+os fins deste diploma deve, nos termos do n.o1d o
+artigo 29.o, criar ou obter a emissão de um par de chaves
+assimétricas, bem como obter o certificado da respectiva
+chave pública emitido por entidade certificadora cre-
+denciada nos termos deste diploma.
+CAPÍTULO III
+Certificação
+SECÇÃO I
+Acesso à actividade de certificação
+Artigo 9.o
+Livre acesso à actividade de certificação
+É livre o exercício da actividade de entidade certi-
+ficadora referida na alínea h) do artigo 2.o, sendo facul-
+tativa a solicitação da credenciação regulada nos arti-gos 11.
+oe seguintes.
+Artigo 10.o
+Livre escolha da entidade certificadora
+1 — É livre a escolha da entidade certificadora.
+2 — A escolha de entidade determinada não pode
+constituir condição de oferta ou de celebração de qual-quer negócio jurídico.
+Artigo 11.
+o
+Entidade competente para a credenciação
+A credenciação de entidades certificadoras para efei-
+tos do presente diploma compete à entidade, a designarnos termos do artigo 40.
+o, adiante designada autoridade
+credenciadora.
+Artigo 12.o
+Credenciação da entidade certificadora
+Será concedida a credenciação de entidades certifi-
+cadoras de assinaturas digitais, mediante pedido apre-sentado à autoridade credenciadora, a entidades quesatisfaçam os seguintes requisitos:
+a) Estejam dotadas de capital e meios financeiros
+adequados;
+b) Dêem garantias de absoluta integridade e inde-
+pendência no exercício da actividade de certi-ficação de assinaturas digitais;4990-(5) N.o178 — 2-8-1999 DIÁRIO DA REPÚBLICA — I SÉRIE-A
+c) Disponham de recursos técnicos e humanos que
+satisfaçam os padrões de segurança e de eficáciaque sejam previstos na regulamentação a quese refere o artigo 38.
+o;
+d) Mantenham contrato de seguro válido para
+cobertura adequada da responsabilidade civilemergente da actividade de certificação.
+Artigo 13.
+o
+Pedido de credenciação
+1 — O pedido de credenciação de entidade certifi-
+cadora de assinaturas digitais será instruído com osseguintes documentos:
+a) Estatutos da pessoa colectiva e, tratando-se de
+sociedade, contrato de sociedade ou, tratan-do-se de pessoa singular, a respectiva identi-
+ficação e domicílio;
+b) Tratando-se de sociedade, relação de todos os
+sócios, com especificação das respectivas par-ticipações, bem como dos membros dos órgãosde administração e de fiscalização, e, tratan-do-se de sociedade anónima, relação de todosos accionistas com participações significativas,directas ou indirectas;
+c) Declarações subscritas por todas as pessoas sin-
+gulares e colectivas referidas no n.
+o1d o
+artigo 15.ode que não se encontram em
+nenhuma das situações indiciadoras de inido-neidade referidas no respectivo n.
+o2;
+d) Prova do substrato patrimonial e dos meios
+financeiros disponíveis e, designadamente, tra-
+tando-se de sociedade, da realização integral docapital social;
+e) Descrição da organização interna e plano de
+segurança;
+f) Descrição dos recursos materiais e técnicos dis-
+poníveis, incluindo características e localizaçãode todos os imóveis utilizados;
+g) Designação do auditor de segurança;
+h) Programa geral da actividade prevista para os
+primeiros três anos;
+i) Descrição geral das actividades exercidas nos
+últimos três anos ou no tempo decorrido desdea constituição, se for inferior, e balanço e contasdos exercícios correspondentes;
+j) Comprovação de contrato de seguro válido para
+cobertura adequada da responsabilidade civilemergente da actividade de certificação.
+2 — Se à data do pedido a pessoa colectiva não estiver
+constituída, o pedido será instruído, em substituição doprevisto na alínea a) do número anterior, com os seguin-
+tes documentos:
+a) Acta da reunião em que foi deliberada a
+constituição;
+b) Projecto de estatutos ou contrato de sociedade;
+c) Declaração de compromisso, subscrita por todos
+os fundadores, de que no acto de constituição,e como condição dela, estará integralmente rea-lizado o substrato patrimonial exigido por lei.3 — As declarações previstas na alínea c)d on .
+o1
+poderão ser entregues em momento posterior ao pedido,nos termos e prazo que a autoridade credenciadora fixar.
+4 — Consideram-se como participações significativas,
+para os efeitos do presente diploma, as que igualemou excedam 10% do capital da sociedade anónima.
+Artigo 14.
+o
+Requisitos patrimoniais
+1 — As entidades certificadoras privadas, que sejam
+pessoas jurídicas, devem estar dotadas de capital socialno valor mínimo de 40 000 000$, ou, não sendo socie-dades, do substrato patrimonial equivalente.
+2 — O substrato patrimonial, e designadamente o
+capital social mínimo de sociedade, encontrar-se-á sem-
+pre integralmente realizado à data da credenciação, se
+a pessoa colectiva estiver já constituída, ou será sempreintegralmente realizado com a constituição da pessoacolectiva, se esta ocorrer posteriormente.
+3 — As entidades certificadoras que sejam pessoas
+singulares devem ter e manter durante toda a sua acti-vidade um património, livre de quaisquer ónus, de valorequivalente ao previsto no n.
+o1.
+Artigo 15.o
+Requisitos de idoneidade
+1 — A pessoa singular e, no caso de pessoa colectiva,
+os membros dos órgãos de administração e fiscalização,os empregados, comitidos e representantes das entida-des certificadoras com acesso aos actos e instrumentosde certificação, os sócios da sociedade e, tratando-se
+de sociedade anónima, os accionistas com participaçõessignificativas serão sempre pessoas de reconhecida
+idoneidade.
+2 — Entre outras circunstâncias atendíveis, conside-
+ra-se indiciador de falta de idoneidade o facto de apessoa ter sido:
+a) Condenada, no País ou no estrangeiro, por
+crime de furto, roubo, burla, burla informáticae nas comunicações, extorsão, abuso de con-fiança, infidelidade, falsificação, falsas declara-ções, insolvência dolosa, insolvência negligente,favorecimento de credores, emissão de chequessem provisão, abuso de cartão de garantia oude crédito, apropriação ilegítima de bens do sec-tor público ou cooperativo, administraçãodanosa em unidade económica do sector públicoou cooperativo, usura, suborno, corrupção,recepção não autorizada de depósitos ou outros
+fundos reembolsáveis, prática ilícita de actos ou
+operações inerentes à actividade seguradora oudos fundos de pensões, branqueamento de capi-tais, abuso de informação, manipulação do mer-cado de valores mobiliários ou crime previstono Código das Sociedades Comerciais;
+b) Declarada, por sentença nacional ou estran-
+geira, falida ou insolvente ou julgada respon-sável por falência ou insolvência de empresa4990-(6) DIÁRIO DA REPÚBLICA — I SÉRIE-A N.o178 — 2-8-1999
+por ela dominada ou de cujos órgãos de admi-
+nistração ou fiscalização tenha sido membro;
+c) Sujeita a sanções, no País ou no estrangeiro,
+pela prática de infracções às normas legais ouregulamentares que regem as actividades deprodução, autenticação, registo e conservaçãode documentos, e designadamente as do nota-riado, dos registos públicos, do funcionalismojudicial, das bibliotecas públicas e da certifica-ção de assinaturas digitais.
+3 — A falta dos requisitos de idoneidade previstos
+no presente artigo constitui fundamento de recusa e
+de revogação da credenciação, nos termos da alínea c)
+do n.
+o1 do artigo 19.oe da alínea f)d on .o1 do artigo 21.o
+Artigo 16.o
+Auditor de segurança
+1 — Todas as entidades certificadoras terão um audi-
+tor de segurança, pessoa singular ou colectiva, o qualelaborará um relatório anual de segurança e o enviaráà autoridade credenciadora, até 31 de Março de cadaano civil.
+2 — A designação do auditor de segurança será sujeita
+a aprovação prévia pela autoridade credenciadora.
+Artigo 17.
+o
+Seguro obrigatório de responsabilidade civil
+O Ministro das Finanças definirá, por portaria, as
+características do contrato de seguro de responsabili-dade civil a que se refere a alínea d) do artigo 12.
+o
+Artigo 18.o
+Decisão
+1 — A autoridade credenciadora poderá solicitar dos
+requerentes informações complementares e proceder,por si ou por quem para o efeito designar, às averi-guações, inquirições e inspecções que entenda neces-sárias para a apreciação do pedido.
+2 — A decisão sobre o pedido de credenciação deve
+ser notificada aos interessados no prazo de três mesesa contar da recepção do pedido ou, se for o caso, acontar da recepção das informações complementaressolicitadas ou da conclusão das diligências que entendanecessárias, não podendo no entanto exceder o prazode seis meses sobre a data da recepção daquele.
+3 — A falta de notificação nos prazos referidos no
+número anterior constitui presunção de indeferimentotácito do pedido.
+4 — A autoridade credenciadora poderá incluir na
+credenciação condições adicionais desde que necessáriaspara assegurar o cumprimento das disposições legaise regulamentares aplicáveis ao exercício da actividadepela entidade certificadora.
+5 — A emissão da credenciação será acompanhada
+da emissão pela autoridade credenciadora do certificadodas chaves a ser usado pela entidade certificadora naemissão de certificados.6 — A decisão de credenciação será comunicada às
+autoridades fiscalizadoras dos Estados membros daUnião Europeia.
+Artigo 19.
+o
+Recusa de credenciação
+1 — A credenciação será recusada sempre que:
+a) O pedido de credenciação não estiver instruído
+com todas as informações e documentos neces-sários;
+b) A instrução do pedido enfermar de inexactidões
+ou falsidades;
+c) A autoridade credenciadora não considerar
+demonstrado algum dos requisitos enumeradosnos artigos 12.
+oe 15.o
+2 — Se o pedido estiver deficientemente instruído,
+a autoridade credenciadora, antes de recusar a creden-
+ciação, notificará o requerente, dando-lhe prazo razoá-
+vel para suprir a deficiência.
+Artigo 20.o
+Caducidade da credenciação
+1 — A credenciação caduca se os requerentes a ela
+expressamente renunciarem, se não iniciarem a activi-dade no prazo de 12 meses ou, tratando-se de pessoacolectiva, esta não for constituída no prazo de 6 meses.
+2 — A credenciação caduca ainda se a pessoa colec-
+tiva for dissolvida, sem prejuízo da prática dos actosnecessários à respectiva liquidação.
+Artigo 21.
+o
+Revogação da credenciação
+1 — A credenciação será revogada, sem prejuízo de
+outras sanções aplicáveis nos termos da lei, quando severifique alguma das seguintes situações:
+a) Se tiver sido obtida por meio de falsas decla-
+rações ou outros expedientes ilícitos;
+b) Se deixar de se verificar algum dos requisitos
+enumerados no artigo 12.
+o;
+c) Se a entidade cessar a actividade de certificação
+ou a reduzir para nível insignificante por
+período superior a 12 meses;
+d) Se ocorrerem irregularidades graves na admi-
+nistração, organização ou fiscalização interna daentidade;
+e) Se no exercício da actividade de certificação ou
+de outra actividade social forem praticados actosilícitos que lesem ou ponham em perigo a con-fiança do público na certificação;
+f) Se supervenientemente se verificar alguma das
+circunstâncias de inidoneidade referidas noartigo 15.
+oem relação a qualquer das pessoas
+a que alude o seu n.o1.
+2 — A revogação da credenciação compete à auto-
+ridade credenciadora, em decisão fundamentada queserá notificada à entidade no prazo de oito dias úteis.4990-(7) N.o178 — 2-8-1999 DIÁRIO DA REPÚBLICA — I SÉRIE-A
+3 — A autoridade credenciadora dará à decisão de
+revogação publicidade adequada.
+4 — A decisão de revogação será comunicada às auto-
+ridades fiscalizadoras dos Estados membros da UniãoEuropeia.
+Artigo 22.
+o
+Anomalias nos órgãos de administração e fiscalização
+1 — Se por qualquer motivo deixarem de estar preen-
+chidos os requisitos legais e estatutários do normal fun-cionamento dos órgãos de administração ou fiscalização,a autoridade credenciadora fixará prazo para ser regu-larizada a situação.
+2 — Não sendo regularizada a situação no prazo
+fixado, será revogada a credenciação nos termos do
+artigo anterior.
+Artigo 23.
+o
+Comunicação de alterações
+Devem ser comunicadas à autoridade credenciadora,
+no prazo de 30 dias, as alterações das entidades cer-tificadoras relativas a:
+a) Firma ou denominação;
+b) Objecto;
+c) Local da sede, salvo se a mudança ocorrer den-
+tro do mesmo concelho ou para concelholimítrofe;
+d) Substrato patrimonial ou património, desde que
+se trate de uma alteração significativa;
+e) Estrutura de administração e de fiscalização;
+f) Limitação dos poderes dos órgãos de adminis-
+tração e fiscalização;
+g) Cisão, fusão e dissolução.
+Artigo 24.
+o
+Registo
+1 — O registo das pessoas referidas no n.o1d o
+artigo 15.odeve ser solicitado à autoridade credencia-
+dora no prazo de 15 dias após assumirem qualquer das
+qualidades nele referidas, mediante pedido da entidadecertificadora ou dos interessados, juntamente com asprovas de que se encontram preenchidos os requisitosdefinidos no mesmo artigo, sob pena de a credenciaçãoser revogada.
+2 — Poderão a entidade certificadora ou os interes-
+sados solicitar o registo provisório, antes da assunçãopor estes de qualquer das qualidades referidas no n.
+o1
+do artigo 15.o, devendo a conversão do registo em defi-
+nitivo ser requerida no prazo de 30 dias a contar dadesignação, sob pena de caducidade.
+3 — Em caso de recondução, será esta averbada no
+registo, a pedido da entidade certificadora ou dosinteressados.
+4 — O registo será recusado em caso de inidoneidade,
+nos termos do artigo 15.
+o, e a recusa será comunicada
+aos interessado s e à entidade certificadora, a qual
+tomará as medidas adequadas para que aqueles cessemimediatamente funções ou deixem de estar para coma pessoa colectiva na relação prevista no mesmo artigo,seguindo-se no aplicável o disposto no artigo 22.
+o5 — Sem prejuízo do que resulte de outras disposições
+legais aplicáveis, a falta de registo não determina porsi só invalidade dos actos jurídicos praticados pela pessoaem causa no exercício das suas funções.
+SECÇÃO II
+Exercício da actividade
+Artigo 25.o
+Deveres da entidade certificadora
+Compete à entidade certificadora:
+a) Verificar rigorosamente a identidade dos reque-
+rentes de pares de chaves e respectivos certifi-cados e, tratando-se de representantes de pessoascolectivas, os respectivos poderes de representa-ção, bem como, quando aplicável, as qualidadesespecíficas a que se refere a alínea i)d on .
+o1
+do artigo 30.o;
+b) Emitir os pares de chaves ou fornecer os meios
+técnicos necessários para a sua criação, bem
+como o certificado de assinatura com rigorosaobservância do disposto neste diploma e nasnormas regulamentares, zelando pela corres-pondência funcional das duas chaves de cadapar e pela exactidão das informações constantesdos certificados;
+c) Especificar no certificado de assinatura ou num
+certificado complementar, a pedido do reque-rente do par de chaves, a existência dos poderesde representação ou de outros títulos relativosà actividade profissional ou a outros cargosdesempenhados;
+d) Informar os requerentes, de modo completo e
+claro, sobre o processo de certificação e sobre
+os requisitos técnicos necessários para ter acessoao mesmo;
+e) Cumprir as regras de segurança para tratamento
+de dados pessoais estabelecidas na legislaçãorespectiva;
+f) Assegurar a publicidade das chaves públicas e
+respectivos certificados e prestar informaçãosobre eles a qualquer pessoa que deseje con-sultá-los, por meios informáticos e de teleco-municações adequados e expeditos;
+g) Abster-se de tomar conhecimento do conteúdo
+das chaves privadas, aceitar o seu depósito, con-servá-las, reproduzi-las ou prestar quaisquerinformações sobre as mesmas;
+h) Proceder à publicação imediata da revogação
+ou suspensão dos certificados, nos casos pre-vistos no presente diploma;
+i) Conservar os certificados que emitir, por um
+período não inferior a 20 anos;
+j) Assegurar que a data e hora da emissão, sus-
+pensão e revogação dos certificados possam serdeterminadas através de validação cronológica.
+Artigo 26.
+o
+Protecção de dados
+1 — As entidades certificadoras só podem coligir
+dados pessoais necessários ao exercício das suas acti-4990-(8) DIÁRIO DA REPÚBLICA — I SÉRIE-A N.o178 — 2-8-1999
+vidades e obtê-los directamente das pessoas interessadas
+na titularidade de pares de chaves e respectivos cer-tificados, ou de terceiros junto dos quais aquelas pessoasautorizem a sua colecta.
+2 — Os dados pessoais coligidos pela entidade cer-
+tificadora não poderão ser utilizados para outra fina-lidade que não seja a de certificação, salvo se outrouso for consentido expressamente por lei ou pela pessoainteressada.
+3 — As entidades certificadora s e a autoridade cre-
+denciadora respeitarão as normas legais vigentes sobre
+a protecção, tratamento e circulação dos dados pessoais
+e sobre a protecção da privacidade no sector dastelecomunicações.
+4 — As entidades certificadoras comunicarão à auto-
+ridade judiciária, sempre que esta o ordenar nos termoslegalmente previstos, os dados relativos à identidade dostitulares de certificados que sejam emitidos com pseu-dónimo seguindo-se, no aplicável, o regime doartigo 182.
+odo Código de Processo Penal.
+Artigo 27.o
+Responsabilidade civil
+1 — A entidade certificadora é responsável civilmente
+pelos danos sofridos pelos titulares dos certificados equaisquer terceiros, em consequência do incumprimentoculposo dos deveres decorrentes do presente diplomae sua regulamentação.
+2 — São nulas as convenções de exoneração e limi-
+tação da responsabilidade previstas no n.
+o1.
+Artigo 28.o
+Cessação da actividade
+1 — No caso de pretender cessar voluntariamente a
+sua actividade, a entidade certificadora deve comunicaressa intenção à autoridade credenciadora e às pessoasa quem tenha emitido certificados que permaneçam emvigor, com a antecipação mínima de três meses, indi-cando também qual a entidade certificadora à qual trans-mitirá a sua documentação ou a revogação dos certi-ficados no termo daquele prazo, devendo neste últimocaso colocar a sua documentação à guarda da autoridadecredenciadora.
+2 — A entidade certificadora que se encontre em risco
+de decretação de falência, de processo de recuperaçãode empresa ou de cessação da actividade por qualqueroutro motivo alheio à sua vontade deve informar ime-diatamente a autoridade credenciadora.
+3 — No caso previsto no número anterior, se a enti-
+dade certificadora vier a cessar a sua actividade, a auto-ridade credenciadora promoverá a transmissão da docu-mentação daquela para outra entidade certificadora ou,se tal transmissão for impossível, a revogação dos cer-tificados emitido s e a conservação dos elementos de
+tais certificados pelo prazo em que deveria fazê-lo aentidade certificadora.
+SECÇÃO III
+Certificados
+Artigo 29.o
+Emissão das chaves e dos certificados
+1 — A entidade certificadora, a pedido de uma pessoa
+singular ou colectiva interessada, cuja identidade e pode-res de representação, quando existam, verificará por
+meio legalmente idóneo e seguro, emitirá a favordaquela um par de chaves, privada e pública, ou poráà disposição dessa pessoa, se esta o solicitar, os meiostécnicos necessários para que ela crie o par de chaves.
+2 — A entidade certificadora emitirá, a pedido do
+titular do par de chaves, uma ou mais vias do certificadode assinatura e do certificado complementar.
+3 — A entidade certificadora deve tomar medidas
+adequadas para impedir a falsificação ou alteração dosdados constantes dos certificados e assegurar o cum-
+primento das normas legais e regulamentares aplicáveis
+recorrendo a pessoal devidamente habilitado.
+4 — A entidade certificadora fornecerá aos titulares
+dos certificados as informações necessárias para a uti-lização correcta e segura das assinaturas digitais, nomea-damente as respeitantes:
+a) Às obrigações do titular do certificado e da enti-
+dade certificadora;
+b) Ao procedimento de aposição e verificação de
+uma assinatura digital;
+c) À conveniência de os documentos aos quais foi
+aposta uma assinatura digital serem novamenteassinados quando ocorrerem circunstâncias téc-nicas que o justifiquem.
+5 — A entidade certificadora organizará e manterá
+permanentemente actualizado um registo informático
+dos certificados emitidos, suspensos ou revogados, o
+qual estará acessível a qualquer pessoa para consulta,inclusivamente por meio de telecomunicações, e seráprotegido contra alterações não autorizadas.
+Artigo 30.
+o
+Conteúdo dos certificados
+1 — O certificado de assinatura deve conter, pelo
+menos, as seguintes informações:
+a) Nome ou denominação do titular da assinatura
+e outros elementos necessários para a sua iden-
+tificação inequívoca e, quando existam poderesde representação, o nome do seu representanteou representantes habilitados, ou um pseudó-nimo distintivo do titular da assinatura, clara-mente mencionado como tal;
+b) Nome e assinatura digital da entidade certifi-
+cadora, bem como indicação do país onde estáestabelecida;
+c) Chave pública correspondente à chave privada
+detida pelo titular;
+d) Número de série do certificado;
+e) Início e termo de validade do certificado;
+f) Identificadores de algoritmos necessários para
+o uso da chave pública do titular e da chavepública da entidade certificadora;
+g) Indicação de o uso do certificado ser ou não
+restrito a determinados tipos de utilização, bemcomo eventuais limites do valor das transacçõespara as quais o certificado é válido;4990-(9) N.o178 — 2-8-1999 DIÁRIO DA REPÚBLICA — I SÉRIE-A
+h) Limitações convencionais da responsabilidade
+da entidade certificadora, sem prejuízo do dis-posto no n.
+o2 do artigo 27.o;
+i) Eventual referência a uma qualidade específica
+do titular da assinatura, em função da utilizaçãoa que o certificado estiver destinado.
+2 — A pedido do titular podem ser incluídas no cer-
+tificado de assinatura ou em certificado complementarinformações relativas a poderes de representação con-feridos ao titular por terceiro, à sua qualificação pro-fissional ou a outros atributos, mediante fornecimentoda respectiva prova, ou com a menção de se tratar de
+informações não confirmadas.
+Artigo 31.
+o
+Suspensão e revogação de certificados
+1 — A entidade certificadora suspenderá o certifi-
+cado:
+a) A pedido escrito do titular, devidamente iden-
+tificado para o efeito;
+b) Quando existam fundadas razões para crer que
+o certificado foi emitido com base em infor-mações erróneas ou falsas, que as informaçõesnele contidas deixaram de ser conformes coma realidade ou que a confidencialidade da chaveprivada foi violada.
+2 — A suspensão com um dos fundamentos previstos
+na alínea b) do número anterior será sempre motivada
+e comunicada prontamente ao titular, bem como ime-diatamente inscrita no registo do certificado, podendoser levantada quando se verifique que tal fundamentonão corresponde à realidade.
+3 — A entidade certificadora revogará o certificado:
+a) A pedido escrito do titular, devidamente iden-
+tificado para o efeito;
+b) Quando, após suspensão do certificado, se con-
+firme que o certificado foi emitido com baseem informações erróneas ou falsas, que as infor-mações nele contidas deixaram de ser conformescom a realidade, ou que a confidencialidade dachave privada foi violada;
+c) Quando a entidade certificadora cesse as suas
+actividades sem ter transmitido a sua documen-tação a outra entidade certificadora;
+d) Quando a autoridade credenciadora ordene a
+revogação do certificado por motivo legalmentefundado;
+e) Quando finde o prazo do certificado;
+f) Quando tomar conhecimento do falecimento,
+interdição ou inabilitação da pessoa singular ouda extinção da pessoa colectiva.
+4 — A decisão de revogação do certificado com um
+dos fundamentos previstos nas alíneas b),c),d)ee)
+do n.
+o3 será sempre fundamentada e comunicada ao
+titular, bem como imediatamente inscrita.
+5 — A suspensã o e a revogação do certificado são
+oponíveis a terceiros a partir da inscrição no registorespectivo, salvo se for provado que o seu motivo já
+era do conhecimento do terceiro.
+6 — A entidade certiflcadora conservará as informa-
+ções referentes aos certificados durante um prazo nãoinferior a 20 anos a contar da suspensão ou revogaçãode cada certificado e facultá-las-á a qualquer inte-ressado.
+7 — A revogação ou suspensão do certificado indicará
+a data e hora a partir das quais produzem efeitos, nãopodendo essa data e hora ser anterior àquela em queessa informação for divulgada publicamente.
+8 — A partir da suspensão ou revogação de um cer-
+tificado, ou do termo do seu prazo de validade, é proi-bida a emissão de certificado referente ao mesmo parde chaves pela mesma ou outra entidade certificadora.
+Artigo 32.
+o
+Obrigações do titular
+1 — O titular do certificado deve tomar todas as medi-
+das de organização e técnicas que sejam necessárias paraevitar danos a terceiros e para preservar a confiden-cialidade de toda a informação transmitida.
+2 — Em caso de dúvida quanto à perda de confiden-
+cialidade da chave privada, o titular deve pedir a sus-pensão do certificado e, se a perda for confirmada, asua revogação.
+3 — A partir da suspensão ou revogação de um cer-
+tificado, ou do termo do seu prazo de validade, é proi-bida ao titular a utilização da respectiva chave privada
+para gerar uma assinatura digital.
+4 — Sempre que se verifiquem motivos que justifi-
+quem a revogação ou suspensão do certificado, deveo respectivo titular efectuar, com a necessária celeridadee diligência, o correspondente pedido de suspensão ourevogação à entidade certificadora.
+CAPÍTULO IV
+Fiscalização
+Artigo 33.
+o
+Deveres de informação das entidades certificadoras
+1 — As entidades certificadoras fornecerão à auto-
+ridade credenciadora, de modo pronto e exaustivo, todasas informações que ela lhes solicite para fins de fis-calização da sua actividade e facultar-lhe-ão para os mes-mos fins a inspecção dos seus estabelecimentos e oexame local de documentos, objectos, equipamentos dehardware esoftware e procedimentos operacionais, no
+decorrer dos quais a autoridade credenciadora poderáfazer as cópias e registos que sejam necessários.
+2 — As entidades certificadoras comunicarão sempre
+à autoridade credenciadora, no mais breve prazo pos-
+sível, todas as alterações relevantes que sobrevenhamnos requisitos e elementos referidos nos artigos 13.
+o
+e 15.o
+3 — Até ao último dia útil de cada semestre, as enti-
+dades certificadoras enviarão à autoridade credencia-dora uma versão actualizada das relações referidas naalínea b)d on .
+o1 do artigo 13.o4990-(10) DIÁRIO DA REPÚBLICA — I SÉRIE-A N.o178 — 2-8-1999
+Artigo 34.o
+Revisores oficiais de contas e auditores externos
+Os revisores oficiais de contas ao serviço das entidades
+certificadoras e os auditores externos que, por imposiçãolegal, prestem às mesmas entidades serviços de auditoriadevem comunicar à autoridade credenciadora as infrac-ções graves às normas legais ou regulamentares rele-vantes para a fiscalização e que detectem no exercíciodas suas funções.
+Artigo 35.
+o
+Recursos
+Nos recursos interpostos das decisões tomadas pela
+autoridade credenciadora no exercício dos seus poderesde credenciação e fiscalização, presume-se, até provaem contrário, que a suspensão da eficácia determinagrave lesão do interesse público.
+Artigo 36.
+o
+Colaboração das autoridades
+A autoridade credenciadora poderá solicitar às auto-
+ridades policiais e judiciária s e a quaisquer outras auto-
+ridades e serviços públicos toda a colaboração ou auxílioque julgue necessários para a credenciação e fiscalizaçãoda actividade de certificação.
+CAPÍTULO V
+Disposições finais
+Artigo 37.
+o
+Certificados de outros países
+1 — As assinaturas digitais susceptíveis de serem veri-
+ficadas por uma chave pública constante de um cer-tificado emitido ou garantido por entidade certificadoracredenciada em outro Estado membro da União Euro-peia, ou noutro Estado abrangido por um acordo inter-nacional que vincule o Estado Português, serão equi-paradas às assinaturas digitais certificadas nos termosdo presente diploma.
+2 — A autoridade credenciadora divulgará, sempre
+que possível e pelos meios de publicidade que consideraradequados, e facultará aos interessados, a pedido, as
+informações de que dispuser acerca das entidades cer-
+tificadoras credenciadas em Estados estrangeiros.Artigo 38.
+o
+Normas regulamentares
+1 — A regulamentação do presente diploma, nomea-
+damente no que se refere às normas de carácter técnicoe de segurança, constará de decreto regulamentar, aadoptar no prazo de 150 dias.
+2 — Os serviços e organismos da Administração
+Pública poderão emitir normas regulamentares relativasaos requisitos a que devem obedecer os documentosque recebam por via electrónica.
+Artigo 39.
+o
+Evolução tecnológica
+A autoridade credenciadora acompanhará a evolução
+tecnológica em matéria de assinatura electrónica,podendo propor a aplicação do regime previsto no pre-sente diploma para a assinatura digital a outras moda-
+lidades de assinatura electrónica que satisfaçam os
+requisitos de segurança e fiabilidade daquela.
+Artigo 40.
+o
+Designação da autoridade credenciadora
+A entidade referida no artigo 11.oserá designada,
+em diploma próprio, no prazo de 150 dias.
+Artigo 41.o
+Entrada em vigor
+O presente diploma entra em vigor no dia imediato
+ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 22
+de Julho de 1999. — António Manuel de Oliveira Guter-
+res — António Luciano Pacheco de Sousa Franco — JoséEduardo Vera Cruz Jardim — José Mariano Rebelo PiresGago.
+Promulgado em 29 de Julho de 1999.
+Publique-se.O Presidente da República, J
+ORGE SAMPAIO .
+Referendado em 29 de Julho de 1999.
+O Primeiro-Ministro, António Manuel de Oliveira
+Guterres.

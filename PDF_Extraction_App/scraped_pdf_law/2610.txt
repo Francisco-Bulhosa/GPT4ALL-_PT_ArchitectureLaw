@@ -1,0 +1,291 @@
+2610  Diário da República, 1.ª série — N.º 87 — 6 de Maio de 2009 
+ Portaria n.º 468/2009
+de 6 de Maio
+O Centro Jurídico (CEJUR), serviço integrado na Presi-
+dência do Conselho de Ministros, tem vindo a ganhar, desde 
+2006, uma maior amplitude de actuação, tendo passado a 
+assegurar a gestão do DIGESTO — Sistema Integrado para 
+o Tratamento da Informação Jurídica, a coordenação da 
+publicação de actos normativos do Governo, bem como o 
+acompanhamento do Programa Legislar Melhor, aprovado 
+pela Resolução do Conselho de Ministros n.º 63/2006, de 18 de Maio, e das iniciativas internacionais, no quadro da 
+União Europeia e da Organização para a Cooperação e 
+Desenvolvimento Económico (OCDE), relativas à Melhor 
+Regulamentação (Better Regulation).
+Desde Dezembro de 2008, as competências do CEJUR 
+em relação a este último conjunto de matérias foram 
+ainda mais reforçadas, no quadro da avaliação da im-
+plementação da nova versão do teste SIMPLEX, que 
+adapta à realidade portuguesa soluções próximas do 
+chamado Standard Cost Model  e determina a realização 
+de diversas acções de acompanhamento pelo CEJUR da 
+sua introdução no procedimento de aprovação de actos 
+normativos.
+Neste contexto, importa reforçar o quadro de consultores 
+do Centro Jurídico, permitindo não só o acompanhamento 
+das novas tarefas relacionadas com o teste SIMPLEX, 
+como ainda dotar o CEJUR de pessoal associado funcio-
+nalmente às iniciativas internacionais de Better Regulation  
+e ao Programa Legislar Melhor.
+O disposto na presente portaria não prejudica a exis-
+tência do mapa de pessoal relativo aos restantes postos de 
+trabalho necessários ao desenvolvimento das atribuições deste serviço, nas condições previstas na respectiva Lei 
+Orgânica e de acordo com a legislação em vigor.
+Assim:
+Ao abrigo do disposto no artigo 6.º do Decreto -Lei 
+n.º 162/2007, de 3 de Maio, e na alínea  c) do n.º 1 do 
+despacho n.º 14 405/2005 (2.ª série), de 21 de Junho, 
+publicado no Diário da República,  2.ª série, n.º 124, de 
+30 de Junho de 2005:
+Manda o Governo, pelo Ministro de Estado e das Finan-
+ças e pelo Secretário de Estado da Presidência do Conselho 
+de Ministros, o seguinte:
+1.º É aprovado o mapa de consultores, em regime de 
+comissão de serviço, do Centro Jurídico (CEJUR), cons-
+tante do mapa anexo à presente portaria e que dela faz 
+parte integrante.
+2.º É revogada a Portaria n.º 828/2007, de 1 de Agosto.
+Em 17 de Abril de 2009.
+O Ministro de Estado e das Finanças, Fernando Teixeira 
+dos Santos.  — O Secretário de Estado da Presidência do 
+Conselho de Ministros, Jorge Lacão Costa.
+ANEXO
+Mapa 
+Cargos Número de lugares
+Consultor principal. . . . . . . . . . . . . . . . . . . . . . . . 8
+Consultor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 MINISTÉRIOS DA ADMINISTRAÇÃO INTERNA, 
+DA JUSTIÇA E DAS OBRAS 
+PÚBLICAS, TRANSPORTES E COMUNICAÇÕES
+Portaria n.º 469/2009
+de 6 de Maio
+A Lei n.º 32/2008, de 17 de Julho, procedeu à trans-
+posição para a ordem jurídica interna da Directiva 
+n.º 2006/24/CE, do Parlamento Europeu e do Conselho, 
+de 15 de Março de 2006, relativa à conservação de dados gerados ou tratados no contexto da oferta de serviços de 
+comunicações electrónicas publicamente disponíveis ou 
+de redes públicas de comunicações.
+No quadro da regulamentação imposta por aquela direc-
+tiva, a Lei n.º 32/2008, de 17 de Julho, veio criar a obrigação 
+de os fornecedores de serviços de comunicações electróni-
+cas publicamente disponíveis ou de uma rede pública de comunicações conservarem certos dados de comunicação especificamente definidos, para que possam ser acedidos pelas autoridades competentes, exclusivamente para fins 
+de investigação, detecção e repressão de crimes graves.
+Reconhecendo a sensibilidade dos valores em presença 
+e da conservação dos dados em causa, a Lei n.º 32/2008, 
+de 17 de Julho, adoptou especiais restrições, cautelas e 
+medidas de segurança em sede de acesso e tratamento dos dados e de supervisão e fiscalização do cumprimento das obrigações legalmente previstas, de que cabe destacar as 
+seguintes: a inclusão de um elenco taxativo de tipos de 
+crime que integram o conceito de «crime grave»; a proi-
+bição expressa da conservação de dados que revelem o 
+conteúdo das comunicações; a previsão de que o acesso aos 
+dados apenas pode ser solicitado pelo Ministério Público ou 
+pela autoridades de polícia criminal competentes e depende 
+sempre da decisão do juiz; a fixação em um ano do período 
+de conservação de dados; a consagração da obrigatoriedade 
+de autorização e registo junto da Comissão Nacional de Protecção de Dados (CNPD) das pessoas que, no âmbito dos fornecedores de serviços de comunicações electróni-cas publicamente disponíveis ou de uma rede pública de comunicações, devam desempenhar tarefas associadas ao cumprimento das obrigações previstas na lei.
+No que especificamente respeita à transmissão dos 
+dados legalmente previstos, o n.º 3 do artigo 7.º da Lei 
+n.º 32/2008, de 17 de Julho, determina que a mesma se 
+processe mediante comunicação electrónica, nos termos 
+das condições técnicas e de segurança fixadas em portaria 
+conjunta dos membros do Governo responsáveis pelas 
+áreas da administração interna, da justiça e das telecomu-nicações, que devem observar um grau de protecção e co-
+dificação o mais elevado possível, de acordo com o estado 
+da técnica ao momento da transmissão, incluindo métodos 
+de codificação, encriptação ou outros adequados.
+Em cumprimento dessa determinação legal, a presente 
+portaria vem concretizar medidas importantes, tendo em vista a fixação das condições técnicas e de segurança da comunicação electrónica dos dados de tráfego e de locali-
+zação relativos a pessoas singulares e a pessoas colectivas, 
+bem como dos dados conexos necessários para identifi-
+car o assinante ou o utilizador registado, previstos na Lei n.º 32/2008, de 17 de Julho.
+Assim, em primeiro lugar, prevê -se que a comunica-
+ção electrónica se processe tendo por base uma aplicação informática específica, através da qual o juiz procede ao Diário da República, 1.ª série — N.º 87 — 6 de Maio de 2009  2611
+envio do pedido de dados e os fornecedores de serviços de 
+comunicações electrónicas publicamente disponíveis ou de 
+uma rede pública de comunicações notificam da transfe-
+rência do ficheiro correspondente ao resultado da pesquisa.
+Em segundo lugar, fica expressamente estabelecida a 
+obrigatoriedade de aposição de assinatura electrónica, seja 
+no despacho fundamentado do juiz que ordena ou autoriza a 
+transmissão de dados — estendendo -se a este domínio a re-
+gra prevista no n.º 1 do artigo 17.º da Portaria n.º 114/2008, 
+de 6 de Fevereiro — , seja no ficheiro de resposta ao pedido 
+de dados, enviado pelos fornecedores.
+Em terceiro lugar, determina -se a encriptação de todas 
+as comunicações electrónicas efectuadas ao abrigo da pre-
+sente portaria, bem como do ficheiro de resposta ao pedido 
+de dados enviado pelos fornecedores, conferindo assim as 
+máximas garantias neste domínio.
+Em quarto lugar, estabelece -se a obrigatoriedade de 
+proceder ao registo electrónico dos pedidos de dados en-
+viados, com indicação de quem procedeu ao envio e da data 
+e hora em que o mesmo ocorreu, bem como dos acessos a 
+ficheiros de resposta, igualmente com indicação de quem os efectuou e da data e hora de cada acesso.
+Finalmente, prevê -se a realização de auditorias de segu-
+rança à aplicação informática, consagrando expressamente 
+na portaria uma boa prática já observada no âmbito dos sistemas informáticos do sistema judicial.
+A presente portaria vem ainda dar ao juiz a possibilidade 
+de utilizar a plataforma tecnológica criada para enviar 
+pedidos de dados relativos a crimes para os quais não seja 
+possível ordenar ou autorizar a transmissão dos dados 
+conservados ao abrigo da Lei n.º 32/2008, de 17 de Julho.
+Deste modo, garante -se que o juiz tem a possibilidade de 
+enviar os pedidos de dados aos fornecedores com as mesmas 
+condições de segurança e de forma sempre electrónica, inde-pendentemente do tipo de crimes a que tais dados respeitem.
+Assim:
+Ao abrigo do disposto no n.º 3 do artigo 7.º da Lei 
+n.º 32/2008, de 17 de Julho, no n.º 3 do artigo 94.º do 
+Código de Processo Penal e no n.º 3 do artigo 176.º do 
+Código de Processo Civil:
+Manda o Governo, pelo Ministro da Administração 
+Interna, da Justiça e das Obras Públicas, Transportes e 
+Comunicações, o seguinte:
+Artigo 1.º
+Objecto
+A presente portaria estabelece os termos das condições 
+técnicas e de segurança em que se processa a comunicação 
+electrónica para efeitos da transmissão de dados de tráfego 
+e de localização relativos a pessoas singulares e a pessoas 
+colectivas, bem como dos dados conexos necessários para 
+identificar o assinante ou o utilizador registado, nos termos 
+previstos na Lei n.º 32/2008, de 17 de Julho.
+Artigo 2.º
+Pedido de dados
+1 — O juiz que tenha ordenado ou autorizado a trans-
+missão de dados nos termos previstos no artigo 9.º da Lei 
+n.º 32/2008, de 17 de Julho, procede ao pedido dos mesmos 
+através da aplicação informática especificamente disponi-
+bilizada para o efeito («a aplicação informática»).
+2 — O pedido de dados é efectuado através do preenchi-
+mento do formulário electrónico disponibilizado na aplica-ção informática, ao qual se anexa o despacho fundamen-
+tado do juiz que ordena ou autoriza a transmissão de dados.
+3 — O pedido de dados é constituído:
+a) Pelo despacho fundamentado do juiz que ordena ou au-
+toriza a transmissão de dados, elaborado em formato portable 
+document format  (pdf) ou em ficheiro de texto e com aposição 
+de assinatura electrónica, nos termos do disposto no n.º 1 
+do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro; e
+b) Pelo formulário electrónico, preenchido de acordo 
+com o conteúdo do despacho referido na alínea anterior.
+Artigo 3.º
+Resposta dos fornecedores ao pedido de dados
+1 — Após recepção de um pedido de dados, o fornecedor de 
+serviços de comunicações electrónicas publicamente disponí-
+veis ou de uma rede pública de comunicações («o fornecedor») 
+procede imediatamente à pesquisa dos mesmos, de acordo 
+com a ordem cronológica de recepção do pedido ou o grau 
+de urgência determinado no despacho fundamentado do juiz.
+2 — Logo que a pesquisa de dados esteja concluída, o 
+fornecedor:
+a) Transfere o ficheiro correspondente ao resultado da 
+pesquisa, através de ligação segura, encriptada e com au-tenticação mediante nome de utilizador e palavra -passe; e
+b) Envia notificação da transferência do ficheiro de 
+resposta através da aplicação informática, indicando o 
+nome do ficheiro transferido.
+3 — Os ficheiros de resposta obedecem aos seguintes 
+requisitos técnicos:
+a) São elaborados em formato portable document for-
+mat (pdf);
+b) É -lhes aposta assinatura electrónica;
+c) São encriptados mediante chaves assimétricas, dis-
+ponibilizadas através de certificados digitais.
+4 — O fornecedor solicita, através da aplicação informá-
+tica, que o pedido de dados seja rectificado ou completado 
+quando:
+a) Se verifique uma divergência entre o despacho funda-
+mentado do juiz e o preenchimento do formulário electrónico;
+b) Falte algum dos elementos referidos no n.º 3 do 
+artigo 2.º
+Artigo 4.º
+Notificação da recepção do ficheiro de resposta
+1 — O fornecedor é notificado, pela aplicação infor-
+mática, da recepção e armazenamento com sucesso do 
+ficheiro de resposta enviado.
+2 — Após recepção da notificação referida no número 
+anterior, o fornecedor pode eliminar a cópia do ficheiro em 
+causa do seu sistema, sem prejuízo da obrigação de conser-
+vação dos dados nos termos previstos na Lei n.º 32/2008, de 17 de Julho.
+Artigo 5.º
+Segurança da informação
+1 — Tendo em vista a segurança dos dados objecto da 
+comunicação electrónica referida no artigo 1.º, são adop-tadas as seguintes medidas:
+a) Encriptação de todas as comunicações electrónicas 
+efectuadas ao abrigo da presente portaria;2612  Diário da República, 1.ª série — N.º 87 — 6 de Maio de 2009 
+b) Encriptação do ficheiro de resposta, nos termos pre-
+vistos na alínea  c) do n.º 4 do artigo 3.º, a qual assegura 
+que a visualização, em suporte electrónico, dos dados 
+constantes desse ficheiro, se efectua apenas através da 
+aplicação informática;
+c) Aposição de assinatura electrónica ao despacho fun-
+damentado do juiz e ao ficheiro de resposta do fornecedor, 
+nos termos previstos na alínea  a) do n.º 3 do artigo 2.º e 
+na alínea  b) do n.º 4 do artigo 3.º, com vista a assegurar a 
+integridade desses ficheiros;
+d) Registo electrónico dos pedidos de dados enviados, 
+com indicação de quem procedeu ao envio e da data e hora 
+em que o mesmo ocorreu;
+e) Registo electrónico dos acessos a ficheiros de res-
+posta, com indicação de quem os efectuou e da data e hora 
+de cada acesso;
+f) Armazenamento dos ficheiros de resposta em reposi-
+tórios separados para cada fornecedor, os quais apresentam 
+os mecanismos de segurança necessários para evitar a 
+interconexão dos dados;
+g) Auditorias de segurança à aplicação informática;
+h) As demais medidas previstas na Lei n.º 67/98, de 
+26 de Outubro, e na Lei n.º 32/2008, de 17 de Julho.
+2 — O acesso à aplicação informática efectua -se me-
+diante introdução, pelo juiz, do respectivo nome de utili-zador e palavra -passe.
+Artigo 6.º
+Envio electrónico de outros pedidos
+Quando o juiz recorrer à aplicação informática para 
+a realização, nos termos legalmente previstos, de um pedido de dados relativo a crime para o qual não seja possível ordenar ou autorizar a transmissão dos dados 
+conservados ao abrigo da Lei n.º 32/2008, de 17 de 
+Julho, aplica -se ao envio desse pedido o disposto no artigo 2.º da presente portaria, com as devidas adap-tações.
+Artigo 7.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao 
+da sua publicação.
+O Ministro da Administração Interna, Rui Carlos 
+Pereira, em 28 de Abril de 2009. — O Ministro da 
+Justiça, Alberto Bernardes Costa, em 27 de Abril de 
+2009. — O Ministro das Obras Públicas, Transportes e 
+Comunicações, Mário Lino Soares Correia, em 23 de 
+Abril de 2009. 
+ MINISTÉRIO DA AGRICULTURA, 
+DO DESENVOLVIMENTO RURAL E DAS PESCAS
+Portaria n.º 470/2009
+de 6 de Maio
+Pela Portaria n.º 1046/2007, de 31 de Agosto, foi criada 
+a zona de caça turística de Sabóia (processo n.º 4731 -AFN), situada no município de Odemira, e concessionada a José 
+Manuel Silvino Afonso.
+O concessionário requereu agora a anexação à referida 
+zona de caça de outros prédios rústicos.
+Assim:
+Com fundamento no disposto no artigo 11.º e na alí-
+nea a) do artigo 40.º do Decreto -Lei n.º 202/2004, de 18 de 
+Agosto, com a actual redacção, e ouvido o Conselho Ci-
+negético Municipal:
+Manda o Governo, pelo Ministro da Agricultura, do 
+Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São anexados à presente zona de caça vários pré-
+dios rústicos sitos na freguesia de Sabóia, município de Odemira, com a área de 259 ha, ficando a mesma com a área total de 1056 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º A presente anexação só produz efeitos relativamente 
+a terceiros com a instalação da respectiva sinalização.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural 
+e das Pescas, Ascenso Luís Seixas Simões, Secretário de 
+Estado do Desenvolvimento Rural e das Florestas,  em 28 
+de Abril de 2009. 
+  
+ Portaria n.º 471/2009
+de 6 de Maio
+Pela Portaria n.º 178/99, de 13 de Março, foi concessio-
+nada à Associação de Caçadores de Ciladas de S. Romão a 
+zona de caça associativa de Ciladas de S. Romão (processo 
+n.º 2142 -AFN), situada nos municípios de Vila Viçosa e 
+do Alandroal, válida até 13 de Março de 2009.
+Pelas Portarias n.os 299/2000, 930/2004 e 605/2006, 
+respectivamente de 29 de Maio, de 27 de Julho e de 23 de Junho, foram anexados e desanexados vários prédios rús-ticos, ficando a mesma com a área de 1226 ha.
+Entretanto, a entidade titular veio requerer a sua reno-
+vação.
+Cumpridos os preceitos legais, com fundamento no 
+disposto no artigo 48.º, em conjugação com o estipulado 

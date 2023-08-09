@@ -1,0 +1,504 @@
+8080  Diário da República, 1.ª série — N.º 213 — 6 de Novembro de 2007 
+de diagnóstico, terapêutica e de prevenção de radiações 
+ionizantes, ultra -sons ou campos magnéticos; unidades 
+privadas de diálise; clínicas e consultórios dentários e 
+unidades de medicina física e de reabilitação;
+c) Unidades privadas de prestação de cuidados de saúde 
+na área da toxicodependência;
+d) Outros operadores sujeitos à actividade reguladora 
+da Entidade Reguladora da Saúde. 
+ Decreto-Lei n.º 372/2007
+de 6 de Novembro
+No quadro das orientações definidas pelo Programa 
+de Reestruturação da Administração Central do Estado 
+(PRACE) e dos objectivos do Programa do Governo no 
+tocante à modernização administrativa e à melhoria da qua-
+lidade dos serviços públicos com ganhos de eficiência, im-
+porta concretizar o esforço de simplificação, racionalização 
+e automatização consagrado no Decreto -Lei n.º 208/2006, 
+de 27 de Outubro, que aprovou a Lei Orgânica do Minis-
+tério da Economia e da Inovação.
+O Instituto de Apoio às Pequenas e Médias Empre-
+sas e à Inovação, I. P., abreviadamente designado por 
+IAPMEI, I. P., tem por missão promover a inovação e 
+executar políticas de estímulo ao desenvolvimento em-
+presarial, visando o reforço da competitividade das micro, 
+pequenas e médias empresas (PME) que exerçam a sua 
+actividade nas áreas sob tutela do Ministério da Economia 
+e da Inovação. As atribuições daquele instituto público in-
+cluem, entre outras, a execução de medidas que permitam acompanhar as diversas iniciativas públicas no âmbito do 
+desenvolvimento de estratégias de eficiência das PME, 
+assegurando uma uniformidade de critérios, decorrente 
+de um tratamento baseado em regras comuns.
+Assim, concretizando uma medida constante do Pro-
+grama SIMPLEX 2007, incumbe ao IAPMEI, I. P., proce-
+der à certificação de PME por via electrónica, através da criação de um formulário para este efeito, o qual, dispen-sando a entrega de documentos probatórios, permitirá a 
+desburocratização e desmaterialização no relacionamento 
+das empresas com os serviços públicos responsáveis pela aplicação das políticas destinadas às PME.
+O presente decreto -lei cria, assim, a certificação de PME 
+online,  sendo a obtenção desta certificação destinada às 
+empresas que necessitem de comprovar a sua qualidade de PME. Numa primeira fase, de duração de um ano, este 
+procedimento é destinado apenas às empresas que exerçam 
+a sua actividade nas áreas sob tutela do Ministério da Eco-
+nomia e da Inovação. Após esta fase de experimentação do procedimento, a certificação online passa a aplicar -se 
+às restantes empresas interessadas.
+Foi ouvida a Comissão Nacional de Protecção de Da-
+dos, nos termos do disposto no n.º 2 do artigo 22.º da Lei n.º 67/98, de 26 de Outubro.
+Assim:
+Nos termos da alínea  a) do n.º 1 do artigo 198.º da Cons-
+tituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+1 — É criada a certificação por via electrónica de mi-
+cro, pequena e média empresas, adiante designadas por 
+PME.2 — A certificação referida no número anterior permite 
+aferir o estatuto de PME de qualquer empresa interessada 
+em obter tal qualidade.
+3 — A certificação é efectuada exclusivamente através 
+do formulário electrónico transmitido através da Internet, não sendo admissível a submissão dos dados necessários ao seu preenchimento por outra via.
+Artigo 2.º
+Definição de PME
+Para efeitos do presente decreto -lei, a definição de PME, 
+bem como os conceitos e critérios a utilizar para aferir o 
+respectivo estatuto, constam do seu anexo, que dele faz parte integrante, e correspondem aos previstos na Reco-mendação n.º 2003/361/CE, da Comissão Europeia, de 6 de Maio.
+Artigo 3.º
+Âmbito
+1 — A certificação de PME, nos termos do presente 
+decreto -lei, é aplicável às empresas que exerçam a sua 
+actividade nas áreas sob tutela do Ministério da Economia 
+e da Inovação (MEI) e que necessitem de apresentar e 
+comprovar o estatuto de PME no âmbito dos procedimentos 
+administrativos para cuja instrução ou decisão final seja 
+legalmente ou regulamentarmente exigido.
+2 — Decorrido o prazo de um ano a contar da entrada 
+em vigor do presente decreto -lei, a certificação de PME é igualmente aplicável às empresas interessadas, que exer-
+çam a sua actividade em áreas não tuteladas pelo MEI.
+3 — A utilização da certificação de PME prevista no 
+presente decreto -lei é obrigatória para todas as entidades 
+envolvidas em procedimentos que exijam o estatuto de 
+PME, designadamente as seguintes:
+a) Os serviços da administração directa do Estado;
+b) Os organismos da administração indirecta do Es-
+tado;
+c) Sector empresarial do Estado;
+d) Entidades administrativas independentes e da admi-
+nistração autónoma do Estado;
+e) As entidades de direito privado que celebraram con-
+tratos ou protocolos com serviços e organismos do Estado 
+neste âmbito.
+Artigo 4.º
+Competência
+A certificação prevista no presente decreto -lei com-
+pete ao IAPMEI, I. P., o qual disponibiliza os formulários 
+electrónicos no seu portal na Internet — www.iapmei.pt, 
+garantindo a sua fiabilidade e segurança.
+Artigo 5.º
+Objectivos da certificação
+A certificação prevista no presente decreto -lei visa, 
+designadamente:
+a) Simplificar e acelerar o tratamento administrativo 
+dos processos nos quais se requer o estatuto de micro, 
+pequena e média empresa;Diário da República, 1.ª série — N.º 213 — 6 de Novembro de 2007  8081
+b) Permitir maior transparência na aplicação da defi-
+nição PME no âmbito dos diferentes apoios concedidos 
+pelas entidades públicas;
+c) Permitir a participação das PME nos diferentes pro-
+gramas comunitários e garantir uma informação adequada 
+às entidades interessadas no que respeita à aplicação da 
+definição PME;
+d) Garantir que as medidas e apoios destinados às PME 
+se apliquem apenas às empresas que comprovem esta qua-
+lidade;
+e) Permitir uma certificação multiuso, durante o seu 
+prazo de validade, em diferentes serviços e com distintas 
+finalidades.
+Artigo 6.º
+Procedimento para a certificação
+1 — Os interessados na certificação PME formulam o 
+seu pedido através do formulário disponibilizado electroni-
+camente pelo IAPMEI, I. P., devendo para o efeito fornecer 
+toda a informação solicitada para o seu preenchimento, 
+designadamente:
+a) A identificação da empresa, com os seguintes da-
+dos:
+i) Nome ou designação social;
+ii) Endereço da sede social;
+iii) Número de contribuinte;
+iv) Número de identificação da segurança social;
+v) Actividade classificada de acordo com a Classificação 
+Portuguesa das Actividades Económicas;
+vi) Nome e título do responsável pelo preenchimento 
+do formulário e pelo fornecimento dos dados;
+b) Tipo de empresa: empresa autónoma, empresa par-
+ceira ou empresa associada, nos termos definidos no anexo 
+ao presente decreto -lei, com indicação de eventual alte-
+ração de dados relativamente ao exercício contabilístico anterior, susceptível de implicar mudança de categoria da empresa requerente;
+c) Dados para determinar a categoria da empresa, com 
+informação, relativa ao período de referência, referente aos 
+efectivos, ao volume de negócios e ao balanço total, nos 
+termos definidos no anexo ao presente decreto -lei;
+d) Dados relativos às empresas, investidores e outras 
+entidades relacionadas directa ou indirectamente com 
+a empresa, nos termos definidos no anexo ao presente 
+decreto -lei.
+2 — No caso das empresas constituídas recentemente 
+ou cujo pedido de certificação foi efectuado dentro do 
+período legalmente previsto para encerramento das con-
+tas do exercício, os valores a considerar no pedido serão 
+objecto de uma estimativa de boa fé baseada no respectivo 
+exercício.
+3 — A estimativa efectuada nos termos do número an-
+terior deve ser confirmada ou alterada com a introdução no formulário electrónico dos valores definitivos, 20 dias 
+úteis após o prazo legalmente previsto para o encerramento 
+das contas do exercício.
+4 — No caso das empresas que se encontrem legalmente 
+obrigadas a elaborar contas consolidadas são considerados 
+os dados que resultam da consolidação.Artigo 7.º
+Decisão
+1 — A decisão sobre o pedido de certificação, ou da sua 
+renovação, é disponibilizada aos interessados, via electró-
+nica, através da Internet, imediatamente após a conclusão 
+do preenchimento integral do formulário electrónico.
+2 — A decisão de certificação conferida com recurso 
+a estimativas cujos dados definitivos não se confirmem 
+implica a alteração da decisão proferida anteriormente, 
+a qual é disponibilizada imediatamente, via electrónica, 
+após introdução da informação definitiva.
+3 — A entidade certificadora pode solicitar aos reque-
+rentes informações complementares e proceder, por si 
+ou por quem para o efeito designe, às averiguações e in-
+quirições que se mostrem necessárias e adequadas para 
+confirmar o estatuto atribuído.
+4 — A entidade certificadora pode incluir na certificação 
+condições adicionais desde que necessárias para assegurar 
+o cumprimento das disposições legais aplicáveis.
+5 — A certificação tem o prazo de validade de um ano 
+após a data de encerramento das contas do exercício, con-siderando o limite legal para o respectivo encerramento.
+Artigo 8.º
+Recusa de certificação
+A certificação é objecto de recusa, com informação 
+imediata prestada por via electrónica, sempre que:
+a) O pedido não esteja instruído com todas as infor-
+mações solicitadas no formulário electrónico disponibi-
+lizado;
+b) A instrução do pedido enferme de inexactidões ou 
+falsidades;
+c) A entidade certificadora não considere demonstrados 
+alguns dos dados fornecidos pelo requerente.
+Artigo 9.º
+Revogação e caducidade da certificação
+1 — A certificação caduca quando, findo o prazo de 
+validade, não tenha sido objecto de renovação.
+2 — A certificação é revogada, sem prejuízo de outras 
+sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:
+a) Verificação da existência de falsas declarações ou 
+outros expedientes ilícitos na sua obtenção;
+b) Cessação da actividade da empresa;
+c) Verificação de irregularidades graves na administra-
+ção, organização ou gestão da requerente ou de prática de actos ilícitos que lesem ou ponham em perigo a confiança do público na certificação;
+d) Declaração, por sentença judicial, de empresa insol-
+vente ou julgada responsável por insolvência de empresa por ela dominada ou de empresa de cujos órgãos de admi-nistração ou fiscalização tenha sido membro;
+e) Verificação de alterações nas empresas certificadas, 
+nomeadamente as previstas no artigo 13.º deste decreto-
+-lei, caso as mesmas não sejam comunicadas à entidade certificadora, no prazo de 30 dias úteis.
+3 — A revogação da certificação compete à entidade 
+certificadora, em decisão fundamentada que é notificada, 
+por via electrónica, à empresa requerente e a todas as 8082  Diário da República, 1.ª série — N.º 213 — 6 de Novembro de 2007 
+entidades que procederam à consulta daquele registo, no 
+prazo de oito dias úteis.
+4 — A revogação da certificação é inscrita no registo a 
+que se refere o n.º 1 do artigo 10.º
+5 — A revogação da certificação, pelo motivo referido 
+na alínea  a) do n.º 1, determina a impossibilidade, pelo 
+período de um ano, da empresa requerente obter nova 
+certificação nos termos do presente decreto -lei.
+Artigo 10.º
+Consulta da certificação pelo titular e por entidades autorizadas
+1 — A certificação PME é inscrita num registo elec-
+trónico a efectuar pelo IAPMEI, I. P., através da Internet.
+2 — A comprovação da certificação é prestada aos 
+titulares dos dados fornecidos, bem como a quaisquer 
+entidades, no âmbito de procedimentos administrativos 
+para cuja instrução ou decisão final seja legalmente ou 
+regulamentarmente exigida a apresentação e comprovação 
+do estatuto PME, designadamente as referidas no n.º 3 do 
+artigo 3.º
+3 — A disponibilização de dados às entidades indicadas 
+no número anterior contempla toda a informação prestada 
+pelo titular dos dados fornecidos sem necessidade do seu consentimento para o efeito.
+4 — Para comprovar a certificação PME, as entidades 
+referidas devem requerer ao IAPMEI, I. P., uma senha de utilização.
+5 — O IAPMEI, I. P., deve assegurar a existência de um 
+registo das consultas efectuadas nos termos do presente artigo, que identifique a data e a entidade que a efectuou.
+6 — É conferido ao titular dos dados o direito de acesso 
+ao registo das consultas realizadas nos termos do presente 
+artigo.
+Artigo 11.º
+Consulta da certificação por outras entidades
+1 — A consulta simples da certificação de PME, em que 
+é apenas prestada informação respeitante a esta qualidade, 
+estando vedada a divulgação de qualquer outra informação 
+relativa aos titulares dos dados, é disponibilizada pelo 
+IAPMEI, I. P., através da Internet, a todos os interessados 
+nessa informação, mediante identificação prévia.
+2 — A consulta prevista no número anterior depende do 
+consentimento prestado, de forma expressa e inequívoca, pelo titular dos dados no sítio da Internet da certificação PME.
+3 — O consentimento prestado nos termos do número 
+anterior pode ser revogado a todo o tempo pelo titular 
+dos dados através dos meios disponibilizados no sítio da 
+Internet referido.
+4 — À consulta prevista no presente artigo são aplicá-
+veis as disposições constantes dos n.os 5 e 6 do artigo an-
+terior.
+Artigo 12.º
+Anomalias no processo de certificação
+Se por qualquer motivo deixarem de estar preenchidas 
+as condições necessárias ao normal funcionamento do 
+processo de certificação, este mantém -se suspenso por 
+prazo a fixar pela entidade certificadora.Artigo 13.º
+Comunicação de alterações
+As empresas certificadas devem comunicar, através do 
+formulário electrónico, à entidade certificadora, no prazo 
+de 30 dias úteis, as alterações à sua situação relativas a:
+a) Elementos de identificação da empresa, nomeada-
+mente designação social, objecto e local da sede;
+b) Relações relevantes da empresa com outras empresas, 
+parceiras ou associadas, quando se trate de uma alteração 
+susceptível de modificar o estatuto de PME;
+c) Aquisições ou alienações de capital ou participações 
+sociais;
+d) Estrutura de gestão ou de administração e dos poderes 
+dos respectivos órgãos;
+e) Cisão, fusão ou dissolução.
+Artigo 14.º
+Protecção de dados
+1 — A entidade certificadora só pode coligir dados 
+pessoais necessários ao exercício das suas actividades e 
+obtê -los directamente dos interessados na titularidade da certificação PME, ou de terceiros junto dos quais aqueles autorizem a sua colecta.
+2 — Os dados fornecidos pelos interessados e coligidos 
+pela entidade certificadora não poderão ser utilizados para 
+outra finalidade que não sejam as indicadas no artigo 5.º do presente decreto -lei, salvo se outro uso for consentido expressamente por lei ou pelo interessado.
+3 — A entidade certificadora respeitará as normas legais 
+vigentes sobre a protecção de dados pessoais e sobre a 
+protecção da privacidade no sector das telecomunicações, 
+bem como assegurará a salvaguarda da confidencialidade das informações obtidas.
+Artigo 15.º
+Norma revogatória
+São revogados os Despachos Normativos n.os 52/87, de 
+24 de Junho, e 38/88, de 16 de Maio.
+Visto e aprovado em Conselho de Ministros de 13 de 
+Setembro de 2007. — José Sócrates Carvalho Pinto de 
+Sousa — António José de Castro Guerra.
+Promulgado em 22 de Outubro de 2007.Publique -se.O Presidente da República, A
+NÍBAL  CAVA C O  SILV A.
+Referendado em 25 de Outubro de 2007.
+O Primeiro -Ministro, José Sócrates Carvalho Pinto 
+de Sousa.
+ANEXO
+Artigo 1.º
+Empresa
+Entende -se por empresa qualquer entidade que, indepen-
+dentemente da sua forma jurídica, exerce uma actividade 
+económica. São, nomeadamente, consideradas como tal as 
+entidades que exercem uma actividade artesanal ou outras 
+actividades a título individual ou familiar, as sociedades Diário da República, 1.ª série — N.º 213 — 6 de Novembro de 2007  8083
+de pessoas ou as associações que exercem regularmente 
+uma actividade económica.
+Artigo 2.º
+Efectivos e limiares financeiros que definem 
+as categorias de empresas
+1 — A categoria das micro, pequenas e médias empresas 
+(PME) é constituída por empresas que empregam menos de 
+250 pessoas e cujo volume de negócios anual não excede 
+50 milhões de euros ou cujo balanço total anual não excede 
+43 milhões de euros.
+2 — Na categoria das PME, uma pequena empresa 
+é definida como uma empresa que emprega menos de 
+50 pessoas e cujo volume de negócios anual ou balanço 
+total anual não excede 10 milhões de euros.
+3 — Na categoria das PME, uma micro empresa é defi-
+nida como uma empresa que emprega menos de 10 pessoas 
+e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros.
+Artigo 3.º
+Tipos de empresas tomadas em consideração no que se refere 
+ao cálculo dos efectivos e dos montantes financeiros
+1 — Entende -se por «empresa autónoma» qualquer 
+empresa que não é qualificada como empresa parceira na 
+acepção do n.º 2 ou como empresa associada na acepção do n.º 3.
+2 — Entende -se por «empresas parceiras» todas as em-
+presas que não são qualificadas como empresas associadas 
+na acepção do n.º 3, e entre as quais existe a seguinte rela-
+ção: uma empresa (empresa a montante) detém, sozinha ou 
+em conjunto com uma ou várias empresas associadas na acepção do n.º 3, 25  % ou mais do capital ou dos direitos de voto de outra empresa (empresa a jusante).
+No entanto, uma empresa pode ser qualificada como 
+autónoma, não tendo, portanto, empresas parceiras, ainda 
+que o limiar de 25  % seja atingido ou ultrapassado, quando 
+se estiver em presença dos seguintes investidores, desde que estes não estejam, a título individual ou em conjunto, associados, na acepção do n.º 3, à empresa em causa:
+a) Sociedades públicas de participação, sociedades de 
+capital de risco, pessoas singulares ou grupos de pessoas singulares que tenham uma actividade regular de investi-
+mento em capital de risco (business angels)  e que invistam 
+fundos próprios em empresas não cotadas na bolsa, desde 
+que o total do investimento dos ditos business angels  numa 
+mesma empresa não exceda € 1 250 000;
+b) Universidades ou centros de investigação sem fins 
+lucrativos;
+c) Investidores institucionais, incluindo fundos de de-
+senvolvimento regional;
+d) Autoridades locais e autónomas com um orçamento 
+anual inferior a 10 milhões de euros e com menos de 
+5000 habitantes.
+3 — Entende -se por «empresas associadas» as empresas 
+que mantêm entre si uma das seguintes relações:
+a) Uma empresa detém a maioria dos direitos de voto 
+dos accionistas ou sócios de outra empresa;
+b) Uma empresa tem o direito de nomear ou exonerar 
+a maioria dos membros do órgão de administração, de 
+direcção ou de controlo de outra empresa;c) Uma empresa tem o direito de exercer influência do-
+minante sobre outra empresa por força de um contrato com 
+ela celebrado ou por força de uma cláusula dos estatutos 
+desta última empresa;
+d) Uma empresa accionista ou associada de outra em-
+presa controla sozinha, por força de um acordo celebrado 
+com outros accionistas ou sócios dessa outra empresa, 
+a maioria dos direitos de voto dos accionistas ou sócios desta última.
+Presume -se que não há influência dominante no caso de 
+os investidores indicados no segundo parágrafo do n.º 2 não se imiscuírem directa ou indirectamente na gestão da empresa em causa, sem prejuízo dos direitos que detêm na qualidade de accionistas ou sócios.
+As empresas que mantenham uma das relações referidas 
+no primeiro parágrafo por intermédio de uma ou várias 
+outras empresas, ou com os investidores visados no n.º 2, são igualmente consideradas associadas.
+As empresas que mantenham uma das relações acima 
+descritas por intermédio de uma pessoa singular ou de um 
+grupo de pessoas singulares que actuem concertadamente são igualmente consideradas empresas associadas desde que essas empresas exerçam as suas actividades, ou parte 
+delas, no mesmo mercado ou em mercados contíguos.
+Entende -se por mercado contíguo o mercado de um 
+produto ou serviço situado directamente a montante ou a jusante do mercado relevante.
+4 — Excepto nos casos referidos no segundo parágrafo 
+do n.º 2, uma empresa não pode ser considerada PME se 25  % ou mais do seu capital ou dos seus direitos de voto forem controlados, directa ou indirectamente, por uma ou várias colectividades públicas ou organismos públicos, a título individual ou conjuntamente.
+5 — As empresas podem formular uma declaração so-
+bre a respectiva qualificação como empresa autónoma, 
+parceira ou associada, assim como sobre os dados relati-vos aos limiares enunciados no artigo 2.º Esta declaração 
+pode ser elaborada mesmo se a dispersão do capital não 
+permitir determinar precisamente quem o detém, contanto 
+que a empresa declare, de boa fé, que pode legitimamente 
+presumir que não é propriedade, em 25  % ou mais, de uma 
+empresa, ou propriedade conjunta de empresas associadas 
+entre si ou por intermédio de pessoas singulares ou de um 
+grupo de pessoas singulares. As declarações deste tipo 
+são efectuadas sem prejuízo dos controlos ou verificações 
+previstos.
+Artigo 4.º
+Dados a considerar para o cálculo dos efectivos e dos montantes
+financeiros e período de referência
+1 — Os dados considerados para o cálculo dos efec-
+tivos e dos montantes financeiros são os do último exer-
+cício contabilístico encerrado, calculados numa base 
+anual. Os dados são tidos em conta a partir da data de 
+encerramento das contas. O montante do volume de ne-
+gócios considerado é calculado com exclusão do imposto 
+sobre o valor acrescentado (IV A) e de outros impostos indirectos.
+2 — Se uma empresa verificar, na data de encerramento 
+das contas, que superou ou ficou aquém, numa base anual, 
+do limiar de efectivos ou dos limiares financeiros indicados 
+no artigo 2.º, esta circunstância não a faz adquirir ou perder 
+a qualidade de média, pequena ou micro empresa, salvo se 
+tal se repetir durante dois exercícios consecutivos.8084  Diário da República, 1.ª série — N.º 213 — 6 de Novembro de 2007 
+3 — No caso de uma empresa constituída recentemente, 
+cujas contas ainda não tenham sido encerradas, os dados 
+a considerar serão objecto de uma estimativa de boa fé no decorrer do exercício.
+Artigo 5.º
+Efectivos
+Os efectivos correspondem ao número de unidades 
+trabalho -ano (UTA), isto é, ao número de pessoas que te-
+nham trabalhado na empresa em questão ou por conta dela 
+a tempo inteiro durante todo o ano considerado. O trabalho 
+das pessoas que não tenham trabalhado todo o ano, ou que 
+tenham trabalhado a tempo parcial, independentemente 
+da sua duração, ou o trabalho sazonal, é contabilizado em 
+fracções de UTA. Os efectivos são compostos:
+a) Pelos assalariados;
+b) Pelas pessoas que trabalham para essa empresa, com 
+um nexo de subordinação com ela e equiparados a assala-
+riados à luz do direito nacional;
+c) Pelos proprietários -gestores;
+d) Pelos sócios que exerçam uma actividade regular 
+na empresa e beneficiem das vantagens financeiras da 
+mesma.
+Os aprendizes ou estudantes em formação profis-
+sional titulares de um contrato de aprendizagem ou de 
+formação profissional não são contabilizados nos efecti-
+vos. A duração das licenças de maternidade ou parentais não é contabilizada.
+Artigo 6.º
+Determinação dos dados da empresa
+1 — No caso de uma empresa autónoma, a determinação 
+dos dados, incluindo os efectivos, efectua -se unicamente 
+com base nas contas desta empresa.
+2 — Os dados, incluindo os efectivos, de uma empresa 
+que tenha empresas parceiras ou associadas são determi-
+nados com base nas contas e em outros dados da empresa, 
+ou — caso existam — das contas consolidadas da empresa, 
+ou das contas consolidadas nas quais a empresa for reto-mada por consolidação.
+Aos dados referidos no primeiro parágrafo devem 
+agregar -se os dados das eventuais empresas parceiras 
+da empresa considerada, situadas imediatamente a mon-tante ou a jusante da mesma. A agregação é proporcional 
+à percentagem de participação no capital ou de direitos 
+de voto (a mais alta destas duas percentagens). Em caso 
+de participação cruzada, é aplicável a mais alta destas 
+percentagens.
+Aos dados referidos no primeiro e segundo parágrafos 
+devem juntar -se 100  % dos dados das eventuais empresas 
+directa ou indirectamente associadas à empresa conside-
+rada, que não tenham sido retomados por consolidação 
+nas contas.
+3 — Para efeitos da aplicação do n.º 2, os dados das 
+empresas parceiras da empresa considerada resultam das contas e de outros dados, consolidados caso existam, aos 
+quais se juntam 100  % dos dados das empresas associadas 
+a estas empresas parceiras, a não ser que os respectivos dados já tenham sido retomados por consolidação.
+Para efeitos da aplicação do n.º 2, os dados das em-
+presas associadas à empresa considerada resultam das 
+respectivas contas e de outros dados, consolidados, caso existam. A estes se agregam, proporcionalmente, os dados 
+das eventuais empresas parceiras destas empresas associa-
+das, situadas imediatamente a montante ou a jusante destas 
+últimas, a não ser que já tenham sido retomados nas contas 
+consolidadas, numa proporção pelo menos equivalente à 
+percentagem definida no segundo parágrafo do n.º 2.
+4 — Quando os efectivos de uma determinada empresa 
+não constem das contas consolidadas, o seu cálculo efectua-
+-se mediante a agregação, de forma proporcional, dos dados 
+relativos às empresas das quais esta empresa for parceira e a adição dos dados relativos às empresas com as quais esta empresa for associada. 
+ MINISTÉRIO DA AGRICULTURA, DO DESENVOLVIMENTO 
+RURAL E DAS PESCAS
+Decreto-Lei n.º 373/2007
+de 6 de Novembro
+A legislação comunitária relativa ao estabelecimento 
+de limites máximos de resíduos carece de permanente 
+actualização por questões relacionadas com a segurança 
+alimentar e facilidade do comércio internacional dos pro-dutos agrícolas de origem vegetal tratados com produtos fitofarmacêuticos.
+Assim, são estabelecidos, continuamente, a nível 
+comunitário limites máximos de resíduos para os usos 
+decorrentes de produtos fitofarmacêuticos com base em substâncias activas novas aprovadas a nível comunitário, novas utilizações para substâncias activas já existentes no 
+mercado comunitário e, ainda, revisão dos limites máximos 
+de resíduos já anteriormente definidos mas que carecem 
+de alteração em consequência de decisões comunitárias 
+relacionadas com a evolução dos conhecimentos técnico--científicos.
+É neste contexto que se enquadra o presente decreto -lei, 
+que vem estabelecer novos limites máximos de resíduos de 
+substâncias activas de produtos fitofarmacêuticos permiti-
+dos nos produtos agrícolas de origem vegetal, em resultado 
+da transposição para a ordem jurídica interna das Directivas 
+n.os 2007/7/CE, de 14 de Fevereiro, 2007/8/CE, de 20 de 
+Feve reiro, 2007/9/CE, de 20 de Fevereiro, 2007/12/CE, de 
+26 de Fevereiro, e 2007/39/CE, de 26 de Junho, da Comis-
+são, bem como parcialmente as Directivas n.os 2007/11/CE, 
+de 21 de Fevereiro, 2007/27/CE, de 15 de Maio, e 2007/28/
+CE, de 25 de Maio, da Comissão, nas partes respeitantes aos produtos agrícolas de origem vegetal.
+A aprovação da Directiva n.º 2007/7/CE, da Comis-
+são, de 14 de Fevereiro, veio estabelecer novos limites máximos de resíduos respeitantes às substâncias activas 
+de produtos fitofarmacêuticos abamectina, atrazina, bi-
+fentrina, fenemedifame, lambda -cialotrina, linurão, me-tomil/tiodicarbe, penconazol e pimetrozina, permitidos à superfície ou no interior de produtos agrícolas de origem vegetal.
+A necessidade da sua transposição para a ordem 
+jurídica interna implica que sejam introduzidas alte-
+rações aos Decretos -Leis n.os 32/2006, de 15 de Feve-
+reiro, 123/2006, de 28 de Junho, e 233/2006, de 29 de Novembro.
+Por outro lado, a Directiva n.º 2007/8/CE, da Comissão, 
+de 20 de Fevereiro, veio estabelecer novos limites máximos 
+de resíduos respeitantes às substâncias activas de produtos 

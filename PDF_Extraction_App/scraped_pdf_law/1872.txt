@@ -1,0 +1,175 @@
+1872 Diário da República, 1.asérie — N.o63 — 29 de Março de 2007
+ANEXO
+(quadro a que se refere o artigo 9.o)
+Designação dos quadros
+dirigentesQualificação dos cargos
+dirigentesGrauNúmero
+de
+lugares
+Director-geral ........ Direcção superior . . . 1.o1
+Subdirector-geral ..... Direcção superior . . . 2.o2
+Director de serviços . . . Direcção intermédia . . . 1.o2
+Decreto-Lei n.o83/2007
+de 29 de Março
+No quadro das orientações definidas pelo Programa
+de Reestruturação da Administração Central do Estado(PRACE) e dos objectivos do Programa do Governono tocante à modernização administrativ a e à melhoria
+da qualidade dos serviços públicos, com ganhos de efi-ciência, importa concretizar o esforço de racionalizaçãoestrutural consagrado no Decreto-Lei n.
+o205/2006, de
+27 de Outubro, que aprovou a Lei Orgânica do Minis-tério das Finanças e da Administração Pública (MFAP),avançando na definição dos modelos organizacionais dosserviços que integram a respectiva estrutura.
+O referido decreto-lei preconiza a integração do Ins-
+tituto de Informática (II) na administração directa doEstado, atribuindo-lhe competências ao nível da defi-nição das políticas e estratégias das tecnologias de infor-mação e comunicação (TIC) do Ministério.
+No que se refere à coordenação das TIC no MFAP,
+salienta-se o papel atribuído ao conselho coordenador,entidade de coordenação sectorial, presidido por umrepresentante do ministro da tutela, onde tomamassento responsáveis do MFA P e a quem cabe aprovar
+o plano estratégico de TIC para o MFA P e o seu rela-
+tório de execução. Desta forma possibilita-se a criaçãode um verdadeiro fórum de coordenação, o qual pos-sibilita o alinhamento entre os objectivos do Governo,
+objectivos operacionais dos organismos e os sistemas
+e tecnologias da informação.
+A nova estrutura proposta para o II, cuja actuação
+surgirá concertada com a DGITA e com a Empresade Gestão Partilhada de Recursos da AdministraçãoPública (GeRAP), E. P. E., assegurará o desenvolvi-mento de uma filosofia de partilha de serviços em maté-rias transversais a todo o ministério, permitindo antever,num futuro próximo, significativos acréscimos de efi-ciência em relação à importante área do planeamentoe gestão de projectos no domínio dos sistemas e tec-nologias de informação e comunicação.
+Assim:Nos termos da alínea a)d on .
+o1 do artigo 198.oda
+Constituição, o Governo decreta o seguinte:
+Artigo 1.o
+Natureza
+O Instituto de Informática, abreviadamente desig-
+nado por II, é um serviço central da administração
+directa do Estado, dotado de autonomia administrativa.
+Artigo 2.o
+Missão e atribuições
+1 — O II tem por missão apoiar a definição das polí-
+ticas e estratégias das tecnologias de informação e comu-nicação (TIC) do Ministério das Finanças e da Admi-
+nistração Pública (MFAP) e garantir o planeamento,concepção, execução e avaliação das iniciativas de infor-matização e actualização tecnológica dos respectivos ser-viços e organismos, assegurando uma gestão eficaz eracional dos recursos disponíveis.
+2 — O II prossegue as seguintes atribuições:
+a) Apoiar a definição da política estratégica de TIC
+do MFAP, elaborar o respectivo plano estratégico eacompanhar o seu cumprimento;
+b) Assegurar a articulação com os organismos com
+atribuições inter-ministeriais na área das TIC, garan-
+tindo a participação em iniciativas de natureza trans-
+versal, a aplicação no MFAP de normas e orientaçõescomuns, a utilização de infra-estruturas tecnológicaspartilhadas da Administração Públic a e a integração em
+processos aquisitivos agregados com outros ministérios;
+c) Definir e controlar o cumprimento de normas e
+procedimentos relativos à selecção, aquisição e utiliza-ção de infra-estruturas tecnológicas e sistemas deinformação;
+d) Coordenar a realização de projectos no âmbito
+das tecnologias de informação e de comunicações e asse-gurar a construção, gestão e operação de sistemas einfra-estruturas na área de actuação do MFAP, em arti-culação com os organismos;
+e) Acompanhar em permanência o desenvolvimento
+de sistemas de informação e infra-estruturas tecnoló-gicas, de forma a garantir a sua adequação às neces-sidades dos organismos do ministéri o e o cumprimento
+das políticas e normas definidas, promovendo a uni-ficação e racionalização de métodos, processos e infra--estruturas;
+f) Administrar bases de dados que, no âmbito do
+MFAP, lhe sejam cometidas;
+g) Prestar serviços a outras entidades, com base em
+adequados instrumentos contratuais que determinem,designadamente, os níveis de prestação e respectivascontrapartidas.
+Artigo 3.
+o
+Órgãos
+1 — O II é dirigido por um director-geral, coadjuvado
+por dois subdirectores-gerais.
+2 — É ainda órgão do II o conselho coordenador.
+Artigo 4.o
+Director-geral
+1 — O cargo de director-geral do II é assegurado,
+por inerência, pelo presidente do conselho de admi-
+nistração da Empresa de Gestão Partilhada de Recursosda Administração Pública (GeRAP), E. P. E.
+2 — O director-geral exerce as competências que lhe
+sejam cometidas por lei e que nele sejam delegadasou subdelegadas.
+3 — Os subdirectores-gerais exercem as competências
+que lhe sejam delegadas ou subdelegadas pelo direc-tor-geral, devendo este identificar a quem compete subs-tituí-lo nas suas faltas e impedimentos.
+Artigo 5.
+o
+Conselho coordenador
+1 — O conselho coordenado r é o órgão a quem cabe
+aprovar o plano estratégico de TIC para o MFAP eo seu relatório de execução, sendo composto por:
+a) Um representante do Ministro de Estado e das
+Finanças, que preside;Diário da República, 1.asérie — N.o63 — 29 de Março de 2007 1873
+b) Representantes, com cargos dirigentes, de todos
+os organismos da administração directa e indirecta doEstado no âmbito do MFAP.
+2 — É designado como vice-presidente o director-ge-
+ral do II, a quem compete substituir o presidente nassuas faltas e impedimentos e exercer as funções quelhe sejam delegadas.
+3 — Compete ao conselho coordenador:
+a) Concertar, para os diversos organismos, a definição
+dos respectivos objectivos em termos de tecnologias deinformação, respectivas estratégias e instrumentos paraa sua execução;
+b) Colaborar na coordenação e articulação global das
+necessidades de TIC dos diversos organismos;
+c) Definir um quadro de referência que permita for-
+mular uma visão plurianual na elaboração dos planosde actividades no âmbito das TIC;
+d) Elaborar a proposta de orçamento anual e plu-
+rianual do investimento em TIC;
+e) Acompanhar a execução anual do plano e orça-
+mento de TIC.
+Artigo 6.
+o
+Tipo de organização interna
+A organização interna dos serviços obedece ao
+seguinte modelo estrutural misto:
+a) Nas áreas de actividade de concepção e desen-
+volvimento de projectos e sistemas informáticos é adop-tado o modelo de estrutura matricial;
+b) Nas restantes áreas de actividade é adoptado o
+modelo de estrutura hierarquizada.
+Artigo 7.
+o
+Receitas
+1 — O II dispõe das receitas provenientes de dotações
+que lhe forem atribuídas no Orçamento do Estado.
+2 — O II dispõe ainda das seguintes receitas próprias:
+a) As quantias cobradas pela prestação de serviços
+e venda de produtos, no âmbito das suas atribuições;
+b) Quaisquer outras receitas que, por lei, contrato
+ou qualquer outro título, lhe sejam atribuídas.
+3 — As tarifas praticadas pelo II, pela prestação de
+serviços, são fixadas e periodicamente actualizadas pelodirector-geral, tendo em atenção os meios humanos e
+materiais mobilizados em cada caso, podendo ainda sertidos em conta os custos indirectos de funcionamento.
+4 — As receitas próprias referidas no n.
+o2 são con-
+signadas à realização de despesas do II durante a exe-cução do orçamento do ano a que respeitam, podendoos saldos não utilizados transitar para o ano seguinte.
+Artigo 8.
+o
+Despesas
+Constituem despesas do II as que resultem de encar-
+gos decorrentes da prossecução das atribuições que lheestão cometidas.
+Artigo 9.
+o
+Quadro de cargos de direcção
+Os lugares de direcção superior de 1.oe2 .ograus
+e de direcção intermédia de 1.ograu constam do mapaanexo ao presente decreto-lei, do qual faz parte inte-
+grante.
+Artigo 10.o
+Estatuto remuneratório dos chefes de equipas multidisciplinares
+Aos chefes de equipas multidisciplinares é atribuído
+um estatuto remuneratório equiparado a director de ser-viços ou chefe de divisão, em função da natureza e com-plexidade das funções, não podendo o estatuto equi-parado a director de serviços ser atribuído a mais deuma chefia de equipa em simultâneo.
+Artigo 11.
+o
+Sucessão
+O II sucede nas atribuições do Instituto de Infor-
+mática, que passa a integrar a administração directa doEstado.
+Artigo 12.
+o
+Norma revogatória
+É revogado o Decreto-Lei n.o143/98, de 22 de Maio.
+Artigo 13.o
+Entrada em vigor
+O presente decreto-lei entra em vigor no 1.odia do
+mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 28 de
+Dezembro de 2006. — José Sócrates Carvalho Pinto de
+Sousa — Fernando Teixeira dos Santos.
+Promulgado em 12 de Fevereiro de 2007.
+Publique-se.O Presidente da República, A
+NÍBAL CAVACO SILVA .
+Referendado em 14 de Fevereiro de 2007.
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de
+Sousa.
+ANEXO
+(mapa a que se refere o artigo 9.o)
+Designação dos cargos
+dirigentesQualificação dos cargos
+dirigentesGrauNúmero
+de lugares
+Director-geral ........ Direcção superior . . . 1.o1
+Subdirector-geral ..... Direcção superior . . . 2.o2
+Director de serviços . . . Direcção intermédia . . . 1.o5
+Decreto-Lei n.o84/2007
+de 29 de Março
+No quadro das orientações definidas pelo Programa
+de Reestruturação da Administração Central do Estado(PRACE) e dos objectivos do Programa do Governono tocante à modernização administrativ a e à melhoria
+da qualidade dos serviços públicos, com ganhos de efi-ciência, importa concretizar o esforço de racionalizaçãoestrutural consagrado no Decreto-Lei n.
+o205/2006, de
+27 de Outubro, que aprovou a Lei Orgânica do Minis-tério das Finanças e da Administração Pública, avan-

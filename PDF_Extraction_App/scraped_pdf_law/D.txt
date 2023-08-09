@@ -1,0 +1,180 @@
+N.o124 — 29 de Junho de 2006 DIÁRIO DA REPÚBLICA — I SÉRIE-B 4632-(7)
+Artigo 9.o
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte
+ao da sua publicação.
+Pelo Ministro da Justiça, João Tiago Valente Almeida
+da Silveira, Secretário de Estado da Justiça, em 26 de
+Junho de 2006.
+Portaria n.o657-C/2006
+de 29 de Junho
+Com a aprovação do Decreto-Lei n.o125/2006, de
+29 de Junho, foi consagrado um regime especial de cons-tituição online de sociedades.
+Este regime permite que a constituição de sociedades
+comerciais e civis sob forma comercial do tipo por quotase anónima se possa fazer através de sítio na Internet,excepto em algumas situações. Para esse efeito, a indi-cação dos dado s e a entrega de documentos no sítio
+devem ser efectuados, respectivamente, mediante auten-ticação electrónica e aposição de uma assinatura elec-trónica.
+A designação, o funcionamento e as funções do sítio,
+bem como a utilização dos meios de autenticação elec-trónica e de assinatura electrónica, na indicação dosdados e na entrega de documentos no referido sítio,carecem de ser regulamentados, conforme dispõe oartigo 17.
+odo Decreto-Lei n.o125/2006, de 29 de Junho.
+Assim:Manda o Governo, pelo Ministro da Justiça, ao abrigo
+do artigo 17.odo Decreto-Lei n.o125/2006, de 29 de
+Junho, e dos n.os1e5d o artigo 45.odo Código do
+Registo Comercial, o seguinte:
+Artigo 1.o
+Objecto
+A presente portaria regula:
+a) A designação, o funcionamento e as funções
+do sítio que permite a constituição online de
+sociedades comerciais e civis sob forma comer-cial do tipo por quotas e anónima;
+b) Os termos em que se deve processar a indicação
+dos dado s e a entrega de documentos pelos inte-
+ressados no sítio.
+Artigo 2.o
+Designação do sítio
+A constituição online de sociedades comerciais e civis
+sob forma comercial do tipo por quotas e anónima, nostermos do Decreto-Lei n.o125/2006, de 29 de Junho,
+faz-se através do sítio na Internet com o endereçowww.empresaonline.pt, mantido pela Direcção-Geraldos Registos e do Notariado.
+Artigo 3.
+o
+Funções do sítio
+1 — O sítio deve permitir, entre outras que se mos-
+trem necessárias, as seguintes funções:
+a) A autenticação dos utilizadores através de cer-
+tificados digitais;
+b) A indicação dos dados de identificação dos
+interessados;c) A escolha de uma firma constituída por expres-
+são de fantasia previamente criada e reservadaa favor do Estado;
+d) A verificação da admissibilidade e obtenção da
+firma, nos termos do n.o3 do artigo 45.odo
+regime do Registo Nacional de Pessoas Colec-tivas (RNPC);
+e) A indicação da firma constante de certificado
+de admissibilidade de firma emitido pelo RNPC;
+f) A escolh a e o preenchimento de pacto ou acto
+constitutivo de modelo aprovado pelo director-
+-geral dos Registos e do Notariado ou o envio
+de pacto ou acto constitutivo elaborado pelosinteressados;
+g) A apresentação, através de fórmula própria, das
+declarações referidas no n.
+o3 do artigo 7.odo
+Decreto-Lei n.o125/2006, de 29 de Junho;
+h) O preenchimento electrónico dos elementos
+necessários à apresentação da declaração de iní-cio de actividade para efeitos fiscais;
+i) A entrega dos documentos necessários à apre-
+ciação do pedido e ao suprimento de suas even-tuais deficiências;
+j) A assinatura electrónica dos documentos entre-
+gues;
+l) O pagamento dos serviços por via electrónica;
+m) A recolha de informação que permita o contacto
+entre os serviços competentes e os interessadose seus representantes;
+n) O pedido de registo comercial da constituição
+da sociedade;
+o) A certificação da data e da hora em que o pedido
+de registo foi concluído;
+p) O acesso ao sítio na Internet onde se encontrem
+disponibilizadas as publicações legais.
+2 — No caso previsto na alínea c), o sítio deve permitir
+aos interessados completar a composição da firma comos aditamentos legalmente impostos, assim como comqualquer expressão alusiva ao objecto social que os inte-ressados optem por inserir entre a expressão de fantasiaescolhida e os referidos aditamentos.
+Artigo 4.
+o
+Ordem de anotação dos pedidos
+1 — Os pedidos de constituição online de sociedades
+efectuados através do sítio são anotados pela ordem
+da respectiva recepção.
+2 — Caso a tramitação do procedimento de consti-
+tuição online de sociedades seja distribuído por outras
+conservatórias, nos termos do n.o2 do artigo 3.odo
+Decreto-Lei n.o125/2006, de 29 de Junho, os pedidos
+são anotados pela respectiva ordem de recepção na con-servatória do registo comercial para onde o pedido foi
+distribuído.
+3 — Nos casos de pedidos de registo recebidos após
+as 16 horas e em que a respectiva anotação não possaser efectuada automaticamente por via informática, ospedidos são anotados no dia seguinte, imediatamenteantes da primeira apresentação pessoal ou por telecópia,
+caso exista.
+Artigo 5.
+o
+Autenticação electrónica
+1 — Para efeitos de constituição online de sociedades,
+a autenticação electrónica de advogados, solicitadorese notários deve fazer-se mediante certificado digital quecomprove a qualidade profissional do utilizador.4632-(8) DIÁRIO DA REPÚBLICA — I SÉRIE-B N.o124 — 29 de Junho de 2006
+2 — Para os restantes utilizadores, a autenticação
+electrónica faz-se mediante a utilização de certificadodigital qualificado, nos termos previstos no regime jurí-dico dos documentos electrónicos e da assinatura elec-trónica, aprovado pelo Decreto-Lei n.
+o290-D/99, de 2 de
+Agosto, na redacção introduzida pelos Decretos-Leisn.
+os62/2003, de 3 de Abril, e 165/2004, de 6 de Julho.
+Artigo 6.o
+Certificados digitais de advogados, solicitadores e notários
+Na constituição online de sociedades, apenas são
+admitidos os certificados digitais de advogados, solici-tadores e notários cuja utilização para fins profissionaisseja confirmada através de listas electrónicas de cer-tificados, disponibilizadas, respectivamente, pela Ordem
+dos Advogados, pela Câmara dos Solicitadores e pela
+Ordem dos Notários.
+Artigo 7.
+o
+Assinatura electrónica de documentos
+1 — No processo de constituição online de sociedades,
+cada subscritor deve apor a sua assinatura electrónicaqualificada no pacto social ou no acto constitutivo dasociedade, excepto no caso de aposição pelo subscritorde assinatura manuscrita, reconhecida presencialmentepor advogado, solicitador ou notário.
+2 — Aos restantes documentos entregues no processo
+de constituição online de sociedades deve ser aposta
+Toda a correspondência sobre assinaturas deverá ser dirigida para a Imprensa Nacional-Casa da Moeda, S. A.,
+Departamento Comercial ,Sector de Publica ções Oficiais ,Rua de D. Francisco Manuel de Melo ,5,1099-002 LisboaDIÁRIO DA REPÚBLICA
+Depósito legal n.o8814/85
+ISSN 0870-9963
+AVISO
+Por ordem superior e para constar, comunica-se
+que não serão aceites quaisquer originais destina-
+dos ao Diário da República desde que não tragam
+aposta a competente ordem de publicação, assinadae autenticada com selo branco.
+Os prazos para reclamação de faltas do Diário da
+República são, respectivamente, de 30 dias para o
+continente e de 60 dias para as Regiões Autónomase estrangeiro, contados da data da sua publicação.
+PREÇO DESTE NÚMERO (IVA INCLUÍDO 5%)
+G0,48
+Diário da República Electrónico: Endereço Internet: http://www.dre.pt
+Correio electrónico: dre /c9065incm.pt•Linha azul: 808 200 110 •Fax: 21 394 57 50INCM
+IMPRENSA NACIONAL-CASA DA MOEDA, S. A.
+LIVRARIAS
+•Loja do Cidadão (Aveiro) Rua de Orlando Oliveira, 41 e 47 — 3800-040 Aveiro
+Forca Vouga
+Telef. 23 440 58 49 Fax 23 440 58 64
+•Avenida de Fernão de Magalhães, 486 — 3000-173 Coimbra
+Telef. 23 985 64 00 Fax 23 985 64 16
+•Rua da Escola Politécnica, 135 — 1250-100 Lisboa
+Telef. 21 394 57 00 Fax 21 394 57 58 Metro — Rato
+•Rua do Marquês de Sá da Bandeira, 16-A e 16-B — 1050-148 Lisboa
+Telef. 21 330 17 00 Fax 21 330 17 07 Metro — S. Sebastião
+•Rua de D. Francisco Manuel de Melo, 5 — 1099-002 Lisboa
+Telef. 21 383 58 00 Fax 21 383 58 34
+•Rua de D. Filipa de Vilhena, 12 — 1000-136 Lisboa
+Telef. 21 781 07 00 Fax 21 781 07 95 Metro — Saldanha
+•Rua das Portas de Santo Antão, 2-2/A — 1150-268 Lisboa
+Telefs. 21 324 04 07/8 Fax 21 324 04 09 Metro — Rossio
+•Loja do Cidadão (Lisboa) Rua de Abranches Ferrão, 10 — 1600-001 Lisboa
+Telef. 21 723 13 70 Fax 21 723 13 71 Metro — Laranjeiras
+•Avenida de Roma, 1 — 1000-260 Lisboa
+Telef. 21 840 10 24 Fax 21 840 09 61
+•Praça de Guilherme Gomes Fernandes, 84 — 4050-294 Porto
+Telef. 22 339 58 20 Fax 22 339 58 23
+•Loja do Cidadão (Porto) Avenida de Fernão Magalhães, 1862 — 4350-158 Porto
+Telef. 22 557 19 27 Fax 22 557 19 29
+a assinatura electrónica qualificada do interessado que
+efectuar o envio, salvo quando este for realizado poradvogado, solicitador ou notário.
+3 — Os documentos entregues no processo de cons-
+tituição online de sociedades são assinados digitalmente
+pelo sistema informático que os recepciona.
+Artigo 8.
+o
+Comprovativo e comunicação electrónicos
+1 — O comprovativo electrónico referido no n.o1d o
+artigo 10.odo Decreto-Lei n.o125/2006, de 29 de Junho,
+deve ser enviado aos interessados através de mensagemde correio electrónico.
+2 — O registo do pacto ou acto constitutivo da socie-
+dade deve, nos termos do alínea a)d on .
+o2 do artigo 12.o
+do Decreto-Lei n.o125/2006, de 29 de Junho, ser comu-
+nicado aos interessados por mensagem de correio elec-trónico e, quando possível, por short message service
+(sms).
+Artigo 9.
+o
+Entrada em vigor
+A presente portaria entra em vigor no dia 30 de Junho
+de 2006.
+Pelo Ministro da Justiça, João Tiago Valente Almeida
+da Silveira, Secretário de Estado da Justiça, em 29 de
+Junho de 2006.

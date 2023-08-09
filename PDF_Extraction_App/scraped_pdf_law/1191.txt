@@ -1,0 +1,310 @@
+Diário da República, 1.ª série — N.º 44 — 4 de março de 2013  1191
+«Reemissão do pedido consulta»- reenvio do pedido de 
+primeira consulta de especialidade hospitalar pela institui-
+ção de origem, na sequência da devolução do registo do 
+pedido pela instituição de destino, após ser completada, por 
+aquela, a informação administrativa ou clínica necessária à 
+avaliação da situação do utente, que é efetuado através do 
+sistema eletrónico e que volta a colocar o pedido no estado 
+“emitido”, podendo prosseguir o circuito de processamento 
+na instituição de destino;
+«Referência ou referenciação clínica» — ato médico 
+de transmissão de um conjunto de informações clínicas 
+de um utente, designadamente a história clínica, realizada 
+pelo médico assistente e dirigida ao médico hospitalar de 
+determinada especialidade, através do qual se solicita a 
+realização de uma primeira consulta, clinicamente justi-ficada e suportada, sempre que necessário, em resultados 
+de exames complementares de diagnóstico e de acordo 
+com as regras de referenciação definidas;
+«Referenciação inversa» — ato médico de transmissão 
+de um conjunto de informações clínicas respeitantes a um 
+utente, designadamente a avaliação clínica efetuada, diag-
+nósticos formulados, tratamentos realizados ou propostos e 
+orientações de seguimento (follow-up) em retorno de uma 
+referenciação clínica, acompanhada de alta do utente dos cuidados hospitalares prestados;
+«Registo cancelado» — anulação pelo médico assistente 
+do registo de um processo de referenciação de um utente 
+na lista de utentes inscritos para acesso à primeira consulta 
+da especialidade, determinada por motivos supervenientes 
+à inscrição, clínicos ou outros, originados por vontade do utente ou não, que impedem a realização da consulta;
+«Registo de recusa» — anulação pelo triador, funda-
+mentada na evidência de que a situação clínica pode ser estudada, acompanhada e tratada pelo médico assistente, 
+não requerendo os cuidados especializados solicitados, 
+de um processo de referenciação de um utente na lista 
+de utentes inscritos para acesso à primeira consulta da 
+especialidade;
+«Registo devolvido pelo administrativo do hospi-
+tal» — devolução através a aplicação informática de 
+suporte ao CTH de um registo de um processo de refe-
+renciação de um utente, pelo administrativo do hospital, 
+à instituição de origem, para obtenção de esclarecimentos 
+quanto à identificação do utente e à anexação de resul-
+tados de exames complementares de diagnóstico não 
+rececionados;
+«Registo devolvido pelo triador» — devolução através 
+da aplicação informática de suporte ao CTH de um registo 
+de referenciação de um utente, pelo triador, ao médico 
+assistente, para obtenção de esclarecimentos adicionais 
+da situação clínica anteriormente descrita;
+«Tempo de resposta» — número de dias de calendário 
+que medeiam entre o momento em que é registada na 
+aplicação informática de suporte ao CTH a referenciação pelo médico da unidade prestadora de cuidados de saúde 
+primários para marcação de uma primeira consulta de 
+especialidade hospitalar e a sua realização;
+«Tempo médio de resposta» — média, em dias, dos 
+intervalos de tempo de resposta na realização da consulta 
+aos utentes com registo de pedido de primeira consulta 
+de especialidade;
+«Triador» — responsável designado para cada especia-
+lidade que procede à avaliação clínica da referenciação e à atribuição de um nível de prioridade para marcação da consulta  MINISTÉRIO DA SOLIDARIEDADE
+E DA SEGURANÇA SOCIAL
+Portaria n.º 96/2013
+de 4 de março
+O XIX Governo Constitucional assume, através do Pro-
+grama de Emergência Social, o objetivo de promover res-
+postas sociais inovadoras, de proximidade e que correspon-
+dam às necessidades e expectativas das pessoas e famílias.
+A manutenção das pessoas no seu meio habitual de vida 
+constitui um dos principais objetivos das políticas sociais, o 
+que implica a criação de soluções para pessoas idosas que se 
+encontrem em situações de isolamento, solidão ou insegurança.
+Nesta lógica, o centro de noite constitui-se como uma 
+resposta social que proporciona um espaço de apoio du-
+rante a noite a pessoas nas referidas situações, contribuindo 
+para o seu bem-estar e permitindo a manutenção no seu domicílio durante o dia.
+Ao seguir uma lógica de proximidade e implementação 
+em contextos rurais ou urbanos onde se identifiquem situa-
+ções de risco e fragilidade que importa minorar ou eliminar, 
+o centro de noite configura-se como a resposta adequada.
+Neste contexto e face à ausência de regulamentação desta 
+resposta social bem como a necessidade de promover a sua 
+qualificação, importa conceber um quadro normativo que 
+estabeleça as condições de instalação e funcionamento do 
+centro de noite, por forma a constituir-se como uma resposta 
+dinâmica e adequada às necessidades dos seus utilizadores 
+mediante a prestação de um serviço qualificado e humanizado.
+Assim,Manda o Governo, pelo Ministro da Solidariedade e da 
+Segurança Social, ao abrigo do artigo 5.º do Decreto-Lei 
+n.º 64/2007, de 14 de março, com a redação dada pelo 
+Decreto-Lei n.º99/2011, de 28 de setembro, o seguinte:
+Artigo 1.º
+Objeto
+1 - A presente portaria estabelece as condições de ins-
+talação e funcionamento do centro de noite.
+2 - Considera-se centro de noite a resposta social que 
+funciona em equipamento de acolhimento noturno, di-
+rigido a pessoas idosas com autonomia que, durante o 
+dia permaneçam no seu domicílio e que por vivenciarem 
+situações de solidão, isolamento e insegurança, necessitam 
+de acompanhamento durante a noite.
+Artigo 2.º
+Âmbito de aplicação
+1 – As disposições constantes no presente diploma apli-
+cam-se:
+a) A novos centros de noite a desenvolver em edifícios 
+a construir de raiz ou em edifícios já existentes a adaptar 
+para o efeito;
+b) Sem prejuízo do disposto no n.º 2, a centros de noite 
+já em funcionamento ou àqueles cujos processos de li-
+cenciamento de construção ou da atividade ou de acordo 
+de cooperação a celebrar com o ISS, IP, se encontrem em 
+curso à data da entrada em vigor da presente portaria.
+2 – O disposto nos artigos 13.º e 14.º não é aplicável 
+aos centros de noite referidos na alínea b) do número an-terior.1192  Diário da República, 1.ª série — N.º 44 — 4 de março de 2013 
+Artigo 3.º
+Objetivos
+Constituem objetivos do centro de noite:
+a) Acolher durante a noite pessoas com autonomia;
+b) Assegurar o bem-estar e segurança do utilizador;
+c) Fomentar a permanência do utilizador no seu meio 
+habitual de vida;
+Artigo 4.º
+Capacidade
+A capacidade deve ser adequada às necessidades da 
+comunidade onde se insere e à estrutura do edifício onde 
+funciona, correspondendo, em regra, a 20 pessoas.
+Artigo 5.º
+Princípios de atuação
+A prestação de serviços do centro de noite rege-se pelos 
+seguintes princípios:
+a) Qualificação, humanização e individualização;
+b) Avaliação das necessidades do utilizador;c) Participação do utilizador e envolvimento da comu-
+nidade.
+Artigo 6.º
+Serviços
+1 - Para a prossecução dos objetivos referidos no ar-
+tigo 3.º o centro de noite funciona todos os dias da semana, 
+com um horário a estabelecer de acordo com as necessi-
+dades dos utilizadores e os contextos locais.
+2 – O centro de noite proporciona aos seus utilizadores 
+os seguintes serviços:
+a) Acolhimento noturno;
+b) Ceia e pequeno-almoço;c) Higiene pessoal.
+Artigo 7.º
+Processo individual
+1 – É obrigatória a elaboração de um processo individual 
+do utilizador do qual constem, designadamente:
+a) Identificação do utilizador;
+b) Data de admissão;c) Identificação e contacto dos familiares;d) Identificação e contacto do médico assistente;e) Identificação da situação social;f) Exemplar do contrato de prestação de serviços;
+g) Registo de ocorrência de situações anómalas, nomea-
+damente, ausências periódicas ou prolongadas, hospitali-zação, doença, alterações de comportamento;
+h) Cessação do contrato de prestação de serviços, com 
+indicação da data e motivo.
+2 – O processo individual deve ser permanentemente 
+atualizado e é de acesso restrito, nos termos da legislação 
+aplicável.
+Artigo 8.º
+Contrato de prestação de serviços
+1 – Deve ser celebrado, por escrito, contrato de prestação 
+de serviços com o utilizador, donde constem os princípios, 
+direitos e obrigações das partes.2 – Do contrato é entregue um exemplar ao utilizador e 
+arquivado outro no respetivo processo individual.
+3 – Qualquer alteração ao contrato é efetuada por mútuo 
+consentimento e assinada pelas partes.
+Artigo 9.º
+Coordenação
+1 – A coordenação é assegurada por um elemento com 
+formação superior, a quem compete:
+a) Avaliar a situação da pessoa com vista à sua admissão 
+e efetuar o respetivo acompanhamento;
+b) Gerir o funcionamento do centro de noite, devendo 
+proceder ao enquadramento e supervisão do pessoal.
+2 – A afetação do coordenador pode ser a tempo parcial.
+3 – Se o centro de noite funcionar integrado noutro 
+estabelecimento de apoio social a coordenação pode ser assegurada pela direção técnica da outra resposta social.
+Artigo 10.º
+Pessoal
+1 – Para assegurar níveis adequados de qualidade na 
+prestação de serviços o centro de noite deve, para além 
+do coordenador referido no artigo anterior, dispor, no mí-
+nimo, de:
+a) Um (a) ajudante de ação direta em permanência;
+b) Um (a) auxiliar de serviços gerais a meio tempo.
+2 – Se o centro de noite funcionar integrado numa es-
+trutura residencial para pessoas idosas, os indicadores 
+referidos no número anterior, podem ser adaptados, com a devida flexibilidade às necessidades da prestação de um serviço de qualidade.
+3 – O centro de noite pode contar com a colaboração de 
+voluntários, devidamente enquadrados, não podendo estes 
+ser considerados para efeitos do disposto nos números 
+anteriores.
+Artigo 11.º
+Acesso à informação
+O centro de noite deve proceder à afixação, em local 
+visível e de fácil acesso, designadamente, dos seguintes elementos:
+a) Licença de funcionamento ou autorização provisória 
+de funcionamento, quando aplicável;
+b) Identificação da coordenação;c) Horário de funcionamento;d) Preçário e ou tabela de comparticipação;
+e) Publicitação dos apoios financeiros da segurança 
+social, quando aplicável;
+f) Referência à existência de livro de reclamações.
+Artigo 12.º
+Regulamento interno
+1 – O regulamento interno define as regras e os prin-
+cípios específicos de funcionamento do centro de noite e 
+deve conter, designadamente:
+a) Condições, critérios e procedimentos de admissão;
+b) Direitos e obrigações do centro de noite e do utili-
+zador;Diário da República, 1.ª série — N.º 44 — 4 de março de 2013  1193
+c) Horário de funcionamento;
+d) Critérios de determinação das comparticipações fa-
+miliares, quando aplicável.
+2 – Um exemplar do regulamento interno é entregue ao 
+utilizador no ato de celebração do contrato de prestação de serviços.
+3 – Qualquer alteração ao regulamento interno deve 
+ser comunicada ao Instituto da Segurança Social, I.P. 
+(ISS, I.P.).
+Artigo 13.º
+Edifício
+O centro de noite pode funcionar em edifício autónomo 
+ou integrado em parte de edifício destinado a outros fins, 
+preferencialmente noutro estabelecimento de apoio social, 
+desde que cumpra a legislação em vigor.
+Artigo 14.º
+Áreas funcionais
+1 – O centro de noite é composto pelas seguintes áreas 
+funcionais
+a) Receção;
+b) Coordenação, instalação para o pessoal e outros ser-
+viços;
+c) Convívio e refeições;d) Alojamento.
+2 – Para efeitos do disposto no número anterior, 
+entende-se por áreas funcionais o conjunto de com-
+partimentos e espaços necessários para realizar deter-
+minadas funções específicas, devidamente articulados 
+entre si.
+3 – As áreas funcionais devem obedecer a um conjunto 
+de requisitos específicos que constam do Anexo à presente 
+portaria que dela faz parte integrante.
+4 – Quando o centro de noite funcione integrado noutro 
+estabelecimento de apoio social, deve prever de forma 
+autónoma a área funcional a que se refere a alínea d), salvo 
+se o estabelecimento de apoio social for uma estrutura para 
+pessoas idosas.
+Artigo 15.º
+Avaliação e fiscalização
+1 – O funcionamento do centro de noite está sujeito ao 
+acompanhamento, à avaliação e à fiscalização por parte dos serviços competentes do ISS, I.P..
+2 – Para efeitos do disposto no número anterior, a en-
+tidade responsável pelo centro de noite deve facultar o 
+acesso às instalações e à documentação tida por conve-
+niente.
+Artigo 16.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao 
+da sua publicação.
+O Ministro da Solidariedade e da Segurança Social, 
+Luís Pedro Russo da Mota Soares,  em 11 de fevereiro 
+de 2013.ANEXO
+ÁREAS FUNCIONAIS
+Ficha 1 – Área de receção
+1.1 – Destina-se à receção e espera.
+1.2 – Deve ser ampla, com iluminação suficiente e 
+adequada para espaço de transição com o exterior e deve 
+permitir o fácil encaminhamento para os diversos espaços 
+do centro de noite.
+1.3 – A área a considerar depende da dimensão do edi-
+fício: área útil mínima: 9 m2.
+Ficha 2 – Área de coordenação, instalação 
+de pessoal e outros serviços
+2.1 - Destina-se ao atendimento, local de trabalho da 
+coordenação e pessoal do centro de noite, arquivo e ex-
+pedientes vários e inclui os seguintes espaços com área 
+útil mínima de:
+a) Gabinete/sala de pessoal: 10 m2;
+b) Instalações sanitárias, com equipamento sanitário 
+completo: 3,5 m2.
+Ficha 3 – Área de convívio e refeições
+3.1 – Destina-se ao convívio e à tomada de ceia e pe-
+queno-almoço.
+3.2 – Deve ter acesso facilitado, com conforto acústico 
+e visual.
+3.4 – Pode ser um espaço único ou composto por 2 salas 
+e prever zona para copa, integrada no espaço ou na sua 
+proximidade, equipada com bancada com espaço para 
+preparação e confeção de alimentos, cuba e escorredouro, placa de fogão e armários.
+3.5 – A área total das salas, excetuando circulações, 
+átrios de atravessamento, instalações sanitárias e copa é, no mínimo, de 2 m
+2 por utilizador.
+3.6 – Deve prever instalações sanitárias para ambos 
+os sexos, sendo uma acessível a pessoal com mobilidade condicionada: 4,84m
+2.
+Ficha 4 - Área de Alojamento
+4.1 – Destina-se a descanso dos utilizadores e deve 
+localizar-se em zona de acesso restrito.
+4.2 – Os quartos, devem organizar-se em núcleos, de 
+acordo com a estrutura do edifício, de forma a permitir um 
+ambiente mais humanizado.
+4.2.1 – Os espaços a considerar com as áreas úteis mí-
+nimas são:
+a) Quarto individual: 10 m2;
+b) Quarto duplo: 16 m2;
+c) Quarto triplo: 20,5 m2;
+d) Instalações sanitárias, com duche embutido ou nive-
+lado com pavimento, podendo servir, no máximo, quatro residentes, sendo de acesso privado ou localizando-se na proximidade dos quartos: 4,5 m
+2. 
+ Portaria n.º 97/2013
+de 4 de março
+A Portaria n.º 3-A/2013, de 4 de janeiro, criou a medida 
+de Apoio à contratação de desempregados com idade igual 
+ou superior a 45 anos, via Reembolso da Taxa Social Única, 
+promovendo o combate ao desemprego em faixas etárias 

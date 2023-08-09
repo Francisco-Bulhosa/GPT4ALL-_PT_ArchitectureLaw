@@ -1,0 +1,196 @@
+3598  Diário da República, 1.ª série — N.º 133 — 11 de julho de 2012 
+ PRESIDÊNCIA DO CONSELHO DE MINISTROS
+Decreto-Lei n.º 141/2012
+de 11 de julho
+O Decreto -Lei n.º 48/2011, de 1 de abril, que visa a 
+simplificação do regime de exercício de diversas ativi-
+dades económicas e a desmaterialização dos respetivos 
+procedimentos administrativos no âmbito de um novo 
+balcão eletrónico acessível através do Portal da Empresa, 
+o «Balcão do empreendedor», embora tenha iniciado a 
+sua vigência no dia 2 de maio de 2011, estabeleceu, no 
+seu artigo 42.º, uma produção de efeitos faseada das dis-
+posições que pressupõem a implementação do referido 
+balcão, a decorrer durante um período de um ano a contar 
+da sua entrada em vigor, em termos a fixar por portaria dos 
+membros do Governo responsáveis pelas áreas da moderni-
+zação administrativa, das autarquias locais e da economia.
+No artigo 5.º da Portaria n.º 131/2011, de 4 de abril, 
+previu -se ainda a implementação de uma fase experimen-
+tal aplicável a um conjunto limitado de municípios e aos estabelecimentos e atividades de restauração e bebidas, a decorrer até 31 de dezembro de 2011.
+Para o efeito, a Agência para a Modernização 
+Administrativa, I. P., concebeu e preparou os requisitos 
+funcionais e tecnológicos necessários à implementação de 
+uma plataforma de atendimento eletrónico multicanal, na qual se integra o «Balcão do empreendedor», dotada dos mecanismos necessários para dar resposta às exigências do Decreto -Lei n.º 48/2011, de 1 de abril, bem como do 
+Decreto -Lei n.º 92/2010, de 26 de julho, que transpôs para 
+a ordem jurídica interna a Diretiva n.º 2006/123/CE, do 
+Parlamento Europeu e do Conselho, de 12 de dezembro, re-
+lativa aos serviços no mercado interno. Iniciou -se também 
+a fase experimental de aplicação do novo regime, à qual 
+aderiram os municípios de Abrantes, Águeda, Palmela, 
+Portalegre e Porto e que se encontra em curso.
+Atendendo ao planeamento definido, encontram -se con-
+cluídas as seguintes tarefas:
+a) Disponibilização dos meios de autenticação com cer-
+tificados digitais e do mecanismo de tradução no «Balcão 
+do empreendedor»;
+b) Desenvolvimento da ferramenta de construção de 
+formulários eletrónicos;
+c) Desenvolvimento das soluções integradoras dos for-
+mulários eletrónicos;
+d) Desenvolvimento da solução de acesso mediado ao 
+«Balcão do empreendedor»;
+e) Definição de modelos de estruturação da informação 
+sobre cada uma das formalidades que compõe os diferentes 
+regimes de horário de funcionamento, ocupação do espaço 
+público e publicidade e definição dos respetivos fluxos;
+f) Especificação dos critérios e obrigações aplicáveis 
+às diferentes formalidades do regime de horário de fun-
+cionamento;
+g) Definição das especificações funcionais dos for-
+mulários eletrónicos dos regimes de horário de funcio-
+namento e ocupação do espaço público e documentos 
+complementares;
+h) Inserção no «Balcão do empreendedor» da informa-
+ção geral sobre as formalidades dos diferentes regimes de horário de funcionamento, ocupação do espaço público e publicidade.Contudo, o planeamento definido foi seriamente pre-
+judicado pelo despacho n.º 154/2011, do Ministro de Es-tado e das Finanças, de 28 de abril de 2011, que impediu 
+a assunção de novos compromissos no Capítulo 50 do 
+Orçamento do Estado para 2011, uma proibição que se 
+manteve até 31 de dezembro de 2011, impossibilitando 
+o lançamento do procedimento de aquisição dos servi-
+ços de desenvolvimento de software  de que dependia a 
+implementação de uma parte importante das funções do 
+«Balcão do empreendedor» identificadas no artigo 2.º da Portaria atrás referida.
+Só no corrente ano, depois de visado o correspondente 
+projeto de investimento, que beneficia de financiamento no âmbito do Sistema de Apoios à Modernização Admi-nistrativa, foi possível lançar o referido procedimento de 
+aquisição de serviços, o qual se encontra ainda na sua fase 
+pré -contratual.
+Perante estes constrangimentos e considerando outros-
+sim as cominações previstas para a não disponibilização, pelos municípios, da informação relevante no «Balcão do empreendedor», nomeadamente no n.º 4 do artigo 11.º e 
+no n.º 3 do artigo 18.º do Decreto -Lei n.º 48/2011, de 1 
+de abril, torna -se imprescindível prorrogar a duração da 
+referida fase experimental e diferir, por um ano, o prazo 
+limite para a plena produção de efeitos das disposições que 
+pressupõem a integral implementação daquele balcão.
+Por se tratar de uma matéria prevista no Acordo de 
+Concertação Social sobre Crescimento, Competitividade e Emprego, assinado em 18 de janeiro de 2012, a elabo-ração do presente diploma contou com a intervenção dos parceiros sociais signatários do referido acordo.
+Assim:
+Nos termos da alínea  a) do n.º 1 do artigo 198.º da Cons-
+tituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente diploma procede à primeira alteração ao 
+Decreto -Lei n.º 48/2011, de 1 de abril, que simplifica o 
+regime de acesso e de exercício de diversas atividades 
+económicas no âmbito da iniciativa «Licenciamento zero», 
+prorrogando a duração da fase experimental e diferindo, 
+por um ano, o prazo limite para a plena produção de efeitos 
+das disposições que pressupõem a integral implementação 
+do «Balcão do empreendedor».
+Artigo 2.º
+Alteração ao Decreto -Lei n.º 48/2011, de 1 de abril
+O artigo 42.º do Decreto -Lei n.º 48/2011, de 1 de abril, 
+passa a ter a seguinte redação:
+«Artigo 42.º
+[...]
+1 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 — A aplicação das disposições do presente decreto-
+-lei que pressupõem a existência do «Balcão do em-
+preendedor» a todos os estabelecimentos e atividades 
+referidas nos n.os 1 a 3 e 5 do artigo 2.º e no artigo 6.º 
+deve ocorrer até ao termo do prazo de dois anos, a contar 
+da data da sua entrada em vigor.
+3 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . »Diário da República, 1.ª série — N.º 133 — 11 de julho de 2012  3599
+Artigo 3.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao 
+da sua publicação.
+Visto e aprovado em Conselho de Ministros de 17 de 
+maio de 2012. — Pedro Passos Coelho  — Miguel Fer-
+nando Cassola de Miranda Relvas.
+Promulgado em 2 de julho de 2012.Publique -se.O Presidente da República, A
+NÍBAL  CA V ACO  SILV A.
+Referendado em 5 de julho de 2012.O Primeiro -Ministro, Pedro Passos Coelho. 
+ Secretaria-Geral
+Declaração de Retificação n.º 35/2012
+Nos termos das disposições conjugadas da alínea  r) do 
+n.º 2 do artigo 2.º e do artigo 11.º do Decreto -Lei n.º 4/2012, 
+de 16 de janeiro, declara -se que a Portaria n.º 140/2012, de 
+14 de maio, publicada no Diário da República,  1.ª série, 
+n.º 93, de 14 de maio de 2012, saiu com as seguintes ine-
+xatidões que mediante declaração da entidade emitente 
+assim se retificam:
+1 — Na fórmula constante do n.º 1 do anexo à Portaria 
+n.º 140/2012, de 14 de maio, onde se lê:
+«Trefm = (PFm + PVm + PAm/(1 – LEV)»
+deve ler -se:
+«Trefm = [(PFm + PVm + PAm/(1  − LEV)]/EECm»
+2 — Na alínea  a) do n.º 10 do anexo à Portaria 
+n.º 140/2012, de 14 de maio, onde se lê:
+«a) ALBm é a média dos valores do arabian eight 
+breakeven  publicados nos dois trimestres anteriores ao 
+trimestre que inclui o mês m no Platt’ s Oilgram Price 
+Report,  expressos em dólares dos Estados Unidos da 
+América por barril;»
+deve ler -se:
+«a) ALBm é a média dos valores do arabian light 
+breakeven  publicados nos dois trimestres anteriores ao 
+trimestre que inclui o mês m no Platt’ s Oilgram Price 
+Report,  expressos em dólares dos Estados Unidos da 
+América por barril;»
+3 — Na alínea  b) do n.º 10 do anexo à Portaria 
+n.º 140/2012, de 14 de maio, onde se lê:
+«b) ALBref é a média dos valores do arabian eight 
+breakeven  publicados no último semestre de 2011 no 
+Platt’ s Oilgram Price Report,  expressos em dólares dos 
+Estados Unidos da América por barril e toma o valor de 
+USD 110,32 por barril;»
+deve ler -se:
+«b) ALBref é a média dos valores do arabian light 
+breakeven  publicados no último semestre de 2011 no Platt’ s Oilgram Price Report,  expressos em dólares dos 
+Estados Unidos da América por barril e toma o valor de 
+USD 110,67 por barril;»
+Secretaria -Geral, 6 de julho de 2012. — Pelo Secretário-
+-Geral, Ana Palmira Antunes de Almeida, Secretária -Geral-
+-Adjunta, em substituição. 
+ MINISTÉRIO DAS FINANÇAS
+Decreto-Lei n.º 142/2012
+de 11 de julho
+O presente diploma visa alterar o Decreto -Lei 
+n.º 118/2011, de 15 de dezembro, que aprova a orgânica 
+da Autoridade Tributária e Aduaneira (AT), o qual define, 
+no seu artigo 8.º, as receitas de que esta dispõe para o 
+seu funcionamento. As alterações agora introduzidas vêm flexibilizar a aplicação destas receitas.
+Por outro lado, a legislação atual prevê a afetação da re-
+ceita própria proveniente de coimas aplicadas em processos 
+de contraordenação aduaneira ao Fundo de Estabilização Aduaneiro (FEA), criado pelo Decreto -Lei n.º 274/90, de 7 de setembro, reforçando -se, pelas alterações ora intro-duzidas, esta fonte de financiamento do FEA.
+Assim:
+Nos termos da alínea  a) do n.º 1 do artigo 198.º da Cons-
+tituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente diploma procede à 1.ª alteração do Decreto-
+-Lei n.º 118/2011, de 15 de dezembro, que aprova a orgânica 
+da Autoridade Tributária e Aduaneira, bem como à 3.ª alte-
+ração do Decreto -Lei n.º 274/90, de 7 de setembro, que es-
+tabelece o regime remuneratório dos trabalhadores que in-
+tegram as carreiras do quadro de pessoal da Direção -Geral 
+das Alfândegas e dos Impostos Especiais sobre o Consumo.
+Artigo 2.º
+Alteração ao Decreto -Lei n.º 118/2011, de 15 de dezembro
+O artigo 8.º do Decreto -Lei n.º 118/2011, de 15 de de-
+zembro, passa a ter a seguinte redação:
+«Artigo 8.º
+[...]
+1 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4 — As receitas a que se refere o n.º 2 são aplicadas 
+na aquisição de bens de investimento, na aquisição de 
+serviços, na afetação a que se refere o artigo 51.º do 
+Decreto -Lei n.º 557/99, de 17 de dezembro, alterado 
+pelo Decreto -Lei n.º 212/2008, de 7 de novembro, na 
+afetação a que se refere o artigo 4.º do Decreto -Lei 
+n.º 274/90, de 7 de setembro, e, ainda, em outras des-pesas de funcionamento.
+5 — As receitas provenientes de coimas cobradas 
+em processos de contraordenação fiscal ou aduaneira 
+podem ser atribuídas a entidades que legalmente tenham 
+competência instrutória neste tipo de processos, nos 
